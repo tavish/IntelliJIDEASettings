@@ -1,0 +1,91 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1474427447190">
+        <mark key="'" line="13" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1474484468937">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/models/CreatePetRequest.json" timestamp="1472256650460">
+        <mark key="'" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/doc/waderees.me.txt" timestamp="1472256596022">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1474427629415">
+        <mark key="'" line="44" column="25" />
+      </file>
+      <file name="/fragment.java" timestamp="1474484533583">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-gateway-secure-equip/pom.xml" timestamp="1472178913048">
+        <mark key="'" line="7" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="7" column="16" filename="$USER_HOME$/code/api-gateway-secure-equip/pom.xml" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/models/CreatePetRequest.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/models/CreatePetRequest.json" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/models/CreatePetRequest.json" />
+      <jump line="4" column="24" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
+      <jump line="82" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="13" column="27" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="45" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="44" column="25" filename="$USER_HOME$/code/backend-api/pom.xml" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>set hls</text>
+      </register>
+      <register name="/" type="4">
+        <text>\chibernate</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>\chibernate</last-search>
+      <last-offset />
+      <last-pattern>\chibernate</last-pattern>
+      <last-replace />
+      <last-substitute>^\s\+</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>\.idea</entry>
+        <entry>^\s\+</entry>
+        <entry>\chibernate</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/^\s\+//ge</entry>
+        <entry>tabprev</entry>
+        <entry>set hls</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
