@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1474427447190">
         <mark key="'" line="13" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475166811011">
+      <file name="/Dummy.txt" timestamp="1475167118111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/models/CreatePetRequest.json" timestamp="1472256650460">
@@ -17,12 +17,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475166699984">
+      <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475166992786">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="18" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1474427629415">
         <mark key="'" line="49" column="25" />
@@ -49,6 +49,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/.gitignore" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
@@ -92,6 +98,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
