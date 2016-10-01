@@ -1,0 +1,11 @@
+<code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <codeStyleSettings language="JAVA">
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
