@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1475283389532">
-        <mark key="'" line="18" column="27" />
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1475448324187">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="88" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1475278227015">
         <mark key="[" line="0" column="0" />
@@ -12,12 +16,12 @@
       <file name="$USER_HOME$/code/backend-api/src/main/resources/Template.hbm.xml" timestamp="1475284049206">
         <mark key="'" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" timestamp="1475285405995">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" timestamp="1475448388509">
         <mark key="'" line="17" column="29" />
         <mark key="[" line="20" column="23" />
-        <mark key="]" line="43" column="2" />
-        <mark key="." line="43" column="2" />
-        <mark key="^" line="43" column="2" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475167824239">
         <mark key="'" line="0" column="0" />
@@ -47,7 +51,14 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1475285083391">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" timestamp="1475450579006">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="11" column="1" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1475449076011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1475279512649">
@@ -91,22 +102,59 @@
       <jump line="38" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="49" column="25" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="50" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="11" column="7" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
+      <jump line="23" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,  columnDefinition = &quot;bbb&quot;)</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
       <register name="-" type="4">
-        <text>,  columnDefinition = &quot;bbb&quot;)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>hibernate</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2Vzc2lvbkZhY3RvcnkgPSBuZXcgQW5ub3RhdGlvbkNvbmZpZ3VyYXRpb24oKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc2Vzc2lvbkZhY3RvcnkgPSBuZXcgb3JnLmhpYmVybmF0ZS5jZmcuKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmRpYWxlY3QiPm9yZy5oaWJlcm5hdGUuZGlhbGVjdC5NeVNRTERpYWxlY3Q8L3Byb3BlcnR5Pgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24ucGFzc3dvcmQiPndhZGVyZWVzPC9wcm9wZXJ0eT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmJ5dGVjb2RlLnVzZV9yZWZsZWN0aW9uX29wdGltaXplciI+ZmFsc2U8L3Byb3BlcnR5Pgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
