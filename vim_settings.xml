@@ -26,8 +26,8 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1474427629415">
-        <mark key="'" line="49" column="25" />
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1475440030832">
+        <mark key="'" line="50" column="24" />
       </file>
       <file name="$USER_HOME$/code/api-gateway-secure-equip/pom.xml" timestamp="1472178913048">
         <mark key="'" line="7" column="16" />
@@ -88,6 +88,9 @@
       <jump line="9" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" />
       <jump line="19" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" />
       <jump line="11" column="31" filename="$USER_HOME$/code/backend-api/src/main/resources/Template.hbm.xml" />
+      <jump line="38" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="49" column="25" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="50" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -103,13 +106,13 @@
         <text>,  columnDefinition = &quot;bbb&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZW5lcmF0aW9uVHlwZVw+</text>
+        <text>hibernate</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZW5lcmF0aW9uVHlwZVw+</last-search>
+      <last-search>hibernate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZW5lcmF0aW9uVHlwZVw+</last-pattern>
+      <last-pattern>hibernate</last-pattern>
       <last-replace />
       <last-substitute>^\s\+</last-substitute>
       <last-dir>1</last-dir>
@@ -122,6 +125,7 @@
         <entry>\chibernate</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZWRWYWx1ZVw+</entry>
         <entry encoding="base64">XDxHZW5lcmF0aW9uVHlwZVw+</entry>
+        <entry>hibernate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^\s\+//ge</entry>
