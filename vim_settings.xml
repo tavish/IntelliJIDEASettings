@@ -18,6 +18,14 @@
         <mark key="]" line="85" column="55" />
         <mark key="." line="85" column="55" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/wadeSwagger.yaml" timestamp="1475618922863">
+        <mark key="[" line="2644" column="20" />
+        <mark key="]" line="2644" column="20" />
+        <mark key="." line="2644" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/test/TestCategoriesPost.java" timestamp="1475619123539">
+        <mark key="'" line="85" column="43" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/Template.hbm.xml" timestamp="1475284049206">
         <mark key="'" line="11" column="31" />
       </file>
@@ -109,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="52" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="115" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="29" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
@@ -209,10 +216,11 @@
       <jump line="74" column="48" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
       <jump line="151" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
       <jump line="154" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="85" column="43" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/test/TestCategoriesPost.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBASWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>loadout_count</text>
@@ -224,34 +232,31 @@
         <text encoding="base64">ICBASWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5BVVRPKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5BVVRPKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5BVVRPKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiY29kZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5BVVRPKQo=</text>
+        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiY29kZSIpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5BVVRPKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bWFwcGluZyBjbGFzcz0iY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwuIiAvPgo=</text>
+        <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5BVVRPKQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>viewer.Viewer
-viewer.Viewer
-viewer.Viewer
-viewer.Viewer</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8bWFwcGluZyBjbGFzcz0iY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwuIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
