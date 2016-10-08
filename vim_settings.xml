@@ -3,38 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1475545462651">
-        <mark key="'" line="10" column="7" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1475278227015">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1475546393225">
-        <mark key="'" line="17" column="21" />
-        <mark key="[" line="85" column="54" />
-        <mark key="]" line="85" column="55" />
-        <mark key="." line="85" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/wadeSwagger.yaml" timestamp="1475618922863">
-        <mark key="[" line="2644" column="20" />
-        <mark key="]" line="2644" column="20" />
-        <mark key="." line="2644" column="20" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/test/TestCategoriesPost.java" timestamp="1475619123539">
         <mark key="'" line="85" column="43" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/Template.hbm.xml" timestamp="1475284049206">
-        <mark key="'" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" timestamp="1475546016110">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="69" column="40" />
       </file>
       <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475167824239">
         <mark key="'" line="0" column="0" />
@@ -43,28 +13,8 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1475885113332">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1475440030832">
         <mark key="'" line="50" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/api-gateway-secure-equip/pom.xml" timestamp="1472178913048">
-        <mark key="'" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/Viewer.hbm.xml" timestamp="1475285368618">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1475546019545">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="136" column="1" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1475546032893">
         <mark key="'" line="23" column="0" />
@@ -75,13 +25,6 @@
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/models/CreatePetRequest.json" timestamp="1472256650460">
         <mark key="'" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1475546053657">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/code/backend-api/doc/waderees.me.txt" timestamp="1472256596022">
         <mark key="[" line="0" column="0" />
@@ -105,12 +48,6 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="96" column="95" />
       </file>
-      <file name="/fragment.java" timestamp="1475279512649">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/com/equipaws/apigatewaydemo/model/category/Category.hbm.xml" timestamp="1475281009052">
-        <mark key="'" line="6" column="20" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1475546022721">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="20" column="0" />
@@ -118,9 +55,74 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="120" column="61" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1475545462651">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1475278227015">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1475546393225">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="85" column="54" />
+        <mark key="]" line="85" column="55" />
+        <mark key="." line="85" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/wadeSwagger.yaml" timestamp="1475618922863">
+        <mark key="[" line="2644" column="20" />
+        <mark key="]" line="2644" column="20" />
+        <mark key="." line="2644" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/Template.hbm.xml" timestamp="1475284049206">
+        <mark key="'" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/Action.java" timestamp="1475886461036">
+        <mark key="'" line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" timestamp="1475546016110">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="69" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1475885113332">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-gateway-secure-equip/pom.xml" timestamp="1472178913048">
+        <mark key="'" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/Viewer.hbm.xml" timestamp="1475285368618">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1475546019545">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="136" column="1" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1475546053657">
+        <mark key="'" line="58" column="2" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="14" column="21" />
+      </file>
+      <file name="/fragment.java" timestamp="1475279512649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/com/equipaws/apigatewaydemo/model/category/Category.hbm.xml" timestamp="1475281009052">
+        <mark key="'" line="6" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="50" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="59" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="68" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
@@ -220,6 +222,7 @@
       <jump line="23" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="114" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="19" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/Action.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
