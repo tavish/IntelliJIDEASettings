@@ -43,6 +43,13 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" timestamp="1476149138635">
         <mark key="'" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1476151064457">
+        <mark key="'" line="357" column="2" />
+        <mark key="[" line="349" column="9" />
+        <mark key="]" line="349" column="9" />
+        <mark key="." line="353" column="11" />
+        <mark key="^" line="349" column="9" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" timestamp="1476149456902">
         <mark key="'" line="67" column="10" />
         <mark key="[" line="108" column="6" />
@@ -56,6 +63,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="79" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" timestamp="1476150553872">
+        <mark key="[" line="84" column="5" />
+        <mark key="]" line="85" column="3" />
+        <mark key="^" line="85" column="3" />
+        <mark key="." line="85" column="3" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/models/CreatePetRequest.json" timestamp="1472256650460">
         <mark key="'" line="22" column="0" />
@@ -77,12 +90,12 @@
       <file name="/HTML File.txt.ft" timestamp="1475449076011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" timestamp="1475546500951">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="96" column="94" />
-        <mark key="]" line="96" column="95" />
-        <mark key="^" line="36" column="1" />
-        <mark key="." line="96" column="95" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" timestamp="1476150747192">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="151" column="48" />
+        <mark key="]" line="151" column="48" />
+        <mark key="^" line="121" column="17" />
+        <mark key="." line="151" column="48" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1476145995498">
         <mark key="'" line="125" column="0" />
@@ -94,11 +107,6 @@
       <file name="/dummy.sql" timestamp="1476141184513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/BackgroundHelper.java" timestamp="1476147662831">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1476140424436">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="31" column="59" />
@@ -106,7 +114,7 @@
         <mark key="^" line="31" column="57" />
         <mark key="." line="31" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476146529300">
+      <file name="/Dummy.txt" timestamp="1476150471129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1476150351252">
@@ -116,12 +124,22 @@
         <mark key="." line="265" column="9" />
         <mark key="^" line="265" column="9" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1476151333313">
+        <mark key="'" line="123" column="6" />
+        <mark key="[" line="183" column="8" />
+        <mark key="]" line="183" column="8" />
+        <mark key="." line="183" column="8" />
+        <mark key="^" line="183" column="8" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/ItemManager.java" timestamp="1476149624742">
         <mark key="'" line="88" column="2" />
         <mark key="[" line="78" column="5" />
         <mark key="]" line="79" column="3" />
         <mark key="." line="79" column="3" />
         <mark key="^" line="79" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" timestamp="1476150781943">
+        <mark key="'" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/Template.hbm.xml" timestamp="1475284049206">
         <mark key="'" line="11" column="31" />
@@ -150,8 +168,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1475885113332">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1476151419799">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="98" column="31" />
+        <mark key="^" line="59" column="5" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" timestamp="1476149416705">
         <mark key="'" line="37" column="0" />
@@ -159,6 +181,9 @@
         <mark key="]" line="118" column="57" />
         <mark key="." line="118" column="57" />
         <mark key="^" line="118" column="57" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserLoginTracker.java" timestamp="1476150762490">
+        <mark key="'" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/code/api-gateway-secure-equip/pom.xml" timestamp="1472178913048">
         <mark key="'" line="7" column="16" />
@@ -193,6 +218,13 @@
       <file name="$USER_HOME$/code/backend-api/src/main/resources/com/equipaws/apigatewaydemo/model/category/Category.hbm.xml" timestamp="1475281009052">
         <mark key="'" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" timestamp="1476150845554">
+        <mark key="'" line="73" column="12" />
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="49" column="48" />
+        <mark key="." line="49" column="48" />
+        <mark key="^" line="87" column="9" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/EquipError.java" timestamp="1476146753691">
         <mark key="'" line="15" column="2" />
       </file>
@@ -205,58 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="80" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="98" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="136" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="35" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="25" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="76" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="63" column="38" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="65" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="61" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="62" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="59" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" />
-      <jump line="14" column="28" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="14" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="48" column="19" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="108" column="41" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" />
-      <jump line="113" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="122" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="32" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="46" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="97" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="99" column="36" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="101" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="31" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="118" column="46" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="120" column="58" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
-      <jump line="119" column="46" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
       <jump line="37" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" />
       <jump line="111" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
       <jump line="67" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
@@ -305,67 +285,114 @@
       <jump line="78" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
       <jump line="317" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
       <jump line="242" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="32" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
+      <jump line="84" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="52" column="80" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="63" column="62" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="74" column="56" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="85" column="62" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="115" column="75" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="151" column="55" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="96" column="109" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="170" column="64" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserLoginTracker.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="93" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="73" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
+      <jump line="377" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
+      <jump line="150" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
+      <jump line="357" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="212" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="63" column="69" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="74" column="69" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="85" column="62" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="122" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="13" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="14" column="28" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="26" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="124" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="123" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Loadout</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XCUoXC5cd1wrXClcQDwhXHNcQDwhKClcQCE=</text>
+        <text>\s\+$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgibG9hZG91dCAiICsgaSwgKChMb2Fkb3V0KSBsb2Fkb3V0cy5nZXQoaSkpLmdldENvZGUoKSk7CgogICAgICAgICAgaXRlbSA9ICIge1widHlwZVwiOiBcImFkZFwiLFxuIiArCiAgICAgICAgICAgICIgIFwiaWRcIjogICBcIiIgKyBsb2Fkb3V0LmdldENvZGUoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICBcImZpZWxkc1wiOiB7XG4iICsKICAgICAgICAgICAgIiAgICBcIm5hbWVcIjogXCIiICsgbG9hZG91dC5nZXROYW1lKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImRlc2NyaXB0aW9uXCI6IFwiIiArIGxvYWRvdXQuZ2V0RGVzY3JpcHRpb24oKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwia2V5X3dvcmRzXCI6IFwiIiArIGxvYWRvdXQuZ2V0S2V5V29yZHMoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwiY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldENvZGUoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9jb2RlXCI6IFwiIiArIGxvYWRvdXQuZ2V0VXNlckNvZGUoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9za2lsbF9sZXZlbFwiOiBcIiIgKyAxICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJ1c2VyX2tub3dsZWRnZVwiOiBcIiIgKyAxICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJ1c2VyX2V4cGVyaWVuY2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV91cFwiOiBcIiIgKyAxICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJ2b3RlX2Rvd25cIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidmlld3NfdG90YWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwicmFua1wiOiBcIiIgKyAxICsgIlwiXG4iICsKICAgICAgICAgICAgIiAgfVxuIiArCiAgICAgICAgICAgICIgfSxcbiI7CiAgICAgICAgICB0bXAgKz0gaXRlbTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBsb2Fkb3V0MSA6IGxvYWRvdXRzKSB7CiAgICAgICAgICBsb2Fkb3V0ID0gKExvYWRvdXQpIGxvYWRvdXQxOwogICAgICAgICAgCiAgICAgICAgICBvYmplY3QuYWRkUHJvcGVydHkoImxvYWRvdXQgIiArIGksICgoTG9hZG91dCkgbG9hZG91dHMuZ2V0KGkpKS5nZXRDb2RlKCkpOwoKICAgICAgICAgIGl0ZW0gPSAiIHtcInR5cGVcIjogXCJhZGRcIixcbiIgKwogICAgICAgICAgICAiICBcImlkXCI6ICAgXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgXCJmaWVsZHNcIjoge1xuIiArCiAgICAgICAgICAgICIgICAgXCJuYW1lXCI6IFwiIiArIGxvYWRvdXQuZ2V0TmFtZSgpICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJkZXNjcmlwdGlvblwiOiBcIiIgKyBsb2Fkb3V0LmdldERlc2NyaXB0aW9uKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImtleV93b3Jkc1wiOiBcIiIgKyBsb2Fkb3V0LmdldEtleVdvcmRzKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImNvZGVcIjogXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldFVzZXJDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfc2tpbGxfbGV2ZWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9rbm93bGVkZ2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9leHBlcmllbmNlXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZvdGVfdXBcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV9kb3duXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZpZXdzX3RvdGFsXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInJhbmtcIjogXCIiICsgMSArICJcIlxuIiArCiAgICAgICAgICAgICIgIH1cbiIgKwogICAgICAgICAgICAiIH0sXG4iOwogICAgICAgICAgdG1wICs9IGl0ZW07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvYWRvdXQgbG9hZG91dDIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBsb2Fkb3V0MSA6IGxvYWRvdXRzKSB7CiAgICAgICAgICBsb2Fkb3V0ID0gKExvYWRvdXQpIGxvYWRvdXQxOwogICAgICAgICAgCiAgICAgICAgICBvYmplY3QuYWRkUHJvcGVydHkoImxvYWRvdXQgIiArIGksICgoTG9hZG91dCkgbG9hZG91dHMuZ2V0KGkpKS5nZXRDb2RlKCkpOwoKICAgICAgICAgIGl0ZW0gPSAiIHtcInR5cGVcIjogXCJhZGRcIixcbiIgKwogICAgICAgICAgICAiICBcImlkXCI6ICAgXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgXCJmaWVsZHNcIjoge1xuIiArCiAgICAgICAgICAgICIgICAgXCJuYW1lXCI6IFwiIiArIGxvYWRvdXQuZ2V0TmFtZSgpICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJkZXNjcmlwdGlvblwiOiBcIiIgKyBsb2Fkb3V0LmdldERlc2NyaXB0aW9uKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImtleV93b3Jkc1wiOiBcIiIgKyBsb2Fkb3V0LmdldEtleVdvcmRzKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImNvZGVcIjogXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldFVzZXJDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfc2tpbGxfbGV2ZWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9rbm93bGVkZ2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9leHBlcmllbmNlXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZvdGVfdXBcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV9kb3duXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZpZXdzX3RvdGFsXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInJhbmtcIjogXCIiICsgMSArICJcIlxuIiArCiAgICAgICAgICAgICIgIH1cbiIgKwogICAgICAgICAgICAiIH0sXG4iOwogICAgICAgICAgdG1wICs9IGl0ZW07CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5OwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwuY2F0ZWdvcnkuQ2F0ZWdvcnlOb2RlOwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwubG9hZG91dC5Mb2Fkb3V0TWFuYWdlcjsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLk1vZGVsQmFzZTsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLnVzZXIuVXNlck1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIExvYWRvdXQgbG9hZG91dDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuSGliZXJuYXRlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5OwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwuY2F0ZWdvcnkuQ2F0ZWdvcnlOb2RlOwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwubG9hZG91dC5Mb2Fkb3V0TWFuYWdlcjsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLk1vZGVsQmFzZTsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLnVzZXIuVXNlck1hbmFnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuUXVlcnk7CmltcG9ydCBvcmcuaGliZXJuYXRlLlRyYW5zYWN0aW9uOwppbXBvcnQgb3JnLmhpYmVybmF0ZS5TZXNzaW9uRmFjdG9yeTsKaW1wb3J0IG9yZy5oaWJlcm5hdGUuY2ZnLkNvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuSGliZXJuYXRlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XCUoXC5cd1wrXClcQDwhXHNcQDwhKClcQCE=</last-search>
+      <last-search>\s\+$</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XCUoXC5cd1wrXClcQDwhXHNcQDwhKClcQCE=</last-pattern>
-      <last-replace>\r  @Column(name = &quot;\1&quot;)\r</last-replace>
-      <last-substitute encoding="base64">XlwlKFwlKF4gIEBDb2x1bW4obmFtZSA9ICJbXiJdKiIpXG5cKVxAPCEgIHByaXZhdGUgXHdcKyBcKFx3XCtcKVw+W147XSo7XHMqJFwpXEA9</last-substitute>
+      <last-pattern>\s\+$</last-pattern>
+      <last-replace />
+      <last-substitute>\s\+$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\cadmin</entry>
-        <entry encoding="base64">XCUoInByaXZfXChcbFwpXChcd1wrXCkiLCB0aGlzXC5nZXRQcml2XClcQDw9QWRtaW5cJSgoKVwpXEA9</entry>
-        <entry encoding="base64">IHs=</entry>
-        <entry encoding="base64">XHNcQDwhIHs=</entry>
-        <entry>37</entry>
         <entry>36</entry>
         <entry encoding="base64">XCUoID0gXClcQDw9MFw+</entry>
         <entry encoding="base64">XDxjYXRlZ29yeTFcPg==</entry>
@@ -381,9 +408,13 @@
         <entry>Code</entry>
         <entry encoding="base64">XDxDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XCUoXC5cd1wrXClcQDwhXHNcQDwhKClcQCE=</entry>
+        <entry>(\w\+)\s\+</entry>
+        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XCUoXC5jcmVhdGVRdWVyeSgiW14iXSpcKVxAPD1cPFxsXCtcPg==</entry>
+        <entry>^\s*try\s*$</entry>
+        <entry>\s\+$</entry>
       </history-search>
       <history-cmd>
-        <entry>s/x/y/ge</entry>
         <entry>s/x/width/ge</entry>
         <entry>s/x/height/ge</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLlwoXGxcKVwoW14gXSpcKSA9IFwxOy9vYmplY3QuYWRkUHJvcGVydHkoIlwxXDIiLCB0aGlzLmdldFxVXDFcRVwyKCkpOy9nZQ==</entry>
@@ -402,6 +433,7 @@
         <entry>s/Admin/Create/ge</entry>
         <entry encoding="base64">JzwsJz5zL1wlKCJwcml2X1woXGxcKVwoXHdcK1wpIiwgdGhpc1wuZ2V0UHJpdlwpXEA8PUFkbWluXCUoKClcKVxAPS9cVVwxXEVcMi9nZQ==</entry>
         <entry encoding="base64">JzwsJz5zL15cJShcJSheICBAQ29sdW1uKG5hbWUgPSAiW14iXSoiKVxuXClcQDwhICBwcml2YXRlIFx3XCsgXChcd1wrXClcPlteO10qO1xzKiRcKVxAPS9cciAgQENvbHVtbihuYW1lID0gIlwxIilcci9nZQ==</entry>
+        <entry>%s/\s\+$//ge</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
