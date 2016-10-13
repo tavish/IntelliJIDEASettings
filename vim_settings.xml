@@ -43,8 +43,8 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" timestamp="1476149138635">
         <mark key="'" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1476151064457">
-        <mark key="'" line="357" column="2" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1476318677994">
+        <mark key="'" line="119" column="20" />
         <mark key="[" line="349" column="9" />
         <mark key="]" line="349" column="9" />
         <mark key="." line="353" column="11" />
@@ -195,12 +195,12 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1476146300842">
-        <mark key="'" line="41" column="35" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="44" column="37" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1476318747930">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="92" column="3" />
+        <mark key="]" line="97" column="28" />
+        <mark key="^" line="97" column="28" />
+        <mark key="." line="97" column="28" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1476146217421">
         <mark key="'" line="19" column="34" />
@@ -237,8 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
-      <jump line="67" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
       <jump line="32" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
       <jump line="46" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
       <jump line="48" column="47" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
@@ -337,6 +335,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="97" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
       <jump line="78" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="119" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -355,28 +355,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBsb2Fkb3V0MSA6IGxvYWRvdXRzKSB7CiAgICAgICAgICBsb2Fkb3V0ID0gKExvYWRvdXQpIGxvYWRvdXQxOwogICAgICAgICAgCiAgICAgICAgICBvYmplY3QuYWRkUHJvcGVydHkoImxvYWRvdXQgIiArIGksICgoTG9hZG91dCkgbG9hZG91dHMuZ2V0KGkpKS5nZXRDb2RlKCkpOwoKICAgICAgICAgIGl0ZW0gPSAiIHtcInR5cGVcIjogXCJhZGRcIixcbiIgKwogICAgICAgICAgICAiICBcImlkXCI6ICAgXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgXCJmaWVsZHNcIjoge1xuIiArCiAgICAgICAgICAgICIgICAgXCJuYW1lXCI6IFwiIiArIGxvYWRvdXQuZ2V0TmFtZSgpICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJkZXNjcmlwdGlvblwiOiBcIiIgKyBsb2Fkb3V0LmdldERlc2NyaXB0aW9uKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImtleV93b3Jkc1wiOiBcIiIgKyBsb2Fkb3V0LmdldEtleVdvcmRzKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImNvZGVcIjogXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldFVzZXJDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfc2tpbGxfbGV2ZWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9rbm93bGVkZ2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9leHBlcmllbmNlXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZvdGVfdXBcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV9kb3duXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZpZXdzX3RvdGFsXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInJhbmtcIjogXCIiICsgMSArICJcIlxuIiArCiAgICAgICAgICAgICIgIH1cbiIgKwogICAgICAgICAgICAiIH0sXG4iOwogICAgICAgICAgdG1wICs9IGl0ZW07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvYWRvdXQgbG9hZG91dDIK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBsb2Fkb3V0MSA6IGxvYWRvdXRzKSB7CiAgICAgICAgICBsb2Fkb3V0ID0gKExvYWRvdXQpIGxvYWRvdXQxOwogICAgICAgICAgCiAgICAgICAgICBvYmplY3QuYWRkUHJvcGVydHkoImxvYWRvdXQgIiArIGksICgoTG9hZG91dCkgbG9hZG91dHMuZ2V0KGkpKS5nZXRDb2RlKCkpOwoKICAgICAgICAgIGl0ZW0gPSAiIHtcInR5cGVcIjogXCJhZGRcIixcbiIgKwogICAgICAgICAgICAiICBcImlkXCI6ICAgXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgXCJmaWVsZHNcIjoge1xuIiArCiAgICAgICAgICAgICIgICAgXCJuYW1lXCI6IFwiIiArIGxvYWRvdXQuZ2V0TmFtZSgpICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJkZXNjcmlwdGlvblwiOiBcIiIgKyBsb2Fkb3V0LmdldERlc2NyaXB0aW9uKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImtleV93b3Jkc1wiOiBcIiIgKyBsb2Fkb3V0LmdldEtleVdvcmRzKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImNvZGVcIjogXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldFVzZXJDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfc2tpbGxfbGV2ZWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9rbm93bGVkZ2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9leHBlcmllbmNlXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZvdGVfdXBcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV9kb3duXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZpZXdzX3RvdGFsXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInJhbmtcIjogXCIiICsgMSArICJcIlxuIiArCiAgICAgICAgICAgICIgIH1cbiIgKwogICAgICAgICAgICAiIH0sXG4iOwogICAgICAgICAgdG1wICs9IGl0ZW07CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIExvYWRvdXQgbG9hZG91dDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5OwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwuY2F0ZWdvcnkuQ2F0ZWdvcnlOb2RlOwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwubG9hZG91dC5Mb2Fkb3V0TWFuYWdlcjsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLk1vZGVsQmFzZTsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLnVzZXIuVXNlck1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5OwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwuY2F0ZWdvcnkuQ2F0ZWdvcnlOb2RlOwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwubG9hZG91dC5Mb2Fkb3V0TWFuYWdlcjsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLk1vZGVsQmFzZTsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLnVzZXIuVXNlck1hbmFnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuSGliZXJuYXRlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -415,7 +415,6 @@
         <entry encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/x/width/ge</entry>
         <entry>s/x/height/ge</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLlwoXGxcKVwoW14gXSpcKSA9IFwxOy9vYmplY3QuYWRkUHJvcGVydHkoIlwxXDIiLCB0aGlzLmdldFxVXDFcRVwyKCkpOy9nZQ==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLlwoXGxcKVwoW14gXSpcKSA9IFwxXDI7L29iamVjdC5hZGRQcm9wZXJ0eSgiXDFcMiIsIHRoaXMuZ2V0XFVcMVxFXDIoKSk7L2dl</entry>
@@ -434,6 +433,7 @@
         <entry encoding="base64">JzwsJz5zL1wlKCJwcml2X1woXGxcKVwoXHdcK1wpIiwgdGhpc1wuZ2V0UHJpdlwpXEA8PUFkbWluXCUoKClcKVxAPS9cVVwxXEVcMi9nZQ==</entry>
         <entry encoding="base64">JzwsJz5zL15cJShcJSheICBAQ29sdW1uKG5hbWUgPSAiW14iXSoiKVxuXClcQDwhICBwcml2YXRlIFx3XCsgXChcd1wrXClcPlteO10qO1xzKiRcKVxAPS9cciAgQENvbHVtbihuYW1lID0gIlwxIilcci9nZQ==</entry>
         <entry>%s/\s\+$//ge</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
