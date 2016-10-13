@@ -10,7 +10,7 @@
         <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1476139762020">
+      <file name="/a.dummy" timestamp="1476319576230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/test/TestCategoriesPost.java" timestamp="1475619123539">
@@ -114,15 +114,14 @@
         <mark key="^" line="31" column="57" />
         <mark key="." line="31" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476151535233">
+      <file name="/Dummy.txt" timestamp="1476320131176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1476151521473">
-        <mark key="'" line="78" column="9" />
-        <mark key="[" line="265" column="9" />
-        <mark key="]" line="265" column="9" />
-        <mark key="." line="265" column="9" />
-        <mark key="^" line="265" column="9" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1476320110581">
+        <mark key="'" line="116" column="88" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1476152118795">
         <mark key="'" line="123" column="6" />
@@ -147,12 +146,10 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/Action.java" timestamp="1475886461036">
         <mark key="'" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" timestamp="1476149873444">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="86" column="5" />
-        <mark key="]" line="86" column="3" />
-        <mark key="^" line="86" column="3" />
-        <mark key="." line="86" column="3" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" timestamp="1476320067745">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1476145864176">
         <mark key="'" line="20" column="0" />
@@ -237,14 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="46" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="48" column="47" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="5" column="46" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="5" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/ItemHelper.java" />
       <jump line="32" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/ItemManager.java" />
       <jump line="88" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/ItemManager.java" />
       <jump line="33" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
@@ -254,7 +243,6 @@
       <jump line="41" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="47" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="58" column="43" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="69" column="49" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="80" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="93" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="61" column="58" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
@@ -333,68 +321,75 @@
       <jump line="123" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="114" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="97" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
-      <jump line="78" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
       <jump line="119" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="71" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="71" column="44" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="74" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="69" column="28" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="96" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="97" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="98" column="37" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="124" column="88" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" />
+      <jump line="39" column="37" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="77" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8qCiAgICAgICAgICBMaXN0PExvYWRvdXRGaW5hbD4gd3JhcHM7CiAgICAgICAgICBpZiAoKHdyYXBzID0gZ2V0TG9hZG91dEZpbmFsQnlDb2RlKHNlc3Npb24sIGxvYWRvdXQuZ2V0Q29kZSgpKSkgIT0gbnVsbCkgewogICAgICAgICAgICBmb3IgKExvYWRvdXRGaW5hbCB3cmFwIDogd3JhcHMpIHsKICAgICAgICAgICAgICB3cmFwQXJyYXkuYWRkKHdyYXAudG9Kc29uT2JqZWN0KCkpOwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</text>
+        <text encoding="base64">XDx3cmFwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgibG9hZG91dCAiICsgaSwgKChMb2Fkb3V0KSBsb2Fkb3V0cy5nZXQoaSkpLmdldENvZGUoKSk7CgogICAgICAgICAgaXRlbSA9ICIge1widHlwZVwiOiBcImFkZFwiLFxuIiArCiAgICAgICAgICAgICIgIFwiaWRcIjogICBcIiIgKyBsb2Fkb3V0LmdldENvZGUoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICBcImZpZWxkc1wiOiB7XG4iICsKICAgICAgICAgICAgIiAgICBcIm5hbWVcIjogXCIiICsgbG9hZG91dC5nZXROYW1lKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImRlc2NyaXB0aW9uXCI6IFwiIiArIGxvYWRvdXQuZ2V0RGVzY3JpcHRpb24oKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwia2V5X3dvcmRzXCI6IFwiIiArIGxvYWRvdXQuZ2V0S2V5V29yZHMoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwiY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldENvZGUoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9jb2RlXCI6IFwiIiArIGxvYWRvdXQuZ2V0VXNlckNvZGUoKSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9za2lsbF9sZXZlbFwiOiBcIiIgKyAxICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJ1c2VyX2tub3dsZWRnZVwiOiBcIiIgKyAxICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJ1c2VyX2V4cGVyaWVuY2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV91cFwiOiBcIiIgKyAxICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJ2b3RlX2Rvd25cIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidmlld3NfdG90YWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwicmFua1wiOiBcIiIgKyAxICsgIlwiXG4iICsKICAgICAgICAgICAgIiAgfVxuIiArCiAgICAgICAgICAgICIgfSxcbiI7CiAgICAgICAgICB0bXAgKz0gaXRlbTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8TG9hZG91dEZpbmFsPiB3cmFwczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8qCiAgICAgICAgICBMaXN0PExvYWRvdXRGaW5hbD4gd3JhcHM7CiAgICAgICAgICBpZiAoKHdyYXBzID0gZ2V0TG9hZG91dEZpbmFsQnlDb2RlKHNlc3Npb24sIGxvYWRvdXQuZ2V0Q29kZSgpKSkgIT0gbnVsbCkgewogICAgICAgICAgICBmb3IgKExvYWRvdXRGaW5hbCB3cmFwIDogd3JhcHMpIHsKICAgICAgICAgICAgICB3cmFwQXJyYXkuYWRkKHdyYXAudG9Kc29uT2JqZWN0KCkpOwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLyoKICAgKgogICAqLwogIC8qCiAgcHVibGljIExpc3Q8TG9hZG91dEZpbmFsPiBnZXRMb2Fkb3V0RmluYWxCeUNvZGUoU2Vzc2lvbiBzZXNzaW9uLCBTdHJpbmcgbG9hZG91dENvZGUpCiAgewogICAgUXVlcnkgcXVlcnkgPSBzZXNzaW9uLmNyZWF0ZVF1ZXJ5KCJGUk9NIExvYWRvdXRGaW5hbCBXSEVSRSBjb2RlID0gOmNvZGUgIik7CiAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoImNvZGUiLCBsb2Fkb3V0Q29kZSk7CiAgICBMaXN0IGxvYWRvdXRzID0gcXVlcnkubGlzdCgpOwogICAgcmV0dXJuIChMaXN0PExvYWRvdXRGaW5hbD4pbG9hZG91dHM7CiAgfQogICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIExpc3Q8TG9hZG91dEZpbmFsPiB3cmFwczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBsb2Fkb3V0MSA6IGxvYWRvdXRzKSB7CiAgICAgICAgICBsb2Fkb3V0ID0gKExvYWRvdXQpIGxvYWRvdXQxOwogICAgICAgICAgCiAgICAgICAgICBvYmplY3QuYWRkUHJvcGVydHkoImxvYWRvdXQgIiArIGksICgoTG9hZG91dCkgbG9hZG91dHMuZ2V0KGkpKS5nZXRDb2RlKCkpOwoKICAgICAgICAgIGl0ZW0gPSAiIHtcInR5cGVcIjogXCJhZGRcIixcbiIgKwogICAgICAgICAgICAiICBcImlkXCI6ICAgXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgXCJmaWVsZHNcIjoge1xuIiArCiAgICAgICAgICAgICIgICAgXCJuYW1lXCI6IFwiIiArIGxvYWRvdXQuZ2V0TmFtZSgpICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJkZXNjcmlwdGlvblwiOiBcIiIgKyBsb2Fkb3V0LmdldERlc2NyaXB0aW9uKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImtleV93b3Jkc1wiOiBcIiIgKyBsb2Fkb3V0LmdldEtleVdvcmRzKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImNvZGVcIjogXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldFVzZXJDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfc2tpbGxfbGV2ZWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9rbm93bGVkZ2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9leHBlcmllbmNlXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZvdGVfdXBcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV9kb3duXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZpZXdzX3RvdGFsXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInJhbmtcIjogXCIiICsgMSArICJcIlxuIiArCiAgICAgICAgICAgICIgIH1cbiIgKwogICAgICAgICAgICAiIH0sXG4iOwogICAgICAgICAgdG1wICs9IGl0ZW07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvYWRvdXQgbG9hZG91dDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5OwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwuY2F0ZWdvcnkuQ2F0ZWdvcnlOb2RlOwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwubG9hZG91dC5Mb2Fkb3V0TWFuYWdlcjsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLk1vZGVsQmFzZTsKaW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLnVzZXIuVXNlck1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBsb2Fkb3V0MSA6IGxvYWRvdXRzKSB7CiAgICAgICAgICBsb2Fkb3V0ID0gKExvYWRvdXQpIGxvYWRvdXQxOwogICAgICAgICAgCiAgICAgICAgICBvYmplY3QuYWRkUHJvcGVydHkoImxvYWRvdXQgIiArIGksICgoTG9hZG91dCkgbG9hZG91dHMuZ2V0KGkpKS5nZXRDb2RlKCkpOwoKICAgICAgICAgIGl0ZW0gPSAiIHtcInR5cGVcIjogXCJhZGRcIixcbiIgKwogICAgICAgICAgICAiICBcImlkXCI6ICAgXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgXCJmaWVsZHNcIjoge1xuIiArCiAgICAgICAgICAgICIgICAgXCJuYW1lXCI6IFwiIiArIGxvYWRvdXQuZ2V0TmFtZSgpICsgIlwiLFxuIiArCiAgICAgICAgICAgICIgICAgXCJkZXNjcmlwdGlvblwiOiBcIiIgKyBsb2Fkb3V0LmdldERlc2NyaXB0aW9uKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImtleV93b3Jkc1wiOiBcIiIgKyBsb2Fkb3V0LmdldEtleVdvcmRzKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcImNvZGVcIjogXCIiICsgbG9hZG91dC5nZXRDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfY29kZVwiOiBcIiIgKyBsb2Fkb3V0LmdldFVzZXJDb2RlKCkgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInVzZXJfc2tpbGxfbGV2ZWxcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9rbm93bGVkZ2VcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidXNlcl9leHBlcmllbmNlXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZvdGVfdXBcIjogXCIiICsgMSArICJcIixcbiIgKwogICAgICAgICAgICAiICAgIFwidm90ZV9kb3duXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInZpZXdzX3RvdGFsXCI6IFwiIiArIDEgKyAiXCIsXG4iICsKICAgICAgICAgICAgIiAgICBcInJhbmtcIjogXCIiICsgMSArICJcIlxuIiArCiAgICAgICAgICAgICIgIH1cbiIgKwogICAgICAgICAgICAiIH0sXG4iOwogICAgICAgICAgdG1wICs9IGl0ZW07CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</last-search>
+      <last-search encoding="base64">XDx3cmFwc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3cmFwc1w+</last-pattern>
       <last-replace />
-      <last-substitute>\s\+$</last-substitute>
+      <last-substitute encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XCUoID0gXClcQDw9MFw+</entry>
-        <entry encoding="base64">XDxjYXRlZ29yeTFcPg==</entry>
         <entry encoding="base64">XDx1c2VySXRlcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxjYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XHNcQDwhKA==</entry>
@@ -413,9 +408,10 @@
         <entry>^\s*try\s*$</entry>
         <entry>\s\+$</entry>
         <entry encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</entry>
+        <entry encoding="base64">XDxnZXRMb2Fkb3V0RmluYWxCeUNvZGVcPg==</entry>
+        <entry encoding="base64">XDx3cmFwc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>s/x/height/ge</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLlwoXGxcKVwoW14gXSpcKSA9IFwxOy9vYmplY3QuYWRkUHJvcGVydHkoIlwxXDIiLCB0aGlzLmdldFxVXDFcRVwyKCkpOy9nZQ==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXNcLlwoXGxcKVwoW14gXSpcKSA9IFwxXDI7L29iamVjdC5hZGRQcm9wZXJ0eSgiXDFcMiIsIHRoaXMuZ2V0XFVcMVxFXDIoKSk7L2dl</entry>
         <entry>s/user/templateType/ge</entry>
@@ -434,6 +430,7 @@
         <entry encoding="base64">JzwsJz5zL15cJShcJSheICBAQ29sdW1uKG5hbWUgPSAiW14iXSoiKVxuXClcQDwhICBwcml2YXRlIFx3XCsgXChcd1wrXClcPlteO10qO1xzKiRcKVxAPS9cciAgQENvbHVtbihuYW1lID0gIlwxIilcci9nZQ==</entry>
         <entry>%s/\s\+$//ge</entry>
         <entry>vs</entry>
+        <entry>set hls</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
