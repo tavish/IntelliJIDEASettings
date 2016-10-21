@@ -114,7 +114,7 @@
         <mark key="^" line="31" column="57" />
         <mark key="." line="31" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476320131176">
+      <file name="/Dummy.txt" timestamp="1477074321482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1476320110581">
@@ -386,7 +386,7 @@
       <last-replace />
       <last-substitute encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
