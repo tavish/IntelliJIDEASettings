@@ -38,17 +38,10 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1475440030832">
-        <mark key="'" line="50" column="24" />
+        <mark key="'" line="55" column="24" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" timestamp="1476149138635">
         <mark key="'" line="32" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1476318677994">
-        <mark key="'" line="119" column="20" />
-        <mark key="[" line="349" column="9" />
-        <mark key="]" line="349" column="9" />
-        <mark key="." line="353" column="11" />
-        <mark key="^" line="349" column="9" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" timestamp="1476149456902">
         <mark key="'" line="67" column="10" />
@@ -116,12 +109,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1477074345092">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1476320110581">
-        <mark key="'" line="116" column="88" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1476152118795">
         <mark key="'" line="123" column="6" />
@@ -191,13 +178,6 @@
         <mark key="]" line="13" column="55" />
         <mark key="^" line="14" column="54" />
         <mark key="." line="13" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1476318747930">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="92" column="3" />
-        <mark key="]" line="97" column="28" />
-        <mark key="^" line="97" column="28" />
-        <mark key="." line="97" column="28" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1476146217421">
         <mark key="'" line="19" column="34" />
