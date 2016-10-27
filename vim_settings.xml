@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" timestamp="1477599635366">
-        <mark key="'" line="67" column="85" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="21" column="26" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" timestamp="1477602187453">
+        <mark key="'" line="20" column="30" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="11" />
         <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+        <mark key="." line="46" column="11" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" timestamp="1476143570093">
         <mark key="'" line="33" column="0" />
@@ -50,8 +50,12 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" timestamp="1476149138635">
         <mark key="'" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1477598463287">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1477602277646">
         <mark key="'" line="237" column="20" />
+        <mark key="[" line="241" column="53" />
+        <mark key="]" line="241" column="53" />
+        <mark key="." line="241" column="53" />
+        <mark key="^" line="241" column="53" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" timestamp="1476149456902">
         <mark key="'" line="67" column="10" />
@@ -113,6 +117,12 @@
       <file name="/dummy.sql" timestamp="1476141184513">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1477602424221">
+        <mark key="[" line="14" column="65" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="64" />
+        <mark key="^" line="14" column="64" />
+      </file>
       <file name="/Dummy.txt" timestamp="1477585954141">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,6 +167,9 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="/hibernate.cfg.xml" timestamp="1477602046873">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1476145864176">
         <mark key="'" line="20" column="0" />
@@ -213,12 +226,12 @@
         <mark key="^" line="34" column="44" />
         <mark key="." line="34" column="44" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1477599726896">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="71" column="63" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1477602177308">
+        <mark key="'" line="71" column="15" />
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="^" line="302" column="63" />
+        <mark key="." line="302" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/ItemHelper.java" timestamp="1476149587628">
         <mark key="'" line="32" column="13" />
@@ -248,21 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
-      <jump line="170" column="64" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
-      <jump line="156" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
-      <jump line="10" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserLoginTracker.java" />
-      <jump line="37" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
-      <jump line="25" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
-      <jump line="93" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
-      <jump line="73" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" />
-      <jump line="377" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="150" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="357" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="28" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
@@ -286,7 +284,6 @@
       <jump line="114" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="119" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="71" column="44" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="74" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="69" column="28" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
@@ -348,43 +345,59 @@
       <jump line="47" column="28" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
       <jump line="49" column="33" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
       <jump line="66" column="85" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
+      <jump line="68" column="36" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="18" column="1" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="267" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="295" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="293" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="256" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="189" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="268" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="133" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="255" column="31" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="259" column="36" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="71" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="20" column="30" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>MySQLDialect</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>MySQLDialect</text>
       </register>
       <register name="/" type="4">
-        <text>\cuser.\?id</text>
+        <text>TrackedLogin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TG9hZG91dEZpbmFsPiB3cmFwczsK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmRpYWxlY3QiPm9yZy5oaWJlcm5hdGUuZGlhbGVjdC5NeVNRTERpYWxlY3Q8L3Byb3BlcnR5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAidXNlcl9pZCIpCiAgcHJpdmF0ZSBpbnQgdXNlcklkOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LQogICAgICAgIDxtYXBwaW5nIHJlc291cmNlPSJWaWV3ZXIuaGJtLnhtbCI+PC9tYXBwaW5nPgogICAgICAgIDxtYXBwaW5nIHJlc291cmNlPSJVc2VyLmhibS54bWwiPjwvbWFwcGluZz4KICAgICAgICA8bWFwcGluZyByZXNvdXJjZT0iQ2F0ZWdvcnkuaGJtLnhtbCI+PC9tYXBwaW5nPgogICAgICAgIDxtYXBwaW5nIHJlc291cmNlPSJMb2Fkb3V0LmhibS54bWwiPjwvbWFwcGluZz4KICAgICAgICA8bWFwcGluZyByZXNvdXJjZT0iVGVtcGxhdGUuaGJtLnhtbCI+PC9tYXBwaW5nPgogICAgICAgIDxtYXBwaW5nIHJlc291cmNlPSJGaW5hbC5oYm0ueG1sIj48L21hcHBpbmc+CiAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBATWFueVRvT25lKCkK</text>
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgidHJhY2tlZF9sb2dpbnMiLCB0aGlzLmdldFRyYWNrZWRMb2dpbnMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAT25lVG9NYW55KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qCiAgICAgICAgICBMaXN0PExvYWRvdXRGaW5hbD4gd3JhcHM7CiAgICAgICAgICBpZiAoKHdyYXBzID0gZ2V0TG9hZG91dEZpbmFsQnlDb2RlKHNlc3Npb24sIGxvYWRvdXQuZ2V0Q29kZSgpKSkgIT0gbnVsbCkgewogICAgICAgICAgICBmb3IgKExvYWRvdXRGaW5hbCB3cmFwIDogd3JhcHMpIHsKICAgICAgICAgICAgICB3cmFwQXJyYXkuYWRkKHdyYXAudG9Kc29uT2JqZWN0KCkpOwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLyoKICAgKgogICAqLwogIC8qCiAgcHVibGljIExpc3Q8TG9hZG91dEZpbmFsPiBnZXRMb2Fkb3V0RmluYWxCeUNvZGUoU2Vzc2lvbiBzZXNzaW9uLCBTdHJpbmcgbG9hZG91dENvZGUpCiAgewogICAgUXVlcnkgcXVlcnkgPSBzZXNzaW9uLmNyZWF0ZVF1ZXJ5KCJGUk9NIExvYWRvdXRGaW5hbCBXSEVSRSBjb2RlID0gOmNvZGUgIik7CiAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoImNvZGUiLCBsb2Fkb3V0Q29kZSk7CiAgICBMaXN0IGxvYWRvdXRzID0gcXVlcnkubGlzdCgpOwogICAgcmV0dXJuIChMaXN0PExvYWRvdXRGaW5hbD4pbG9hZG91dHM7CiAgfQogICovCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRVc2VyU3RhdHVzQmV0YSgpCiAgewogICAgcmV0dXJuIFVzZXJTdGF0dXNCZXRhOwogIH0KCiAgcHVibGljIHN0YXRpYyBTdHJpbmcgZ2V0VXNlclN0YXR1c0FjdGl2ZSgpCiAgewogICAgcmV0dXJuIFVzZXJTdGF0dXNBY3RpdmU7CiAgfQoKICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRVc2VyU3RhdHVzRGVsZXRlZCgpCiAgewogICAgcmV0dXJuIFVzZXJTdGF0dXNEZWxldGVkOwogIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIExpc3Q8TG9hZG91dEZpbmFsPiB3cmFwczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -394,21 +407,16 @@
       </register>
     </registers>
     <search>
-      <last-search>\cuser.\?id</last-search>
+      <last-search>TrackedLogin</last-search>
       <last-offset />
-      <last-pattern>\cuser.\?id</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</last-substitute>
+      <last-pattern>TrackedLogin</last-pattern>
+      <last-replace>\r\1</last-replace>
+      <last-substitute encoding="base64">XCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0ge1xAPQ==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhQ2hpbGRyZW5cPg==</entry>
-        <entry encoding="base64">XlwlKFwlKF4gIEBDb2x1bW4obmFtZSA9ICJbXiJdKiIpXG5cKVxAPCEgIHByaXZhdGUgXHdcKyBcKFx3XCtcKVw+W147XSo7XHMqJFwpXEA9</entry>
-        <entry>_w</entry>
-        <entry>Code</entry>
-        <entry encoding="base64">XDxDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XCUoXC5cd1wrXClcQDwhXHNcQDwhKClcQCE=</entry>
         <entry>(\w\+)\s\+</entry>
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
@@ -424,10 +432,13 @@
         <entry encoding="base64">XDxJbnRlZ2VyXD4=</entry>
         <entry>\clogintrack</entry>
         <entry>\cuser.\?id</entry>
+        <entry encoding="base64">IGdldFxTXCsoKSB7XG5ccypyZXR1cm4gXCUodGhpc1wuXClcQCE=</entry>
+        <entry encoding="base64">IGdldFxTXCsoKSB7XG5ccypyZXR1cm4gdGhpc1wu</entry>
+        <entry encoding="base64">XCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0gew==</entry>
+        <entry encoding="base64">XCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0ge1xAPQ==</entry>
+        <entry>TrackedLogin</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RoaXNcLlwoXGxcKVwoW14gXSpcKSA9IFwxOy9vYmplY3QuYWRkUHJvcGVydHkoIlwxXDIiLCB0aGlzLmdldFxVXDFcRVwyKCkpOy9nZQ==</entry>
-        <entry encoding="base64">JzwsJz5zL3RoaXNcLlwoXGxcKVwoW14gXSpcKSA9IFwxXDI7L29iamVjdC5hZGRQcm9wZXJ0eSgiXDFcMiIsIHRoaXMuZ2V0XFVcMVxFXDIoKSk7L2dl</entry>
         <entry>s/user/templateType/ge</entry>
         <entry>s/user\c/template_type_/ge</entry>
         <entry>s/password/username/ge</entry>
@@ -445,6 +456,8 @@
         <entry>%s/\s\+$//ge</entry>
         <entry>vs</entry>
         <entry>set hls</entry>
+        <entry encoding="base64">JXMvXCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0gey9cclwxL2dl</entry>
+        <entry encoding="base64">JXMvXCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0ge1xAPS9cclwxL2dl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
