@@ -50,13 +50,6 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1477602277646">
-        <mark key="'" line="237" column="20" />
-        <mark key="[" line="241" column="53" />
-        <mark key="]" line="241" column="53" />
-        <mark key="." line="241" column="53" />
-        <mark key="^" line="241" column="53" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" timestamp="1476149138635">
         <mark key="'" line="32" column="13" />
       </file>
@@ -116,12 +109,10 @@
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1477604489880">
         <mark key="'" line="13" column="74" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="27" column="70" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478228945856">
+      <file name="/Dummy.txt" timestamp="1478230887921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1477597671316">
@@ -161,8 +152,11 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/Action.java" timestamp="1475886461036">
         <mark key="'" line="19" column="17" />
       </file>
-      <file name="/hibernate.cfg.xml" timestamp="1477605008426">
+      <file name="/hibernate.cfg.xml" timestamp="1478230982638">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" timestamp="1476320067745">
         <mark key="[" line="65" column="0" />
@@ -218,7 +212,6 @@
         <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1477602177308">
-        <mark key="'" line="71" column="15" />
         <mark key="[" line="302" column="0" />
         <mark key="]" line="302" column="0" />
         <mark key="^" line="302" column="63" />
@@ -244,7 +237,7 @@
         <mark key="." line="32" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1477598272147">
+      <file name="/fragment.java" timestamp="1478230286456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/EquipError.java" timestamp="1476146753691">
