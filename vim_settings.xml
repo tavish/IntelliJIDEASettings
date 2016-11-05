@@ -111,7 +111,7 @@
         <mark key="." line="35" column="20" />
         <mark key="^" line="35" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478312543013">
+      <file name="/Dummy.txt" timestamp="1478374685712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1477597671316">
@@ -360,7 +360,7 @@
         <text>Loadout</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text encoding="base64">XDxvYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIExvYWRvdXQgTW9kZWxzIC0tPgo=</text>
@@ -393,22 +393,20 @@
         <text encoding="base64">ICAgICAgICA8bWFwcGluZyBjbGFzcz0iY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwudXNlci5UcmFja2VkTG9naW4iIC8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set hls</text>
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search encoding="base64">XDxvYmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern encoding="base64">XDxvYmplY3RcPg==</last-pattern>
       <last-replace encoding="base64">PHBhcmFtPlwxPFwvcGFyYW0+</last-replace>
       <last-substitute encoding="base64">PG1hcHBpbmcgY2xhc3M9IlwoW14iXSpcKSIgXC8+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\s\+$</entry>
-        <entry encoding="base64">XDxMb2Fkb3V0RmluYWxcPg==</entry>
         <entry encoding="base64">XDxnZXRMb2Fkb3V0RmluYWxCeUNvZGVcPg==</entry>
         <entry encoding="base64">XDx3cmFwc1w+</entry>
         <entry encoding="base64">XDxpbnRcPg==</entry>
@@ -427,6 +425,8 @@
         <entry>resources</entry>
         <entry>\cdialect</entry>
         <entry>target</entry>
+        <entry encoding="base64">XDxkZXRhaWxzXD4=</entry>
+        <entry encoding="base64">XDxvYmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/user\c/template_type_/ge</entry>
@@ -444,11 +444,11 @@
         <entry encoding="base64">JzwsJz5zL15cJShcJSheICBAQ29sdW1uKG5hbWUgPSAiW14iXSoiKVxuXClcQDwhICBwcml2YXRlIFx3XCsgXChcd1wrXClcPlteO10qO1xzKiRcKVxAPS9cciAgQENvbHVtbihuYW1lID0gIlwxIilcci9nZQ==</entry>
         <entry>%s/\s\+$//ge</entry>
         <entry>vs</entry>
-        <entry>set hls</entry>
         <entry encoding="base64">JXMvXCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0gey9cclwxL2dl</entry>
         <entry encoding="base64">JXMvXCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0ge1xAPS9cclwxL2dl</entry>
         <entry encoding="base64">JzwsJz5zLzxtYXBwaW5nIGNsYXNzPSJcKFteIl0qXCkiIFwvPi88cGFyYW0+XDE8XC9wYXJhbT4vZ2U=</entry>
         <entry>w</entry>
+        <entry>set hls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
