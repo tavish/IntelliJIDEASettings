@@ -46,9 +46,6 @@
       </file>
       <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1478233145717">
         <mark key="'" line="74" column="21" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" timestamp="1476149138635">
         <mark key="'" line="32" column="13" />
@@ -112,7 +109,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478230887921">
+      <file name="/Dummy.txt" timestamp="1478312543013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1477597671316">
