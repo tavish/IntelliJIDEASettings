@@ -91,8 +91,8 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1476145864176">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1478469141331">
+        <mark key="'" line="51" column="0" />
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="35" />
@@ -261,11 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="57" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="13" column="74" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="112" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="102" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="66" column="10" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="62" column="9" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="64" column="36" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="69" column="16" filename="$USER_HOME$/code/backend-api/pom.xml" />
@@ -361,6 +356,11 @@
       <jump line="75" column="33" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="77" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="124" column="44" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="13" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="34" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
