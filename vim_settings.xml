@@ -94,12 +94,12 @@
       <file name="/HTML File.txt.ft" timestamp="1475449076011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1476145995498">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="115" column="3" />
-        <mark key="^" line="34" column="42" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1478389527170">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="116" column="3" />
+        <mark key="^" line="35" column="42" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1476141184513">
         <mark key="[" line="0" column="0" />
@@ -210,7 +210,7 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478384904934">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478389513270">
         <mark key="'" line="272" column="0" />
         <mark key="[" line="302" column="0" />
         <mark key="]" line="302" column="0" />
