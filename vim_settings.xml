@@ -91,8 +91,8 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1478469141331">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1478469878520">
+        <mark key="'" line="61" column="20" />
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="35" />
@@ -261,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="9" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="64" column="36" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="69" column="16" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="98" column="29" filename="$USER_HOME$/code/backend-api/pom.xml" />
@@ -361,6 +360,7 @@
       <jump line="34" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="42" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="51" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="61" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
