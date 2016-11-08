@@ -95,11 +95,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" timestamp="1478491783527">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="36" />
+        <mark key="'" line="100" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/LoadoutEntry.java" timestamp="1478475513480">
         <mark key="'" line="132" column="0" />
@@ -211,13 +207,6 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1478484867302">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1478492157279">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="21" column="40" />
       </file>
       <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1478484449135">
         <mark key="[" line="0" column="0" />
@@ -378,13 +367,6 @@
       <file name="/AndroidManifest.txt.ft" timestamp="1478483822502">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478493228751">
-        <mark key="'" line="335" column="0" />
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
-      </file>
       <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1478484807207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -398,13 +380,6 @@
       </file>
       <file name="/Kotlin File.txt.ft" timestamp="1478483877220">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" timestamp="1478492243600">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="34" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="34" />
       </file>
       <file name="/Entity Home Interface.txt.ft" timestamp="1478484052609">
         <mark key="[" line="0" column="0" />
@@ -502,13 +477,6 @@
       </file>
       <file name="/CoffeeScript Class.txt.ft" timestamp="1478484449310">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1478491173749">
-        <mark key="'" line="21" column="23" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="54" column="18" />
-        <mark key="." line="54" column="18" />
-        <mark key="^" line="54" column="18" />
       </file>
       <file name="/Servlet Class.txt.ft" timestamp="1478484374175">
         <mark key="[" line="0" column="0" />
@@ -689,7 +657,7 @@
       <last-replace encoding="base64">XHIgIA==</last-replace>
       <last-substitute encoding="base64">XCUoW2dzXWV0XHdcKyhbXildKilcKVxAPD1ccyp7XEA9</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
