@@ -65,9 +65,9 @@
       <file name="/Implemented Method Body.txt.ft" timestamp="1478484802530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1478472712076">
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1478568755116">
         <mark key="'" line="33" column="8" />
-        <mark key="[" line="15" column="49" />
+        <mark key="[" line="17" column="48" />
         <mark key="]" line="17" column="53" />
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="53" />
@@ -164,8 +164,8 @@
       <file name="/I18nized GSP Expression with injections.txt.ft" timestamp="1478484436421">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" timestamp="1478567101342">
-        <mark key="'" line="107" column="9" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" timestamp="1478568393162">
+        <mark key="'" line="34" column="0" />
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="35" />
         <mark key="^" line="18" column="35" />
@@ -242,12 +242,12 @@
       <file name="/JavaScript File.txt.ft" timestamp="1478484444882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478566993220">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="67" column="45" />
-        <mark key="]" line="67" column="48" />
-        <mark key="^" line="67" column="48" />
-        <mark key="." line="67" column="48" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478568695049">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="66" column="48" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/AnnotationType.txt.ft" timestamp="1478484443299">
         <mark key="[" line="0" column="0" />
@@ -367,11 +367,10 @@
       <file name="/AndroidManifest.txt.ft" timestamp="1478483822502">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478567203755">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478568724699">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1478484807207">
         <mark key="[" line="0" column="0" />
@@ -386,6 +385,12 @@
       </file>
       <file name="/Kotlin File.txt.ft" timestamp="1478483877220">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" timestamp="1478567420394">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="/Entity Home Interface.txt.ft" timestamp="1478484052609">
         <mark key="[" line="0" column="0" />
@@ -433,7 +438,7 @@
       <file name="/dummy.sql" timestamp="1478494424624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478494730518">
+      <file name="/Dummy.txt" timestamp="1478568832150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Singleton.txt.ft" timestamp="1478483878592">
@@ -502,8 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
-      <jump line="38" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/contact/request/ContactRequest.java" />
       <jump line="17" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" />
       <jump line="63" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
       <jump line="170" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
@@ -602,37 +605,39 @@
       <jump line="27" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="5" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="102" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" />
+      <jump line="15" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TG9hZG91dHMoQ29sbGVjdGlvbjxMb2Fkb3V0PiBsb2Fkb3V0cykKICB7CiAgICB0aGlzLmxvYWRvdXRzID0gbG9hZG91dHM7CiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
-        <text>\ccategor</text>
+        <text encoding="base64">XDxDb2xsZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBASm9pblRhYmxlKAogICAgbmFtZSA9ICJMb2Fkb3V0X0NhdGVnb3J5IiwKICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJsb2Fkb3V0X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiLAogICAgICBmb3JlaWduS2V5ID0gQEZvcmVpZ25LZXkobmFtZSA9ICJGS19MT0FET1VUQ0FURUdPUllfTE9BRE9VVElEIikpLAogICAgaW52ZXJzZUpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJjYXRlZ29yeV9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIiwKICAgICAgZm9yZWlnbktleSA9IEBGb3JlaWduS2V5KG5hbWUgPSAiRktfTE9BRE9VVENBVEVHT1JZX0NBVEVHT1JZSUQiKSkKICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TG9hZG91dHMoQ29sbGVjdGlvbjxMb2Fkb3V0PiBsb2Fkb3V0cykKICB7CiAgICB0aGlzLmxvYWRvdXRzID0gbG9hZG91dHM7CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAT25lVG9PbmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmVudHJ5LkVudHJ5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAT25lVG9PbmUK</text>
+        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TG9hZG91dHMoQ29sbGVjdGlvbjxMb2Fkb3V0PiBsb2Fkb3V0cykKICB7CiAgICB0aGlzLmxvYWRvdXRzID0gbG9hZG91dHM7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
+        <text encoding="base64">ICBAT25lVG9PbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAT25lVG9PbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTGlzdDxFbnRyeT4gZ2V0RW50cmllcygpCiAgewogICAgcmV0dXJuIGVudHJpZXM7CiAgfQogIHB1YmxpYyB2b2lkIHNldEVudHJpZXMoTGlzdDxFbnRyeT4gZW50cmllcykKICB7CiAgICB0aGlzLmVudHJpZXMgPSBlbnRyaWVzOwogIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -653,19 +658,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgTGlzdDxFbnRyeT4gZ2V0RW50cmllcygpCiAgewogICAgcmV0dXJuIGVudHJpZXM7CiAgfQogIHB1YmxpYyB2b2lkIHNldEVudHJpZXMoTGlzdDxFbnRyeT4gZW50cmllcykKICB7CiAgICB0aGlzLmVudHJpZXMgPSBlbnRyaWVzOwogIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAT25lVG9PbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\ccategor</last-search>
+      <last-search encoding="base64">XDxDb2xsZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>\ccategor</last-pattern>
+      <last-pattern encoding="base64">XDxDb2xsZWN0aW9uXD4=</last-pattern>
       <last-replace encoding="base64">XHIgIA==</last-replace>
       <last-substitute encoding="base64">XCUoW2dzXWV0XHdcKyhbXildKilcKVxAPD1ccyp7XEA9</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eq_</entry>
         <entry encoding="base64">XDxTRVBBUkFUT1JcPg==</entry>
         <entry>\cfriends</entry>
         <entry>\cfriend</entry>
@@ -693,6 +697,7 @@
         <entry>\ctemplate</entry>
         <entry encoding="base64">XDxPbmVUb01hbnlcPg==</entry>
         <entry>\ccategor</entry>
+        <entry encoding="base64">XDxDb2xsZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/username/firstName/ge</entry>
