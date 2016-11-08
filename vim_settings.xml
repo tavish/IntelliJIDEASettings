@@ -12,6 +12,11 @@
       <file name="/Persistent Embeddable Class 3.txt.ft" timestamp="1478484039108">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" timestamp="1478494499344">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/ActionScript Class with Supers.txt.ft" timestamp="1478484448718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -346,7 +351,8 @@
       <file name="/AMD JavaScript File.txt.ft" timestamp="1478484445062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hibernate.cfg.xml" timestamp="1478628342849">
+      <file name="/hibernate.cfg.xml" timestamp="1478634189538">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
@@ -377,11 +383,6 @@
       </file>
       <file name="/Scala Worksheet.txt.ft" timestamp="1478483876933">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" timestamp="1478494499344">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Kotlin File.txt.ft" timestamp="1478483877220">
         <mark key="[" line="0" column="0" />
