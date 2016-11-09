@@ -310,8 +310,8 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" timestamp="1478710890183">
-        <mark key="'" line="108" column="8" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" timestamp="1478715676394">
+        <mark key="'" line="110" column="39" />
         <mark key="[" line="108" column="6" />
         <mark key="]" line="108" column="6" />
         <mark key="^" line="108" column="6" />
@@ -517,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="38" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="61" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="72" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
@@ -617,6 +616,7 @@
       <jump line="80" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
       <jump line="108" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
       <jump line="45" column="32" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
+      <jump line="110" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
