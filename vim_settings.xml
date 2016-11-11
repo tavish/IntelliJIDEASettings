@@ -50,7 +50,7 @@
       <file name="/Dynamic Method Body.txt.ft" timestamp="1478484796172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" timestamp="1478710093113">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" timestamp="1478894790559">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="51" />
@@ -487,8 +487,8 @@
       <file name="/CoffeeScript Class.txt.ft" timestamp="1478484449310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1478880808166">
-        <mark key="'" line="56" column="2" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1478894673098">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="16" column="0" />
@@ -505,7 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="43" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="26" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="35" column="18" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="36" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
@@ -605,6 +604,7 @@
       <jump line="67" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="56" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="37" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
