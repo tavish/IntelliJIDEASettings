@@ -247,12 +247,12 @@
       <file name="/JavaScript File.txt.ft" timestamp="1478484444882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478898230761">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478898337674">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="62" column="12" />
-        <mark key="^" line="62" column="12" />
-        <mark key="." line="62" column="12" />
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="61" column="29" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="/AnnotationType.txt.ft" timestamp="1478484443299">
         <mark key="[" line="0" column="0" />
@@ -308,12 +308,12 @@
         <mark key="^" line="108" column="6" />
         <mark key="." line="108" column="25" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1478892991363">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1478898253543">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="38" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
       <file name="/Kotlin Class.txt.ft" timestamp="1478483877338">
         <mark key="[" line="0" column="0" />
@@ -611,11 +611,11 @@
       <jump line="38" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(optional = false)</text>
       </register>
       <register name="-" type="4">
-        <text>friendsWithMe</text>
+        <text>(optional = false)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -668,7 +668,7 @@ SELECT * FROM User;</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">cy8sXEA8PVxzXCsvXHIgIC9nZQ==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -722,8 +722,8 @@ SELECT * FROM User;</text>
         <entry encoding="base64">JXMvXCUoW2dzXWV0XHdcKyhbXildKilcKVxAPD1ccyp7XEA9L1xyICAvZ2U=</entry>
         <entry>%s/\cfriend//gen</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry encoding="base64">cy8sXEA8PVxzXCsvXHIgIC9nZQ==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
