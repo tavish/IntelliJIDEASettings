@@ -247,12 +247,12 @@
       <file name="/JavaScript File.txt.ft" timestamp="1478484444882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478892971744">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478898230761">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="66" column="48" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="62" column="12" />
+        <mark key="^" line="62" column="12" />
+        <mark key="." line="62" column="12" />
       </file>
       <file name="/AnnotationType.txt.ft" timestamp="1478484443299">
         <mark key="[" line="0" column="0" />
@@ -369,10 +369,10 @@
       <file name="/AndroidManifest.txt.ft" timestamp="1478483822502">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478897029471">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478898054000">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="94" column="54" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1478484807207">
@@ -384,11 +384,12 @@
       <file name="/Kotlin File.txt.ft" timestamp="1478483877220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" timestamp="1478567420394">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="^" line="19" column="1" />
-        <mark key="." line="19" column="1" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" timestamp="1478898197010">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="33" />
       </file>
       <file name="/Entity Home Interface.txt.ft" timestamp="1478484052609">
         <mark key="[" line="0" column="0" />
@@ -508,12 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="34" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="107" column="55" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="111" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="121" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="127" column="34" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="130" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="154" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="156" column="30" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="158" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
@@ -608,44 +603,48 @@
       <jump line="22" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="32" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="19" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
+      <jump line="24" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
+      <jump line="34" column="33" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>friendsWithMe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>FROM Category WHERE parent IS NULL</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgQE1hbnlUb01hbnkobWFwcGVkQnkgPSAiZnJpZW5kcyIpCiAgcHJpdmF0ZSBMaXN0PFVzZXI+IGZyaWVuZHNXaXRoTWUgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>UPDATE User u SET u.status = 1 WHERE u.status = 'active';
-
-SELECT * FROM User;</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ic2hvd19zcWwiPnRydWU8L3Byb3BlcnR5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>select * from User;
+        <text>UPDATE User u SET u.status = 1 WHERE u.status = 'active';
 
-DESC User;gg</text>
+SELECT * FROM User;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -663,10 +662,10 @@ DESC User;gg</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmVudHJ5LkVudHJ5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8sXEA8PVxzXCsvXHIgIC9nZQ==</text>
