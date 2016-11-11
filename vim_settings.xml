@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" timestamp="1478488033112">
-        <mark key="'" line="33" column="2" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="/Persistent Embeddable Class 3.txt.ft" timestamp="1478484039108">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,12 +136,6 @@
         <mark key="." line="32" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/contact/request/ContactRequest.java" timestamp="1478488009544">
-        <mark key="'" line="38" column="2" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="/Builder" timestamp="1478486921694">
         <mark key="[" line="0" column="0" />
       </file>
@@ -256,7 +244,7 @@
       <file name="/JavaScript File.txt.ft" timestamp="1478484444882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478568695049">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1478881515553">
         <mark key="'" line="151" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -378,7 +366,7 @@
       <file name="/AndroidManifest.txt.ft" timestamp="1478483822502">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478647840400">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1478881358305">
         <mark key="'" line="246" column="47" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
