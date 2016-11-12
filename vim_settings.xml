@@ -163,8 +163,12 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1478983629883">
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1478987164745">
         <mark key="'" line="2" column="61" />
+        <mark key="[" line="77" column="23" />
+        <mark key="]" line="77" column="26" />
+        <mark key="." line="77" column="26" />
+        <mark key="^" line="77" column="26" />
       </file>
       <file name="/Gradle Build Script.txt.ft" timestamp="1478484449056">
         <mark key="[" line="0" column="0" />
@@ -596,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slots</text>
+        <text>0.41-beta</text>
       </register>
       <register name="-" type="4">
-        <text>slots</text>
+        <text>0.41-beta</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2Fkb3V0c1w+</text>
@@ -608,13 +612,13 @@
         <text encoding="base64">CiAgQE1hbnlUb01hbnkobWFwcGVkQnkgPSAiaXRlbXMiKQogIHByaXZhdGUgTGlzdDxTbG90PiBzbG90cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0LWRlcDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC4xMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBATWFueVRvTWFueShtYXBwZWRCeSA9ICJpdGVtcyIpCiAgcHJpdmF0ZSBMaXN0PENhdGVnb3J5PiBzbG90cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATWFueVRvTWFueShtYXBwZWRCeSA9ICJpdGVtcyIpCiAgcHJpdmF0ZSBMaXN0PENhdGVnb3J5PiBzbG90cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -626,7 +630,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -644,10 +648,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgdGhpcy5zbG90cyA9IHNsb3RzOwogIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgdGhpcy5zbG90cyA9IHNsb3RzOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
