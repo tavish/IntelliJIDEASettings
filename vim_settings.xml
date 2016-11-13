@@ -166,8 +166,8 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1478994177014">
-        <mark key="'" line="78" column="8" />
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1478996000850">
+        <mark key="'" line="57" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
@@ -222,8 +222,8 @@
       <file name="/EquipIt (Builder) Default" timestamp="1478486921707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1478995264281">
-        <mark key="'" line="103" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1478995861049">
+        <mark key="'" line="51" column="17" />
         <mark key="[" line="60" column="23" />
         <mark key="]" line="60" column="23" />
         <mark key="." line="60" column="23" />
@@ -505,10 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="60" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="53" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="73" column="5" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="77" column="5" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="81" column="5" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
@@ -567,7 +563,6 @@
       <jump line="46" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
       <jump line="26" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="50" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="42" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="2" column="61" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="53" column="54" filename="$USER_HOME$/code/backend-api/pom.xml" />
@@ -605,6 +600,11 @@
       <jump line="20" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="103" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="49" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="44" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="51" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -614,7 +614,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2FkQmFsYW5jaW5nQ29ubmVjdGlvblByb3h5XD4=</text>
+        <text encoding="base64">XDxwYXJzZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4xMjwvdmVyc2lvbj4K</text>
@@ -662,13 +662,13 @@
         <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjQuMTE8L3ZlcnNpb24+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set hls?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2FkQmFsYW5jaW5nQ29ubmVjdGlvblByb3h5XD4=</last-search>
+      <last-search encoding="base64">XDxwYXJzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2FkQmFsYW5jaW5nQ29ubmVjdGlvblByb3h5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZXJcPg==</last-pattern>
       <last-replace encoding="base64">XHIgIA==</last-replace>
       <last-substitute encoding="base64">LFxAPD1cc1wr</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hibernate_show_sql</entry>
         <entry encoding="base64">XDxnZXRDYXRlZ29yeUJ5Q29kZVw+</entry>
         <entry encoding="base64">XDxjYXRlZ29yeUNvZGVcPg==</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
@@ -696,9 +695,9 @@
         <entry encoding="base64">PGdyb3VwSWQ+b3JnXC5hcGFjaGVcLm1hdmVuXC5wbHVnaW5z</entry>
         <entry>1\.7</entry>
         <entry encoding="base64">XDxMb2FkQmFsYW5jaW5nQ29ubmVjdGlvblByb3h5XD4=</entry>
+        <entry encoding="base64">XDxwYXJzZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Admin/Update/ge</entry>
         <entry>s/Admin/Delete/ge</entry>
         <entry>s/Admin/Create/ge</entry>
         <entry encoding="base64">JzwsJz5zL1wlKCJwcml2X1woXGxcKVwoXHdcK1wpIiwgdGhpc1wuZ2V0UHJpdlwpXEA8PUFkbWluXCUoKClcKVxAPS9cVVwxXEVcMi9nZQ==</entry>
@@ -718,6 +717,7 @@
         <entry>set all</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>w</entry>
+        <entry>set hls?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
