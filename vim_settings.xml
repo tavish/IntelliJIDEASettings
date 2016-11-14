@@ -87,6 +87,9 @@
       <file name="/Overridden Method Body.txt.ft" timestamp="1478484711212">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/Action.java" timestamp="1479096785716">
+        <mark key="'" line="32" column="9" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1478492188342">
         <mark key="'" line="69" column="2" />
         <mark key="[" line="17" column="26" />
@@ -151,8 +154,8 @@
         <mark key="^" line="49" column="3" />
         <mark key="." line="49" column="59" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" timestamp="1479095051930">
-        <mark key="'" line="72" column="8" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" timestamp="1479095547934">
+        <mark key="'" line="81" column="51" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="5" />
         <mark key="." line="88" column="5" />
@@ -214,12 +217,12 @@
       <file name="/HTML File.txt.ft" timestamp="1478484867302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1478901720863">
-        <mark key="'" line="50" column="24" />
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="53" column="25" />
-        <mark key="^" line="53" column="25" />
-        <mark key="." line="53" column="25" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1479096731516">
+        <mark key="'" line="162" column="29" />
+        <mark key="[" line="170" column="11" />
+        <mark key="]" line="170" column="11" />
+        <mark key="^" line="170" column="39" />
+        <mark key="." line="170" column="11" />
       </file>
       <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1478484449135">
         <mark key="[" line="0" column="0" />
@@ -239,8 +242,8 @@
       <file name="/EquipIt (Builder) Default" timestamp="1478486921707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1479093713973">
-        <mark key="'" line="67" column="23" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1479096793606">
+        <mark key="'" line="107" column="27" />
         <mark key="[" line="36" column="25" />
         <mark key="]" line="37" column="1" />
         <mark key="^" line="37" column="1" />
@@ -316,18 +319,12 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" timestamp="1478715676394">
-        <mark key="'" line="110" column="39" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" timestamp="1479096371849">
+        <mark key="'" line="110" column="41" />
         <mark key="[" line="108" column="6" />
         <mark key="]" line="108" column="6" />
         <mark key="^" line="108" column="6" />
         <mark key="." line="108" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1478901399328">
-        <mark key="'" line="120" column="23" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
       </file>
       <file name="/Kotlin Class.txt.ft" timestamp="1478483877338">
         <mark key="[" line="0" column="0" />
@@ -358,8 +355,8 @@
       <file name="/SCSS File.txt.ft" timestamp="1478483878005">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1478708681868">
-        <mark key="'" line="181" column="4" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1479095536747">
+        <mark key="'" line="109" column="15" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="95" column="2" />
         <mark key="." line="95" column="2" />
@@ -524,27 +521,17 @@
       <file name="/context_5_0.txt.ft" timestamp="1478484029344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1479094113690">
+      <file name="/fragment.java" timestamp="1479095745262">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" timestamp="1479092357896">
         <mark key="'" line="27" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="80" column="45" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="28" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="82" column="51" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="5" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="27" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="115" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="103" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="105" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="90" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="68" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="42" column="55" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="76" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="71" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
@@ -632,54 +619,53 @@
       <jump line="174" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="31" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" />
       <jump line="15" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
+      <jump line="100" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="32" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="108" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="109" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="81" column="51" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
+      <jump line="38" column="0" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class" />
+      <jump line="146" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
+      <jump line="110" column="41" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryNode.java" />
+      <jump line="162" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
+      <jump line="46" column="51" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="64" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="32" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/Action.java" />
+      <jump line="107" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inner</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>inner</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>jdbc</text>
+        <text encoding="base64">XDx0YWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CnNlbGVjdAogIGNoaWxkcmVuMF8ucGFyZW50X2lkIGFzIHBhcmVudF9pN18yXzBfLAogIGNoaWxkcmVuMF8uaWQgYXMgaWQxXzJfMF8sCiAgY2hpbGRyZW4wXy5pZCBhcyBpZDFfMl8xXywKICBjaGlsZHJlbjBfLmNoaWxkX2NvdW50IGFzIGNoaWxkX2NvMl8yXzFfLAogIGNoaWxkcmVuMF8uY29kZSBhcyBjb2RlM18yXzFfLAogIGNoaWxkcmVuMF8ubG9hZG91dF9jb3VudCBhcyBsb2Fkb3V0XzRfMl8xXywKICBjaGlsZHJlbjBfLm5hbWUgYXMgbmFtZTVfMl8xXywKICBjaGlsZHJlbjBfLnBhcmVudF9pZCBhcyBwYXJlbnRfaTdfMl8xXywKICBjaGlsZHJlbjBfLnBhdGggYXMgcGF0aDZfMl8xXwpmcm9tIENhdGVnb3J5IGNoaWxkcmVuMF8KaW5uZXIgam9pbiBDYXRlZ29yeSBjIG9uIGNoaWxkcmVuMF8ucGFyZW50X2lkID0gYy5pZAp3aGVyZSBjLnBhcmVudF9pZCBpcyBudWxsOwojIHdoZXJlIGNoaWxkcmVuMF8ucGFyZW50X2lkPT87Cg==</text>
+        <text encoding="base64">ICAgICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>select
-  children0_.parent_id as parent_i7_2_0_,
-  children0_.id as id1_2_0_,
-  children0_.id as id1_2_1_,
-  children0_.child_count as child_co2_2_1_,
-  children0_.code as code3_2_1_,
-  children0_.loadout_count as loadout_4_2_1_,
-  children0_.name as name5_2_1_,
-  children0_.parent_id as parent_i7_2_1_,
-  children0_.path as path6_2_1_
-from Category children0_
-left outer join Category c on children0_.parent_id = c.id
-where c.parent_id is null
-and children0_.;
-# where children0_.parent_id=?;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCiAgICAgIHJldHVybiBqc29uT2JqZWN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIAo=</text>
+        <text encoding="base64">ICAgICAgSnNvblBhcnNlciBqc29uUGFyc2VyOwogICAgICBKc29uRWxlbWVudCBqc29uRWxlbWVudDsKICAgICAgSnNvbk9iamVjdCBqc29uT2JqZWN0OwogICAgICBHc29uIGdzb247Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uT2JqZWN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgICBqc29uT2JqZWN0ID0ganNvblBhcnNlci5wYXJzZShnc29uLnRvSnNvbih0aGlzKSkuZ2V0QXNKc29uT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgSnNvbk9iamVjdCBqc29uT2JqZWN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMubGFtYmRhLnJ1bnRpbWUuQ29udGV4dDsKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAganNvblBhcnNlciA9IG5ldyBKc29uUGFyc2VyKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -697,19 +683,19 @@ and children0_.;
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlcXVlc3RSb3V0ZXIgcmVxdWVzdFJvdXRlciA9IG5ldyBSZXF1ZXN0Um91dGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jdbc</last-search>
+      <last-search encoding="base64">XDx0YWdcPg==</last-search>
       <last-offset />
-      <last-pattern>jdbc</last-pattern>
+      <last-pattern encoding="base64">XDx0YWdcPg==</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -717,8 +703,6 @@ and children0_.;
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
-        <entry encoding="base64">XCUoIlxAPD1hY3Rpb24iXEA9XClcQCFcPGFjdGlvblw+</entry>
         <entry encoding="base64">XCUoXlxzKlwlKFwvXC9cfFwvXD9cKlwpLipcKVxAPCFcJSgiXEA8PWFjdGlvbiJcQD1cKVxAIVw8YWN0aW9uXD4=</entry>
         <entry encoding="base64">XCUoXlxzKlwlKFwvXC9cfFwvXD9cKlwpLipcKVxAPCFcJShcJSgiW14iXSpcKVxAPD1hY3Rpb25cJShbXiJdKiJcKVxAPVwpXEAhXDxhY3Rpb25cPg==</entry>
         <entry encoding="base64">XCUoXlxzKlwlKFwlKFwvXC9cfFwvXD9cKlwpXHxpbXBvcnRcPlwpLipcKVxAPCFcJShcJSgiW14iXSpcKVxAPD1hY3Rpb25cJShbXiJdKiJcKVxAPVwpXEAhXDxhY3Rpb25cPg==</entry>
@@ -737,6 +721,8 @@ and children0_.;
         <entry encoding="base64">XDxtb2NrQ29udGV4dFw+</entry>
         <entry>\cparent</entry>
         <entry>jdbc</entry>
+        <entry encoding="base64">XDxiYXNlQXJyYXlcPg==</entry>
+        <entry encoding="base64">XDx0YWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wlKCJwcml2X1woXGxcKVwoXHdcK1wpIiwgdGhpc1wuZ2V0UHJpdlwpXEA8PUFkbWluXCUoKClcKVxAPS9cVVwxXEVcMi9nZQ==</entry>
