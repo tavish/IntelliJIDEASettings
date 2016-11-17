@@ -158,6 +158,7 @@
       <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1478484448549">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" timestamp="1479409675185" />
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" timestamp="1479159717099">
         <mark key="'" line="36" column="50" />
         <mark key="[" line="88" column="0" />
@@ -182,12 +183,11 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1479091930705">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="80" column="11" />
-        <mark key="." line="80" column="11" />
-        <mark key="^" line="80" column="11" />
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1479419424846">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/Gradle Build Script.txt.ft" timestamp="1478484449056">
         <mark key="[" line="0" column="0" />
@@ -562,9 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/beta/request/BetaRequest.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
-      <jump line="192" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="161" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="216" column="50" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="89" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
@@ -662,13 +659,16 @@
       <jump line="5" column="17" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
       <jump line="30" column="3" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
       <jump line="17" column="16" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="64" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Y2xhc3NpZmllcj5ub19hb3A8L2NsYXNzaWZpZXI+CiAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Test;</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZnRlclw+</text>
@@ -677,25 +677,25 @@
         <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Y2xhc3NpZmllcj5ub19hb3A8L2NsYXNzaWZpZXI+CiAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Y2xhc3NpZmllcj5ub19hb3A8L2NsYXNzaWZpZXI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRTdGFja1RyYWNlKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVyZTEiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZXJlNCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1sb2c0ajEyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjcuMTU8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZXJlMyIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -713,10 +713,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVyZTIiKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uT2JqZWN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -729,7 +729,7 @@
       <last-replace>\u\1</last-replace>
       <last-substitute encoding="base64">XCUoInByaXZfXChcd1wrXCkiLCB0aGlzXC5nZXRQcml2XClcQDw9XCUoKClcKVxAPQ==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
