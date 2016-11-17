@@ -5,17 +5,11 @@
       <mark key="M" line="9" column="22" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" />
     </globalmarks>
     <filemarks>
-      <file name="/Persistent Embeddable Class 3.txt.ft" timestamp="1478484039108">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" timestamp="1479165409607">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="68" column="23" />
-      </file>
-      <file name="/File Header.txt.ft" timestamp="1478993343050">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" timestamp="1479094898848">
         <mark key="'" line="27" column="0" />
@@ -24,20 +18,12 @@
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="9" />
       </file>
-      <file name="/ActionScript Class with Supers.txt.ft" timestamp="1478484448718">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1479165100260">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Script.txt.ft" timestamp="1478483876408">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/rest.webservice.txt.ft" timestamp="1478484402323">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Entity Bean Class CMP 1x.txt.ft" timestamp="1478484052278">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" timestamp="1479423833810">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475167824239">
         <mark key="'" line="0" column="0" />
@@ -46,15 +32,6 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Interface.txt.ft" timestamp="1478483881677">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Implemented Scala Method Body.txt.ft" timestamp="1478484806710">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dynamic Method Body.txt.ft" timestamp="1478484796172">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" timestamp="1479159718771">
         <mark key="'" line="21" column="44" />
         <mark key="[" line="37" column="18" />
@@ -62,33 +39,12 @@
         <mark key="^" line="37" column="43" />
         <mark key="." line="37" column="43" />
       </file>
-      <file name="/Flex 3 Component.txt.ft" timestamp="1478484448889">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/CoffeeScript File.txt.ft" timestamp="1478484449223">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Implemented Method Body.txt.ft" timestamp="1478484802530">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1479095229845">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="8" column="69" />
         <mark key="]" line="8" column="71" />
         <mark key="." line="8" column="71" />
         <mark key="^" line="8" column="71" />
-      </file>
-      <file name="/Kotlin Enum.txt.ft" timestamp="1478483877478">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/IntelliJ Default" timestamp="1478487001516">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Stylus File.txt.ft" timestamp="1478483878137">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Overridden Method Body.txt.ft" timestamp="1478484711212">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/Action.java" timestamp="1479096785716">
         <mark key="'" line="32" column="9" />
@@ -99,9 +55,6 @@
         <mark key="]" line="72" column="17" />
         <mark key="^" line="68" column="23" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="/New Method Body.txt.ft" timestamp="1478484877311">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" timestamp="1479165442457">
         <mark key="'" line="6" column="0" />
@@ -117,30 +70,6 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="/Kotlin Interface.txt.ft" timestamp="1478483877609">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Servlet Annotated Class.txt.ft" timestamp="1478484379573">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Sass File.txt.ft" timestamp="1478483877866">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Filter Class.txt.ft" timestamp="1478484380295">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ActionScript Interface.txt.ft" timestamp="1478484448795">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Message Driven Bean Class.txt.ft" timestamp="1478484019018">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ColdFusion Script Interface.txt.ft" timestamp="1478484448588">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Filter Annotated Class.txt.ft" timestamp="1478484380010">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerManager.java" timestamp="1477597694029">
         <mark key="'" line="31" column="24" />
         <mark key="[" line="32" column="22" />
@@ -151,12 +80,6 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/contact/request/ContactRequest.java" timestamp="1479165426618">
         <mark key="'" line="6" column="0" />
         <mark key="^" line="95" column="52" />
-      </file>
-      <file name="/Builder" timestamp="1478486921694">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1478484448549">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" timestamp="1479409675185" />
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" timestamp="1479159717099">
@@ -173,9 +96,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="123" column="53" />
       </file>
-      <file name="/I18nized GSP Expression with injections.txt.ft" timestamp="1478484436421">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" timestamp="1478568393162">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="18" column="31" />
@@ -183,18 +103,12 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1479422118711">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-      </file>
-      <file name="/Gradle Build Script.txt.ft" timestamp="1478484449056">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Play 2 template.scala.txt.ft" timestamp="1478483877074">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1479423770169">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ErrorBase.java" timestamp="1478488091013">
         <mark key="'" line="11" column="13" />
@@ -206,21 +120,12 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="/ColdFusion Script Component.txt.ft" timestamp="1478484448568">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/util/HibernateUtil.java" timestamp="1475450579006">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="8" />
         <mark key="." line="17" column="8" />
         <mark key="^" line="11" column="1" />
-      </file>
-      <file name="/Session Bean Class Singleton.txt.ft" timestamp="1478484019182">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1478484867302">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1479166282019">
         <mark key="'" line="0" column="0" />
@@ -229,23 +134,8 @@
         <mark key="^" line="174" column="19" />
         <mark key="." line="174" column="19" />
       </file>
-      <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1478484449135">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ColdFusion Tag Component.txt.ft" timestamp="1478484448278">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/links/category/LoadoutCategoryLinkHelper.java" timestamp="1478478111889">
         <mark key="'" line="40" column="4" />
-      </file>
-      <file name="/package-info.txt.ft" timestamp="1478484443489">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Listener Class.txt.ft" timestamp="1478484381221">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/EquipIt (Builder) Default" timestamp="1478486921707">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1479096793606">
         <mark key="'" line="107" column="27" />
@@ -254,17 +144,8 @@
         <mark key="^" line="37" column="1" />
         <mark key="." line="37" column="1" />
       </file>
-      <file name="/tsconfig.json.txt.ft" timestamp="1478484445401">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0.jar!/com/amazonaws/services/lambda/runtime/Context.class" timestamp="1479004861817">
         <mark key="'" line="11" column="17" />
-      </file>
-      <file name="/process.4.4.jpdl.txt.ft" timestamp="1478483857911">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript File.txt.ft" timestamp="1478484444882">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1479165436123">
         <mark key="'" line="10" column="0" />
@@ -273,15 +154,6 @@
         <mark key="^" line="221" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/AnnotationType.txt.ft" timestamp="1478484443299">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/EquipIt Default (IntelliJ)" timestamp="1478486934261">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/web.2_2.txt.ft" timestamp="1478484386951">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/BackgroundManager.java" timestamp="1476147759198">
         <mark key="'" line="65" column="3" />
         <mark key="[" line="65" column="3" />
@@ -289,33 +161,12 @@
         <mark key="." line="65" column="2" />
         <mark key="^" line="65" column="2" />
       </file>
-      <file name="/MobileResourceBundle.txt.ft" timestamp="1478483878459">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Trait.txt.ft" timestamp="1478483876114">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/users/UsersGet.java" timestamp="1479159763322">
         <mark key="'" line="30" column="32" />
         <mark key="[" line="41" column="62" />
         <mark key="]" line="41" column="13" />
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
-      </file>
-      <file name="/Message Driven Bean Class 3.txt.ft" timestamp="1478484049651">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/persistence.txt.ft" timestamp="1478483835374">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JUnit3 TearDown Method.txt.ft" timestamp="1478484874093">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/XSLT Stylesheet.txt.ft" timestamp="1478483878728">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Flex 4 Component.txt.ft" timestamp="1478484448972">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1479159776385">
         <mark key="'" line="21" column="42" />
@@ -344,15 +195,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="158" column="43" />
       </file>
-      <file name="/Kotlin Class.txt.ft" timestamp="1478483877338">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Catch Statement Body.txt.ft" timestamp="1478484796962">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1478484795429">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" timestamp="1479159783369">
         <mark key="'" line="36" column="13" />
       </file>
@@ -362,9 +204,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1478484437985">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1479163564747">
         <mark key="'" line="121" column="16" />
         <mark key="[" line="218" column="53" />
@@ -372,15 +211,12 @@
         <mark key="." line="218" column="58" />
         <mark key="^" line="218" column="58" />
       </file>
-      <file name="/SCSS File.txt.ft" timestamp="1478483878005">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1479159722857">
-        <mark key="'" line="32" column="38" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="95" column="2" />
-        <mark key="." line="95" column="2" />
-        <mark key="^" line="95" column="1" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1479424405186">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/ItemManager.java" timestamp="1476149624742">
         <mark key="'" line="88" column="2" />
@@ -389,39 +225,12 @@
         <mark key="." line="79" column="3" />
         <mark key="^" line="79" column="3" />
       </file>
-      <file name="/AMD JavaScript File.txt.ft" timestamp="1478484445062">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Object.txt.ft" timestamp="1478483876271">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Arquillian TestNG Test Class.txt.ft" timestamp="1478484795709">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Package Object.txt.ft" timestamp="1478483876798">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1478990968217">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/AndroidManifest.txt.ft" timestamp="1478483822502">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" timestamp="1479165413153">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="363" column="46" />
-      </file>
-      <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1478484807207">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Worksheet.txt.ft" timestamp="1478483876933">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Kotlin File.txt.ft" timestamp="1478483877220">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" timestamp="1479165427517">
         <mark key="'" line="8" column="0" />
@@ -430,15 +239,6 @@
         <mark key="^" line="87" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Entity Home Interface.txt.ft" timestamp="1478484052609">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/I18nized JSP Expression.txt.ft" timestamp="1478484435939">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/XML Properties File.txt.ft" timestamp="1478484444702">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/links/category/LoadoutCategoryLink.java" timestamp="1478476305862">
         <mark key="'" line="64" column="2" />
         <mark key="[" line="15" column="15" />
@@ -446,50 +246,20 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="/JavaFXApplication.txt.ft" timestamp="1478483878284">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar!/com/google/gson/FieldAttributes.class" timestamp="1479098564705">
         <mark key="'" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" timestamp="1479159382575">
         <mark key="'" line="29" column="36" />
       </file>
-      <file name="/Scala Class.txt.ft" timestamp="1478484449784">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Persistent Entity Class 3.txt.ft" timestamp="1478484039890">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Entity Bean Class BMP.txt.ft" timestamp="1478484050676">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ActionScript Class.txt.ft" timestamp="1478484448628">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/EnterpriseBean Interceptor 3.txt.ft" timestamp="1478484049483">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Less File.txt.ft" timestamp="1478483877744">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Session Service Endpoint Interface.txt.ft" timestamp="1478484020434">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Entity Bean Class CMP 2x.txt.ft" timestamp="1478484052445">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1478644621174">
-        <mark key="[" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" timestamp="1479423852522">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1479166446120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
-      </file>
-      <file name="/Singleton.txt.ft" timestamp="1478483878592">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/LoginTrack.java" timestamp="1477598616587">
         <mark key="'" line="14" column="13" />
@@ -498,20 +268,11 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="/TypeScript File.txt.ft" timestamp="1478484445231">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" timestamp="1479424378356">
+        <mark key="'" line="33" column="43" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/links/category/LoadoutCategoryLinkManager.java" timestamp="1478478084155">
         <mark key="'" line="44" column="4" />
-      </file>
-      <file name="/ColdFusion File.txt.ft" timestamp="1478484447774">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/EJB Local Interface.txt.ft" timestamp="1478484052946">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Entity Local Home Interface.txt.ft" timestamp="1478484052811">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/Viewer.hbm.xml" timestamp="1476147250803">
         <mark key="'" line="6" column="20" />
@@ -527,27 +288,12 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="/Enum.txt.ft" timestamp="1478484442535">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1478483882688">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/CoffeeScript Class.txt.ft" timestamp="1478484449310">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1479165432720">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="175" column="53" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Servlet Class.txt.ft" timestamp="1478484374175">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/context_5_0.txt.ft" timestamp="1478484029344">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1479423948252">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1479096995721">
         <mark key="[" line="0" column="0" />
@@ -563,30 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
-      <jump line="197" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
-      <jump line="25" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
-      <jump line="138" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="34" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="47" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="50" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="198" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="159" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="157" column="41" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/beta/request/BetaRequest.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
-      <jump line="26" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="25" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="330" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="127" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="31" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="98" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="79" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
@@ -663,40 +385,64 @@
       <jump line="64" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="80" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="79" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="76" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="81" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="71" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="146" column="44" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="73" column="11" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="51" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="18" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="109" column="4" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="11" column="5" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
+      <jump line="265" column="0" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="190" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="170" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="15" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="50" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="81" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="33" column="43" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
+      <jump line="28" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZnRlclw+</text>
+        <text encoding="base64">XDxRdWVyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5pbmplY3QuZXh0ZW5zaW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VpY2UtZ3JhcGhlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC4xLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uT2JqZWN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtLT4K</text>
+        <text encoding="base64">ICAgICAgICA8cHJvamVjdD48L3Byb2plY3Q+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvamVjdD48L3Byb2plY3Q+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Y2xhc3NpZmllcj5ub19hb3A8L2NsYXNzaWZpZXI+CiAgICAgICAgICAgIC0tPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Y2xhc3NpZmllcj5ub19hb3A8L2NsYXNzaWZpZXI+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB0YXZpc2ggb24gMTEvMTcvMTYuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Z3VpY2UuYXBpLnZlcnNpb248L2d1aWNlLmFwaS52ZXJzaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -714,30 +460,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1sb2c0ajEyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjcuMTU8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Y2xhc3NpZmllcj5ub19hb3A8L2NsYXNzaWZpZXI+CiAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZnRlclw+</last-search>
+      <last-search encoding="base64">XDxRdWVyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZnRlclw+</last-pattern>
-      <last-replace>\u\1</last-replace>
-      <last-substitute encoding="base64">XCUoInByaXZfXChcd1wrXCkiLCB0aGlzXC5nZXRQcml2XClcQDw9XCUoKClcKVxAPQ==</last-substitute>
+      <last-pattern encoding="base64">XDxRdWVyeVw+</last-pattern>
+      <last-replace>\${guice.version}</last-replace>
+      <last-substitute encoding="base64">XCUoPHZlcnNpb24+XClcQDw9NFwuMVwuMFwlKDxcL3ZlcnNpb24+XClcQD0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqc29uUGFyc2VyXD4=</entry>
-        <entry encoding="base64">XDxnc29uXD4=</entry>
-        <entry encoding="base64">XDxKc29uXCUoXCUoT2JqZWN0XClcPlwpXEAhXHdcK1w+</entry>
-        <entry encoding="base64">XCUoXlxzKlwlKFwvXC9cfFwvXD9cKlx8aW1wb3J0IFwpLipcKVxAPCFcPEpzb25cJShcJShPYmplY3RcKVw+XClcQCFcd1wrXD4=</entry>
         <entry encoding="base64">XDxKc29uT2JqZWN0XD4=</entry>
         <entry encoding="base64">XDxsb2Fkb3V0QXJyYXlcPg==</entry>
         <entry>first</entry>
@@ -754,9 +496,12 @@
         <entry encoding="base64">XDxyZXF1ZXN0Um91dGVyXD4=</entry>
         <entry encoding="base64">XDxtb2NrQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxBZnRlclw+</entry>
+        <entry>4\.1\.0</entry>
+        <entry encoding="base64">XCUoPHZlcnNpb24+XClcQDw9NFwuMVwuMFwlKDxcL3ZlcnNpb24+XClcQD0=</entry>
+        <entry encoding="base64">PGJ1aWxk</entry>
+        <entry encoding="base64">XDxRdWVyeVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0gey9cclwxL2dl</entry>
         <entry encoding="base64">JXMvXCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0ge1xAPS9cclwxL2dl</entry>
         <entry encoding="base64">JzwsJz5zLzxtYXBwaW5nIGNsYXNzPSJcKFteIl0qXCkiIFwvPi88cGFyYW0+XDE8XC9wYXJhbT4vZ2U=</entry>
         <entry>g/\cstatus/#</entry>
@@ -771,10 +516,11 @@
         <entry>set hls?</entry>
         <entry>%s/\\n//ge</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>s/first/last/ge</entry>
         <entry>s/\cfirst_\?//ge</entry>
         <entry encoding="base64">JzwsJz5zL1wlKCJwcml2X1woXHdcK1wpIiwgdGhpc1wuZ2V0UHJpdlwpXEA8PVwlKCgpXClcQD0vXHVcMS9nZQ==</entry>
+        <entry encoding="base64">JXMvXCUoPHZlcnNpb24+XClcQDw9NFwuMVwuMFwlKDxcL3ZlcnNpb24+XClcQD0vXCR7Z3VpY2UudmVyc2lvbn0vZ2U=</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
