@@ -402,6 +402,13 @@
       <file name="/AMD JavaScript File.txt.ft" timestamp="1478484445062">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" timestamp="1479429461657">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="45" />
+        <mark key="]" line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+      </file>
       <file name="/Scala Object.txt.ft" timestamp="1478483876271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -582,17 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="79" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="82" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="92" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="95" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="333" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="346" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="342" column="34" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="348" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
-      <jump line="27" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
       <jump line="179" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="365" column="61" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="361" column="68" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
@@ -682,40 +678,51 @@
       <jump line="33" column="43" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="28" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="15" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/beta/request/BetaRequestManager.java" />
+      <jump line="40" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="24" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="15" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="38" column="38" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="16" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="45" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.query.query</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>.query.query</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>asdf</text>
+        <text encoding="base64">XDxFbnRpdHlUeXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uT2JqZWN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLmNyaXRlcmlhLkNyaXRlcmlhQnVpbGRlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvamVjdD48L3Byb2plY3Q+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvamVjdD48L3Byb2plY3Q+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE1ldGFtb2RlbCAgICAgICAgICAgICBtICAgICAgID0gZW0uZ2V0TWV0YW1vZGVsKCk7CiAgICBFbnRpdHlUeXBlPFZpZXdlcj4gICAgVmlld2VyXyA9IG0uZW50aXR5KFZpZXdlci5jbGFzcyk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFJvb3Q8Vmlld2VyPiAgICAgICAgICB2aWV3ZXIgID0gY3EuZnJvbShWaWV3ZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB0YXZpc2ggb24gMTEvMTcvMTYuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3VpY2UuYXBpLnZlcnNpb248L2d1aWNlLmFwaS52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLT4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuZG9jbGludC5FbnRpdHk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -733,19 +740,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLm1ldGFtb2RlbC5FbnRpdHlUeXBlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Y2xhc3NpZmllcj5ub19hb3A8L2NsYXNzaWZpZXI+CiAgICAgICAgICAgIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdf</last-search>
+      <last-search encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>asdf</last-pattern>
+      <last-pattern encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-pattern>
       <last-replace>\${guice.version}</last-replace>
       <last-substitute encoding="base64">XCUoPHZlcnNpb24+XClcQDw9NFwuMVwuMFwlKDxcL3ZlcnNpb24+XClcQD0=</last-substitute>
       <last-dir>1</last-dir>
@@ -753,10 +760,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2Fkb3V0QXJyYXlcPg==</entry>
-        <entry>first</entry>
-        <entry>\cfirst_\?</entry>
-        <entry encoding="base64">XDxvYmplY3RcPg==</entry>
         <entry encoding="base64">XDx3aXRoQ2hpbGRyZW5cPg==</entry>
         <entry encoding="base64">XDx3aXRoU2xvdHNcPg==</entry>
         <entry encoding="base64">QFwlKE1hbnlcfE9uZVwpVG9cJShNYW55XHxPbmVcKVw+</entry>
@@ -773,6 +776,10 @@
         <entry encoding="base64">PGJ1aWxk</entry>
         <entry encoding="base64">XDxRdWVyeVw+</entry>
         <entry>asdf</entry>
+        <entry encoding="base64">XDxPcmRlclw+</entry>
+        <entry encoding="base64">XDxSb290XD4=</entry>
+        <entry encoding="base64">XDxKc29uT2JqZWN0XD4=</entry>
+        <entry encoding="base64">XDxFbnRpdHlUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXCUoXlwoXHMqXClcc1xAIS4qIFtnc11ldFxTKihbXildKilcKVxAPD0ge1xAPS9cclwxL2dl</entry>
