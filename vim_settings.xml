@@ -497,6 +497,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1479931678784">
+        <mark key="'" line="79" column="6" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="/TypeScript File.txt.ft" timestamp="1478484445231">
         <mark key="[" line="0" column="0" />
       </file>
@@ -559,12 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="146" column="44" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="73" column="11" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
-      <jump line="51" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="18" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="109" column="4" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="11" column="5" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
@@ -659,40 +659,57 @@
       <jump line="181" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="183" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="44" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="56" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="48" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="82" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="68" column="37" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="79" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKCh0aGlzLmdldEpzb24oKSAhPSBudWxsKSA/IHRoaXMuZ2V0SnNvbigpLnRvSnNvbk9iamVjdCgpIDogbnVsbCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbS5hbWF6b25hd3Muam1lc3BhdGguSm1lc1BhdGhFeHByZXNzaW9uCgo=</text>
       </register>
       <register name="-" type="4">
         <text>to</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text encoding="base64">XDxjbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKCh0aGlzLmdldFVzZXIoKSAhPSBudWxsKSA/IHRoaXMuZ2V0VXNlcigpLnRvSnNvbk9iamVjdCgpIDogbnVsbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gSW5zdGFudGlhdGUgYW4gQW1hem9uIFNFUyBjbGllbnQsIHdoaWNoIHdpbGwgbWFrZSB0aGUgc2VydmljZSBjYWxsLgogICAgICAvLyBUaGUgc2VydmljZSBjYWxsIHJlcXVpcmVzIHlvdXIgQVdTIGNyZWRlbnRpYWxzLgogICAgICAvLwogICAgICAvLyBCZWNhdXNlIHdlJ3JlIG5vdCBwcm92aWRpbmcgYW4gYXJndW1lbnQgd2hlbiBpbnN0YW50aWF0aW5nIHRoZSBjbGllbnQsCiAgICAgIC8vICAgdGhlIFNESyB3aWxsIGF0dGVtcHQgdG8gZmluZCB5b3VyIEFXUyBjcmVkZW50aWFscyB1c2luZyB0aGUgZGVmYXVsdCBjcmVkZW50aWFsIHByb3ZpZGVyIGNoYWluLgogICAgICAvLwogICAgICAvLyBUaGUgZmlyc3QgcGxhY2UgdGhlIGNoYWluIGxvb2tzIGZvciB0aGUgY3JlZGVudGlhbHMgaXMgaW4gZW52aXJvbm1lbnQgdmFyaWFibGVzCiAgICAgIC8vICAtIEFXU19BQ0NFU1NfS0VZX0lECiAgICAgIC8vICAgIGFuZAogICAgICAvLyAgLSBBV1NfU0VDUkVUX0tFWS4KICAgICAgLy8KICAgICAgLy8gRm9yIG1vcmUgaW5mb3JtYXRpb24sIHNlZSBodHRwOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9BV1NTZGtEb2NzSmF2YS9sYXRlc3QvRGV2ZWxvcGVyR3VpZGUvY3JlZGVudGlhbHMuaHRtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKCh0aGlzLmdldEpzb24oKSAhPSBudWxsKSA/IHRoaXMuZ2V0SnNvbigpLnRvSnNvbk9iamVjdCgpIDogbnVsbCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbS5hbWF6b25hd3Muam1lc3BhdGguSm1lc1BhdGhFeHByZXNzaW9uCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRUZW1wbGF0ZSgpLnRvSnNvbk9iamVjdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRVc2VyKCkudG9Kc29uT2JqZWN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKCh0aGlzLmdldFVzZXIoKSAhPSBudWxsKSA/IHRoaXMuZ2V0VXNlcigpLnRvSnNvbk9iamVjdCgpIDogbnVsbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICoKICAgICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRUZW1wbGF0ZSgpLmdldENvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICovCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICgodGhpcy5nZXRVc2VyKCkgIT0gbnVsbCkgPyB0aGlzLmdldFVzZXIoKS50b0pzb25PYmplY3QoKSA6IG51bGwpKTsK</text>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRUcmFja2VkVXNlcigpLnRvSnNvbk9iamVjdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgKCh0aGlzLmdldEpzb24oKSAhPSBudWxsKSA/IHRoaXMuZ2V0SnNvbigpLnRvSnNvbk9iamVjdCgpIDogbnVsbCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -710,28 +727,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRTdGF0dXMoKS50b1N0cmluZygpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRUZW1wbGF0ZSgpLnRvSnNvbk9iamVjdCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRVc2VyKCkudG9Kc29uT2JqZWN0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search encoding="base64">XDxjbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRcPg==</last-pattern>
       <last-replace>Json</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRdWVyeVw+</entry>
-        <entry>asdf</entry>
         <entry encoding="base64">XDxPcmRlclw+</entry>
         <entry encoding="base64">XDxSb290XD4=</entry>
         <entry encoding="base64">XDxKc29uT2JqZWN0XD4=</entry>
@@ -750,6 +765,8 @@
         <entry>JsonObject</entry>
         <entry>to</entry>
         <entry>User</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
