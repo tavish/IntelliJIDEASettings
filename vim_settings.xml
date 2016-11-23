@@ -164,6 +164,7 @@
       <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1478484448549">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" timestamp="1479928024975" />
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" timestamp="1479495253290">
         <mark key="'" line="81" column="57" />
         <mark key="[" line="88" column="0" />
@@ -262,11 +263,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1479496085892">
-        <mark key="'" line="213" column="6" />
-        <mark key="[" line="213" column="57" />
-        <mark key="]" line="213" column="59" />
-        <mark key="^" line="213" column="59" />
-        <mark key="." line="213" column="59" />
+        <mark key="'" line="214" column="6" />
+        <mark key="[" line="214" column="57" />
+        <mark key="]" line="214" column="59" />
+        <mark key="^" line="214" column="59" />
+        <mark key="." line="214" column="59" />
       </file>
       <file name="/AnnotationType.txt.ft" timestamp="1478484443299">
         <mark key="[" line="0" column="0" />
@@ -358,11 +359,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1479496020867">
-        <mark key="'" line="308" column="0" />
-        <mark key="[" line="218" column="53" />
-        <mark key="]" line="218" column="58" />
-        <mark key="." line="218" column="58" />
-        <mark key="^" line="218" column="58" />
+        <mark key="'" line="268" column="0" />
       </file>
       <file name="/SCSS File.txt.ft" timestamp="1478483878005">
         <mark key="[" line="0" column="0" />
@@ -499,13 +496,6 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1479507141087">
-        <mark key="'" line="44" column="15" />
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="44" column="25" />
       </file>
       <file name="/TypeScript File.txt.ft" timestamp="1478484445231">
         <mark key="[" line="0" column="0" />
@@ -736,7 +726,7 @@
       <last-replace>Json</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
