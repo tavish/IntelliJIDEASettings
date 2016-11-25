@@ -104,11 +104,11 @@
       <file name="/Overridden Method Body.txt.ft" timestamp="1478484711212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1479961214113">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1480104143741">
         <mark key="'" line="29" column="3" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="40" column="16" />
       </file>
       <file name="/New Method Body.txt.ft" timestamp="1478484877311">
@@ -670,7 +670,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29sdW1uRGVmYXVsdCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ29sdW1uRGVmYXVsdDsK</text>
       </register>
       <register name="-" type="4">
         <text>bytes_base64</text>
@@ -682,10 +682,10 @@
         <text encoding="base64">ICBAT25lVG9NYW55KG1hcHBlZEJ5ID0gInRlbXBsYXRlIikKICBwcml2YXRlIExpc3Q8TG9hZG91dD4gbG9hZG91dHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAQ29sdW1uRGVmYXVsdCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ29sdW1uRGVmYXVsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQ29sdW1uRGVmYXVsdCgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -700,7 +700,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAVW5pcXVlQ29uc3RyYWludChuYW1lID0gIlVLX0JBQ0tHUk9VTkRfQ09ERSIsIGNvbHVtbk5hbWVzID0gImNvZGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -718,10 +718,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YWZ4Lmlpby5naWYuR0lGRGVzY3JpcHRvcjsK</text>
+        <text encoding="base64">ICBAVW5pcXVlQ29uc3RyYWludChuYW1lID0gIlVLX0JBQ0tHUk9VTkRfQ09ERSIsIGNvbHVtbk5hbWVzID0gImNvZGUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YWZ4Lmlpby5naWYuR0lGRGVzY3JpcHRvcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
