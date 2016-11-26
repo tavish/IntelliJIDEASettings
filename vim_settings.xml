@@ -39,9 +39,9 @@
       <file name="/Entity Bean Class CMP 1x.txt.ft" timestamp="1478484052278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" timestamp="1479441511016">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" timestamp="1480118986203">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="2" column="45" />
+        <mark key="[" line="16" column="48" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -499,11 +499,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480113900241">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480118972898">
         <mark key="'" line="64" column="44" />
         <mark key="[" line="16" column="23" />
-        <mark key="]" line="21" column="89" />
-        <mark key="." line="21" column="89" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="/TypeScript File.txt.ft" timestamp="1478484445231">
         <mark key="[" line="0" column="0" />
