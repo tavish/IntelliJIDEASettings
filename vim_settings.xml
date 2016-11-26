@@ -84,19 +84,19 @@
       <file name="/Implemented Method Body.txt.ft" timestamp="1478484802530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" timestamp="1480123666424">
-        <mark key="'" line="129" column="65" />
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="71" />
-        <mark key="." line="19" column="71" />
-        <mark key="^" line="19" column="71" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" timestamp="1480126854762">
+        <mark key="'" line="112" column="27" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="112" column="27" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1479095229845">
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480126784375">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="71" />
-        <mark key="^" line="8" column="71" />
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="27" column="70" />
+        <mark key="." line="27" column="70" />
+        <mark key="^" line="27" column="70" />
       </file>
       <file name="/Kotlin Enum.txt.ft" timestamp="1478483877478">
         <mark key="[" line="0" column="0" />
@@ -571,8 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="89" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="54" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="77" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="340" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
@@ -671,37 +669,39 @@
       <jump line="179" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="127" column="65" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" />
       <jump line="36" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" />
+      <jump line="37" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" />
+      <jump line="120" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>this.to</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiaGVpZ2h0IiwgdGhpcy5nZXRIZWlnaHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWFwcGluZyBjbGFzcz0iY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwubG9hZG91dC5Mb2Fkb3V0IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uUGFyc2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uQXJyYXk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLnVzZXIuVXNlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5OwppbXBvcnQgY29tLmVxdWlwZXdzLmFwaWdhdGV3YXkubW9kZWwudGVtcGxhdGUuVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -722,7 +722,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
