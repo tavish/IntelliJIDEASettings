@@ -39,12 +39,11 @@
       <file name="/Entity Bean Class CMP 1x.txt.ft" timestamp="1478484052278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" timestamp="1480118986203">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="16" column="48" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" timestamp="1480120659450">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="28" />
       </file>
       <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475167824239">
         <mark key="'" line="0" column="0" />
@@ -499,12 +498,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480118972898">
-        <mark key="'" line="64" column="44" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480120586281">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="65" column="81" />
+        <mark key="]" line="65" column="80" />
+        <mark key="." line="65" column="80" />
+        <mark key="^" line="65" column="80" />
       </file>
       <file name="/TypeScript File.txt.ft" timestamp="1478484445231">
         <mark key="[" line="0" column="0" />
@@ -568,15 +567,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="31" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="30" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="34" column="31" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="35" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="39" column="31" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="40" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="2" column="47" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="15" column="38" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="17" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="13" column="38" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="40" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="55" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
@@ -668,40 +663,44 @@
       <jump line="78" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="85" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="29" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="23" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="128" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/Map.java" />
+      <jump line="31" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ29sdW1uRGVmYXVsdDsK</text>
+      <register name="&quot;" type="4">
+        <text>_ID</text>
       </register>
       <register name="-" type="4">
-        <text>bytes_base64</text>
+        <text>_ID</text>
       </register>
       <register name="/" type="4">
         <text>asdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAT25lVG9NYW55KG1hcHBlZEJ5ID0gInRlbXBsYXRlIikKICBwcml2YXRlIExpc3Q8TG9hZG91dD4gbG9hZG91dHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIGJpbmQoU3RyaW5nLmNsYXNzKQogICAgICAuYW5ub3RhdGVkV2l0aChOYW1lcy5uYW1lZCgiQXdzQWNjZXNzS2V5SWQiKSkKICAgICAgLnRvSW5zdGFuY2UoIkFXU19BQ0NFU1NfS0VZX0lEIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ29sdW1uRGVmYXVsdDsK</text>
+        <text encoding="base64">ICAgICAgLnRvKFJlZ2lvbnMuVVNfV0VTVF8yLmdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAQ29sdW1uRGVmYXVsdCgpCg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE5hbWVzLmJpbmRQcm9wZXJ0aWVzKGJpbmRlcigpLCAKICAgICAgbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IG5ldyBNYXA8U3RyaW5nLCBTdHJpbmc+KCkgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGludCBzaXplKCkgewogICAgICAgIHJldHVybiAwOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGJvb2xlYW4gaXNFbXB0eSgpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBjb250YWluc0tleShPYmplY3Qga2V5KSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIGJvb2xlYW4gY29udGFpbnNWYWx1ZShPYmplY3QgdmFsdWUpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgU3RyaW5nIGdldChPYmplY3Qga2V5KSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgU3RyaW5nIHB1dChTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTdHJpbmcgcmVtb3ZlKE9iamVjdCBrZXkpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyB2b2lkIHB1dEFsbChNYXA8PyBleHRlbmRzIFN0cmluZywgPyBleHRlbmRzIFN0cmluZz4gbSkgewoKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyB2b2lkIGNsZWFyKCkgewoKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTZXQ8U3RyaW5nPiBrZXlTZXQoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgQ29sbGVjdGlvbjxTdHJpbmc+IHZhbHVlcygpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTZXQ8RW50cnk8U3RyaW5nLCBTdHJpbmc+PiBlbnRyeVNldCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IE1hcDxTdHJpbmcsIFN0cmluZz4oKSB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgaW50IHNpemUoKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBpc0VtcHR5KCkgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBib29sZWFuIGNvbnRhaW5zS2V5KE9iamVjdCBrZXkpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBjb250YWluc1ZhbHVlKE9iamVjdCB2YWx1ZSkgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0KE9iamVjdCBrZXkpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTdHJpbmcgcHV0KFN0cmluZyBrZXksIFN0cmluZyB2YWx1ZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIFN0cmluZyByZW1vdmUoT2JqZWN0IGtleSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIHZvaWQgcHV0QWxsKE1hcDw/IGV4dGVuZHMgU3RyaW5nLCA/IGV4dGVuZHMgU3RyaW5nPiBtKSB7CgogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIHZvaWQgY2xlYXIoKSB7CgogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIFNldDxTdHJpbmc+IGtleVNldCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBDb2xsZWN0aW9uPFN0cmluZz4gdmFsdWVzKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIFNldDxFbnRyeTxTdHJpbmcsIFN0cmluZz4+IGVudHJ5U2V0KCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CiAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -719,10 +718,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVW5pcXVlQ29uc3RyYWludChuYW1lID0gIlVLX0JBQ0tHUk9VTkRfQ09ERSIsIGNvbHVtbk5hbWVzID0gImNvZGUiKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ29sdW1uRGVmYXVsdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YWZ4Lmlpby5naWYuR0lGRGVzY3JpcHRvcjsK</text>
+        <text encoding="base64">ICBAQ29sdW1uRGVmYXVsdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
