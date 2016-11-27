@@ -110,6 +110,7 @@
       <file name="/Overridden Method Body.txt.ft" timestamp="1478484711212">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.1.Final/hibernate-core-5.2.1.Final-sources.jar!/org/hibernate/SharedSessionContract.java" timestamp="1480287779508" />
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1480186871598">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="42" column="36" />
@@ -388,8 +389,8 @@
       <file name="/AMD JavaScript File.txt.ft" timestamp="1478484445062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" timestamp="1480286619628">
-        <mark key="'" line="20" column="13" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" timestamp="1480288457431">
+        <mark key="'" line="40" column="27" />
         <mark key="[" line="39" column="53" />
         <mark key="]" line="43" column="21" />
         <mark key="^" line="43" column="21" />
@@ -585,8 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="182" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="64" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="149" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
@@ -685,6 +684,8 @@
       <jump line="17" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="51" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="19" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="40" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
+      <jump line="120" column="11" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.1.Final/hibernate-core-5.2.1.Final-sources.jar!/org/hibernate/SharedSessionContract.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
