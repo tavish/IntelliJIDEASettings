@@ -91,12 +91,12 @@
         <mark key="^" line="112" column="27" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480126784375">
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480285468356">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="27" column="62" />
-        <mark key="]" line="27" column="70" />
-        <mark key="." line="27" column="70" />
-        <mark key="^" line="27" column="70" />
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="/Kotlin Enum.txt.ft" timestamp="1478483877478">
         <mark key="[" line="0" column="0" />
@@ -515,6 +515,12 @@
       <file name="/TypeScript File.txt.ft" timestamp="1478484445231">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" timestamp="1480285784646">
+        <mark key="[" line="52" column="46" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="46" />
+        <mark key="^" line="52" column="46" />
+      </file>
       <file name="/a.regexp" timestamp="1479425912015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -557,12 +563,12 @@
       <file name="/CoffeeScript Class.txt.ft" timestamp="1478484449310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1480186824847">
-        <mark key="'" line="68" column="10" />
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="68" column="31" />
-        <mark key="." line="68" column="31" />
-        <mark key="^" line="68" column="31" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1480285439109">
+        <mark key="'" line="99" column="2" />
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
       </file>
       <file name="/Servlet Class.txt.ft" timestamp="1478484374175">
         <mark key="[" line="0" column="0" />
@@ -578,13 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="73" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="44" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="50" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="57" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
@@ -678,40 +677,47 @@
       <jump line="26" column="31" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/InventoryItem.java" />
       <jump line="93" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
       <jump line="48" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
+      <jump line="89" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="96" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="97" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="171" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="7" column="45" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="99" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzZXNzaW9uLnF1ZXJ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parent</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">KVxAPD1ccypcblxzKntcQD0=</text>
+        <text>\ccategory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiZGVzY3JpcHRpb24iLCB0aGlzLmdldERlc2NyaXB0aW9uKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmNhdGVnb3J5LkNhdGVnb3J5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZXNzaW9uLnF1ZXJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiZGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiZGUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -728,28 +734,27 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">QEpvaW5UYWJsZSgKICAgIG5hbWUgPSAiTG9hZG91dF9CYWNrZ3JvdW5kIiwKICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJsb2Fkb3V0X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiLAogICAgICBmb3JlaWduS2V5ID0gQEZvcmVpZ25LZXkobmFtZSA9ICJGS19MT0FET1VUQkFDS0dST1VORF9MT0FET1VUSUQiKSksCiAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvKVxAPD1ccypcblxzKntcQD0vIC9nZQ==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">KVxAPD1ccypcblxzKntcQD0=</last-search>
+      <last-search>\ccategory</last-search>
       <last-offset />
-      <last-pattern encoding="base64">KVxAPD1ccypcblxzKntcQD0=</last-pattern>
-      <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute encoding="base64">KVxAPD1ccypcblxzKntcQD0=</last-substitute>
+      <last-pattern>\ccategory</last-pattern>
+      <last-replace>ITEM</last-replace>
+      <last-substitute>CATEGORY</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\cparent</entry>
         <entry>\cchild</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry encoding="base64">XDxieXRlc0Jhc2U2NFw+</entry>
@@ -758,9 +763,6 @@
         <entry encoding="base64">XDxMb2Fkb3V0XD4=</entry>
         <entry>@ManyToMany(.*)</entry>
         <entry>asdf</entry>
-        <entry>category</entry>
-        <entry>CATEGORY</entry>
-        <entry>\ccategory</entry>
         <entry encoding="base64">XCUoW2dzXWV0XHdcKyguKilcKVxAPD1ccypcblxzKntcQD0=</entry>
         <entry encoding="base64">XDxVUkxcPg==</entry>
         <entry>width</entry>
@@ -769,11 +771,12 @@
         <entry>TEMPLATE</entry>
         <entry>\ctemplate</entry>
         <entry encoding="base64">KVxAPD1ccypcblxzKntcQD0=</entry>
+        <entry>Category</entry>
+        <entry>category</entry>
+        <entry>CATEGORY</entry>
+        <entry>\ccategory</entry>
       </history-search>
       <history-cmd>
-        <entry>s/getCode/toString/ge</entry>
-        <entry>s/Parent/Status/ge</entry>
-        <entry>s/Status/TrackedUser/ge|s/String/JsonObject/ge</entry>
         <entry>s/Status/TrackedUser/ge</entry>
         <entry>s/String/JsonObject/ge</entry>
         <entry>s/Tracked//ge</entry>
@@ -789,8 +792,11 @@
         <entry encoding="base64">JzwsJz5zL3RlbXBsYXRlL2JhY2tncm91bmQvZ2U=</entry>
         <entry encoding="base64">JzwsJz5zL1RFTVBMQVRFL0JBQ0tHUk9VTkQvZ2U=</entry>
         <entry>%s// /ge</entry>
-        <entry>w</entry>
         <entry encoding="base64">JXMvKVxAPD1ccypcblxzKntcQD0vIC9nZQ==</entry>
+        <entry encoding="base64">JzwsJz5zL0NhdGVnb3J5L0l0ZW0vZ2U=</entry>
+        <entry encoding="base64">JzwsJz5zL2NhdGVnb3J5L2l0ZW0vZ2U=</entry>
+        <entry encoding="base64">JzwsJz5zL0NBVEVHT1JZL0lURU0vZ2U=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
