@@ -103,12 +103,12 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480361275128">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="27" />
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480363534552">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="49" column="42" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContextBuilder.java" timestamp="1479093699233">
         <mark key="'" line="0" column="0" />
@@ -306,13 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="46" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="69" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="31" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
-      <jump line="62" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
-      <jump line="195" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="227" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="165" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
@@ -406,40 +399,47 @@
       <jump line="46" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
       <jump line="50" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="38" column="30" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="18" column="4" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="79" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="87" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="92" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="93" column="30" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="25" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.11.49</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8YXdzPgogICAgICAgICAgICA8amF2YT4KICAgICAgICAgICAgICAgIDxzZGs+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MS4xMS42MDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvc2RrPgogICAgICAgICAgICA8L2phdmE+CiAgICAgICAgPC9hd3M+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1.11.49</text>
+        <text>1.11.60</text>
       </register>
       <register name="/" type="4">
-        <text>aws-java-sdk</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMS40OTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjExLjYwPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1.11.49</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8YXdzPgogICAgICAgICAgICA8amF2YT4KICAgICAgICAgICAgICAgIDxzZGs+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MS4xMS42MDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvc2RrPgogICAgICAgICAgICA8L2phdmE+CiAgICAgICAgPC9hd3M+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>1.10.4.1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGg8amF2Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>1.10.8</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGphdnZhPC9qYXZ2YT4K</text>
       </register>
-      <register name="4" type="4">
-        <text>1.10.8</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTAuODwvdmVyc2lvbj4tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMC4wPC92ZXJzaW9uPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTAuODwvdmVyc2lvbj4tLT4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuNy4xNTwvdmVyc2lvbj4tLT4K</text>
+      <register name="6" type="4">
+        <text>1.11.49</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>1.10.4.1</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -456,29 +456,27 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+      <register name="8" type="4">
+        <text>1.10.8</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgamF2YS51dGlsLkl0ZXJhdG9yOwovL2ltcG9ydCBqYXZhLnV0aWwuU2V0OwovL2ltcG9ydCBqYXZhLnV0aWwuQ29sbGVjdGlvbnM7Ci8vaW1wb3J0IGphdmEudXRpbC5IYXNodGFibGU7Ci8vaW1wb3J0IGphdmEudXRpbC5WZWN0b3I7Cg==</text>
+      <register name="9" type="4">
+        <text>1.10.8</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>aws-java-sdk</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>aws-java-sdk</last-pattern>
-      <last-replace encoding="base64">PExvYWRvdXQ+XDEsIExvYWRvdXQuY2xhc3M=</last-replace>
-      <last-substitute encoding="base64">XCUoXDxRdWVyeVwpXEA8PVwoXHNcK1x3XCtccyo9XHMqc2Vzc2lvblwuY3JlYXRlUXVlcnkoIlteIl0qIjpcKVwlKCk7XClcQD0=</last-substitute>
+      <last-pattern>version</last-pattern>
+      <last-replace>aws.java.sdk.\0</last-replace>
+      <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gson</entry>
-        <entry encoding="base64">XDxTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XCUoXDxRdWVyeVwpXEA8PVwoXHNcK1x3XCtccyo9XHMqc2Vzc2lvblwuY3JlYXRlUXVlcnkoIlteIl0qIjpcKVwlKCk7XClcQD0=</entry>
         <entry encoding="base64">UXVlcnkg</entry>
         <entry encoding="base64">XCUoXDxRdWVyeVw+XClcQDw9IA==</entry>
@@ -497,9 +495,10 @@
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">XCUoXlwlKF5ccyo8IS0tPHZlcnNpb24+Lio8XC92ZXJzaW9uPi0tPlxuXClcQDw9XHMqPHZlcnNpb24+XClcQDw9W148XSpcJSg8XC92ZXJzaW9uPiRcKVxAPQ==</entry>
         <entry>aws-java-sdk</entry>
+        <entry>\${[^}]*}</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
-        <entry>s/String/JsonObject/ge</entry>
         <entry>s/Tracked//ge</entry>
         <entry>s/JsonObject/Code/ge</entry>
         <entry>s/User/Template/ge</entry>
@@ -518,6 +517,7 @@
         <entry encoding="base64">JzwsJz5zL2NhdGVnb3J5L2l0ZW0vZ2U=</entry>
         <entry encoding="base64">JzwsJz5zL0NBVEVHT1JZL0lURU0vZ2U=</entry>
         <entry encoding="base64">JXMvXCUoXDxRdWVyeVwpXEA8PVwoXHNcK1x3XCtccyo9XHMqc2Vzc2lvblwuY3JlYXRlUXVlcnkoIlteIl0qIjpcKVwlKCk7XClcQD0vPExvYWRvdXQ+XDEsIExvYWRvdXQuY2xhc3MvZ2U=</entry>
+        <entry>s/version/aws.java.sdk.\0/ge</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
