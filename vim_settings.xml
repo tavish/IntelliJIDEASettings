@@ -106,12 +106,12 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480373415693">
-        <mark key="'" line="30" column="22" />
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="36" />
-        <mark key="." line="51" column="36" />
-        <mark key="^" line="51" column="36" />
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480374340428">
+        <mark key="'" line="81" column="4" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="85" column="13" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContextBuilder.java" timestamp="1479093699233">
         <mark key="'" line="0" column="0" />
@@ -309,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
-      <jump line="40" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
-      <jump line="120" column="11" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.1.Final/hibernate-core-5.2.1.Final-sources.jar!/org/hibernate/SharedSessionContract.java" />
       <jump line="60" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="64" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="86" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
@@ -409,10 +406,13 @@
       <jump line="52" column="15" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="37" column="15" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="30" column="22" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="45" column="6" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="81" column="4" filename="$USER_HOME$/code/backend-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dynamodb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YSAtLT4K</text>
       </register>
       <register name="-" type="4">
         <text>dynamodb</text>
@@ -424,25 +424,25 @@
         <text encoding="base64">ICAgICAgPHZlcnNpb24+MS4xLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYW1hem9uYXdzPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5hd3MtamF2YS1zZGstZHluYW1vZGI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPiR7YXdzLmphdmEuc2RrLnZlcnNpb259PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YSAtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTEuNDk8L3ZlcnNpb24+LS0+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmNvZGUuZ3NvbjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+Z3NvbjwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Mi44LjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTAuNC4xPC92ZXJzaW9uPi0tPgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmluamVjdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+Z3VpY2U8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPiR7Z3VpY2UudmVyc2lvbn08L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YXdzPgogICAgICAgICAgICA8amF2YT4KICAgICAgICAgICAgICAgIDxzZGs+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MS4xMS42MDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvc2RrPgogICAgICAgICAgICA8L2phdmE+CiAgICAgICAgPC9hd3M+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYW1hem9uYXdzPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5hd3MtamF2YS1zZGstZHluYW1vZGI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPiR7YXdzLmphdmEuc2RrLnZlcnNpb259PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGg8amF2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTEuNDk8L3ZlcnNpb24+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGphdnZhPC9qYXZ2YT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTAuNC4xPC92ZXJzaW9uPi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTAuODwvdmVyc2lvbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8YXdzPgogICAgICAgICAgICA8amF2YT4KICAgICAgICAgICAgICAgIDxzZGs+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MS4xMS42MDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvc2RrPgogICAgICAgICAgICA8L2phdmE+CiAgICAgICAgPC9hd3M+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -460,10 +460,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMTAuODwvdmVyc2lvbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGg8amF2Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>1.11.49</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGphdnZhPC9qYXZ2YT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
