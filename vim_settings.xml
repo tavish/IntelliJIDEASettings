@@ -106,8 +106,8 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480374340428">
-        <mark key="'" line="81" column="4" />
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480447512334">
+        <mark key="'" line="79" column="24" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -309,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="64" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="86" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
@@ -375,7 +374,6 @@
       <jump line="46" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
       <jump line="50" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="38" column="30" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="79" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="87" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="92" column="21" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="93" column="30" filename="$USER_HOME$/code/backend-api/pom.xml" />
@@ -409,6 +407,8 @@
       <jump line="67" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="45" column="6" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="81" column="4" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="123" column="6" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="79" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -418,7 +418,7 @@
         <text>dynamodb</text>
       </register>
       <register name="/" type="4">
-        <text>\clambda</text>
+        <text>log4j</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+MS4xLjA8L3ZlcnNpb24+Cg==</text>
@@ -470,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\clambda</last-search>
+      <last-search>log4j</last-search>
       <last-offset />
-      <last-pattern>\clambda</last-pattern>
+      <last-pattern>log4j</last-pattern>
       <last-replace>\${aws.java.sdk.version}</last-replace>
       <last-substitute encoding="base64">XCUoPHZlcnNpb24+XClcQDw9MVwuMTFcLjYwXCUoPFwvdmVyc2lvbj5cKVxAPQ==</last-substitute>
       <last-dir>1</last-dir>
@@ -480,7 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asdf</entry>
         <entry encoding="base64">XCUoXC9cKlwpXEA8PVwqXEAh</entry>
         <entry encoding="base64">XDxxdWVyeVN0cmluZ1w+</entry>
         <entry encoding="base64">XDxRdWVyeVw+</entry>
@@ -500,6 +499,7 @@
         <entry encoding="base64">XDxDb250ZXh0XD4=</entry>
         <entry>\${aws\.java\.sdk\.version}</entry>
         <entry>\clambda</entry>
+        <entry>log4j</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RlbXBsYXRlL0JhY2tncm91bmQvZ2U=</entry>
