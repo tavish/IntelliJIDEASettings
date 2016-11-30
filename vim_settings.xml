@@ -160,6 +160,11 @@
         <mark key="^" line="80" column="44" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" timestamp="1480535782465">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" timestamp="1480366637111">
         <mark key="'" line="4" column="45" />
       </file>
@@ -436,22 +441,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwZXJzaXN0ZW5jZVhtbD4vZGV2L251bGw8L3BlcnNpc3RlbmNlWG1sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtPjwvcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxwZXJzaXN0ZW5jZVhtbD4vZGV2L251bGw8L3BlcnNpc3RlbmNlWG1sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2tDb250ZXh0QnVpbGRlciA9IG5ldyBNb2NrQ29udGV4dEJ1aWxkZXIoIkVxdWlwTGFtYmRhIiwgT2JqZWN0Ojpub3RpZnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtPjwvcGFyYW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBqYXZhLnV0aWwuQ29sbGVjdGlvbnMuc29ydChqYXZhLnV0aWwuQXJyYXlzLmFzTGlzdCgxLCAyKSwgKG8xLCBvMikgLT4gbzEuY29tcGFyZVRvKG8yKSk7Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tDb250ZXh0QnVpbGRlciA9IG5ldyBNb2NrQ29udGV4dEJ1aWxkZXIoIkVxdWlwTGFtYmRhIiwgT2JqZWN0Ojpub3RpZnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">CiAgICBqYXZhLnV0aWwuQ29sbGVjdGlvbnMuc29ydChqYXZhLnV0aWwuQXJyYXlzLmFzTGlzdCgxLCAyKSwgKG8xLCBvMikgLT4gbzEuY29tcGFyZVRvKG8yKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgdGF2aXNoIG9uIDExLzEzLzE2LgogKi8K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -469,10 +474,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YSAtLT4K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgdGF2aXNoIG9uIDExLzEzLzE2LgogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmNvZGUuZ3NvbjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+Z3NvbjwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Mi44LjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YSAtLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
