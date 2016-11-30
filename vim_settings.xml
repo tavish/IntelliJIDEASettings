@@ -206,7 +206,7 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" timestamp="1479495206433">
         <mark key="'" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480534928736">
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480537213291">
         <mark key="'" line="78" column="19" />
         <mark key="[" line="82" column="0" />
         <mark key="m" line="184" column="21" />
@@ -294,6 +294,9 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
+      <file name="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" timestamp="1480537477473">
+        <mark key="'" line="333" column="47" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" timestamp="1480187811808">
         <mark key="'" line="190" column="2" />
         <mark key="[" line="179" column="0" />
@@ -323,21 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="42" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="5" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="35" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="73" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="20" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="28" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="37" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="48" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="60" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="66" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="33" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="67" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
       <jump line="34" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" />
@@ -423,40 +411,55 @@
       <jump line="65" column="15" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="79" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="78" column="19" filename="$USER_HOME$/code/backend-api/pom.xml" />
+      <jump line="294" column="17" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="491" column="21" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="462" column="21" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="452" column="21" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="439" column="21" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="401" column="23" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="332" column="12" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="329" column="21" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="41" column="35" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="322" column="12" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="326" column="60" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="112" column="17" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="334" column="25" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
+      <jump line="333" column="47" filename="$USER_HOME$/tmp/git/hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRmlsZU5vdEZvdW5kRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICBnZXRMb2coKS53YXJuKCJwZXJzaXN0ZW5jZS54bWwgbm90IHByZXNlbnQ7IGlnbm9yaW5nLiIsIGV4KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\%(slf\|log\)4j</text>
+        <text encoding="base64">XDx3YXJuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwYWNrYWdlcz4KICAgICAgICAgICAgPHBhcmFtPmNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsPC9wYXJhbT4KICAgICAgICAgIDwvcGFja2FnZXM+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRmlsZU5vdEZvdW5kRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICBnZXRMb2coKS53YXJuKCJwZXJzaXN0ZW5jZS54bWwgbm90IHByZXNlbnQ7IGlnbm9yaW5nLiIsIGV4KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwZXJzaXN0ZW5jZVhtbD4vZGV2L251bGw8L3BlcnNpc3RlbmNlWG1sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtPjwvcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxwZXJzaXN0ZW5jZVhtbD4vZGV2L251bGw8L3BlcnNpc3RlbmNlWG1sPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vY2tDb250ZXh0QnVpbGRlciA9IG5ldyBNb2NrQ29udGV4dEJ1aWxkZXIoIkVxdWlwTGFtYmRhIiwgT2JqZWN0Ojpub3RpZnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtPjwvcGFyYW0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBqYXZhLnV0aWwuQ29sbGVjdGlvbnMuc29ydChqYXZhLnV0aWwuQXJyYXlzLmFzTGlzdCgxLCAyKSwgKG8xLCBvMikgLT4gbzEuY29tcGFyZVRvKG8yKSk7Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tDb250ZXh0QnVpbGRlciA9IG5ldyBNb2NrQ29udGV4dEJ1aWxkZXIoIkVxdWlwTGFtYmRhIiwgT2JqZWN0Ojpub3RpZnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">CiAgICBqYXZhLnV0aWwuQ29sbGVjdGlvbnMuc29ydChqYXZhLnV0aWwuQXJyYXlzLmFzTGlzdCgxLCAyKSwgKG8xLCBvMikgLT4gbzEuY29tcGFyZVRvKG8yKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -474,19 +477,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgdGF2aXNoIG9uIDExLzEzLzE2LgogKi8K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YSAtLT4K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgdGF2aXNoIG9uIDExLzEzLzE2LgogKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\%(slf\|log\)4j</last-search>
+      <last-search encoding="base64">XDx3YXJuXD4=</last-search>
       <last-offset />
-      <last-pattern>\%(slf\|log\)4j</last-pattern>
+      <last-pattern encoding="base64">XDx3YXJuXD4=</last-pattern>
       <last-replace>persistenceXml</last-replace>
       <last-substitute>packages</last-substitute>
       <last-dir>1</last-dir>
@@ -494,10 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PA==</entry>
-        <entry encoding="base64">XCUoXlwlKF5ccyo8IS0tPHZlcnNpb24+Lio8XC92ZXJzaW9uPi0tPlxuXClcQDw9XHMqPHZlcnNpb24+XClcQDw9W148XSpcJSg8XC92ZXJzaW9uPiRcKVxAPQ==</entry>
-        <entry>aws-java-sdk</entry>
-        <entry>\${[^}]*}</entry>
         <entry>version</entry>
         <entry>1\.11\.60</entry>
         <entry encoding="base64">XCUoPHZlcnNpb24+XClcQDw9MVwuMTFcLjYwXCUoPFwvdmVyc2lvbj5cKVxAPQ==</entry>
@@ -514,6 +513,10 @@
         <entry encoding="base64">XCUoPHZlcnNpb24+XClcQDw9LipcJSg8XC92ZXJzaW9uPlwpXEA9</entry>
         <entry encoding="base64">XCUoPHZlcnNpb24+XClcQDw9XCUoXCR7W159XSp9PFwvdmVyc2lvbj5cKVxAIS4qXCUoPFwvdmVyc2lvbj5cKVxAPQ==</entry>
         <entry>\%(slf\|log\)4j</entry>
+        <entry>IOException</entry>
+        <entry encoding="base64">XDxGaWxlTm90Rm91bmRFeGNlcHRpb25cPg==</entry>
+        <entry encoding="base64">XDxwZXJzaXN0ZW5jZVhtbFw+</entry>
+        <entry encoding="base64">XDx3YXJuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s// /ge</entry>
