@@ -22,6 +22,13 @@
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/LambdaLogger.java" timestamp="1480455179759">
         <mark key="'" line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" timestamp="1480629670883">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475167824239">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="22" column="0" />
@@ -74,19 +81,18 @@
         <mark key="^" line="112" column="27" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" timestamp="1480553649629">
-        <mark key="'" line="33" column="9" />
+      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" timestamp="1480627306152">
+        <mark key="'" line="24" column="64" />
         <mark key="[" line="33" column="24" />
         <mark key="]" line="34" column="5" />
         <mark key="." line="34" column="5" />
         <mark key="^" line="34" column="5" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480619359491">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="44" />
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480630744700">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1479496020867">
         <mark key="'" line="268" column="0" />
@@ -104,6 +110,12 @@
         <mark key="]" line="79" column="3" />
         <mark key="." line="79" column="3" />
         <mark key="^" line="79" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" timestamp="1480630318262">
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" timestamp="1480292626053">
         <mark key="'" line="36" column="4" />
@@ -160,12 +172,12 @@
         <mark key="^" line="80" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" timestamp="1480619338038">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="20" />
-        <mark key="^" line="54" column="20" />
-        <mark key="." line="54" column="20" />
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" timestamp="1480630808478">
+        <mark key="'" line="24" column="50" />
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="^" line="28" column="63" />
+        <mark key="." line="24" column="48" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class" timestamp="1480542946970">
         <mark key="'" line="194" column="0" />
@@ -208,12 +220,12 @@
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" timestamp="1480550437674">
         <mark key="'" line="29" column="37" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480549119523">
+      <file name="$USER_HOME$/code/backend-api/pom.xml" timestamp="1480629981670">
         <mark key="'" line="90" column="7" />
-        <mark key="[" line="100" column="17" />
-        <mark key="]" line="101" column="6" />
-        <mark key="." line="101" column="6" />
-        <mark key="^" line="101" column="6" />
+        <mark key="[" line="118" column="24" />
+        <mark key="]" line="118" column="30" />
+        <mark key="." line="118" column="30" />
+        <mark key="^" line="118" column="30" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContextBuilder.java" timestamp="1480548258103">
         <mark key="'" line="26" column="9" />
@@ -235,6 +247,12 @@
         <mark key="^" line="23" column="13" />
         <mark key="." line="143" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1479484976931">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/LoginTrack.java" timestamp="1477598616587">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="14" column="18" />
@@ -242,12 +260,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480619483502">
-        <mark key="'" line="53" column="43" />
-        <mark key="[" line="65" column="81" />
-        <mark key="]" line="65" column="80" />
-        <mark key="." line="65" column="80" />
-        <mark key="^" line="65" column="80" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480631061728">
+        <mark key="'" line="2" column="29" />
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutHelper.java" timestamp="1480294854852">
         <mark key="'" line="58" column="28" />
@@ -256,8 +274,8 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="55" column="21" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1480566774554">
-        <mark key="'" line="50" column="60" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1480630942879">
+        <mark key="'" line="62" column="78" />
         <mark key="[" line="50" column="58" />
         <mark key="]" line="50" column="4" />
         <mark key="^" line="50" column="4" />
@@ -301,6 +319,12 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="45" />
       </file>
+      <file name="/fragment.java" timestamp="1480627248152">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/BackgroundManager.java" timestamp="1476147759198">
         <mark key="'" line="65" column="3" />
         <mark key="[" line="65" column="3" />
@@ -313,64 +337,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="83" column="34" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="84" column="18" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="134" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="136" column="4" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="104" column="8" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="66" column="12" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="78" column="15" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="92" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="90" column="7" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="10" column="20" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="28" column="3" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="20" column="30" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="27" column="64" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="97" column="45" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="164" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="5" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="47" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="46" column="34" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="71" column="30" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="116" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="12" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="54" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="35" column="69" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" />
-      <jump line="29" column="37" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" />
-      <jump line="45" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="48" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="26" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="29" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" />
-      <jump line="39" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
-      <jump line="16" column="53" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="22" column="66" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="18" column="49" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="20" column="45" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
-      <jump line="120" column="58" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="44" column="6" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
-      <jump line="45" column="9" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
       <jump line="120" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="100" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="68" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="83" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="75" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="70" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="62" column="72" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
       <jump line="10" column="17" filename="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" />
       <jump line="5" column="0" filename="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" />
       <jump line="43" column="3" filename="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/Context.java" />
@@ -411,42 +383,94 @@
       <jump line="4" column="7" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="21" column="20" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="39" column="4" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
+      <jump line="24" column="64" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
+      <jump line="25" column="3" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="24" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="28" column="27" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="33" column="35" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="38" column="30" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="24" column="26" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="36" column="23" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="19" column="8" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="42" column="3" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="66" column="3" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="17" column="10" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="65" column="4" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="53" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="65" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="21" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="56" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="20" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="82" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="79" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="26" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="18" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="6" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="15" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="30" column="15" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
+      <jump line="54" column="20" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
-      <jump line="53" column="43" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="18" column="29" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
+      <jump line="3" column="66" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
+      <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate.jar!/resources/schemas/hibernate-configuration-3.0.dtd" />
+      <jump line="28" column="60" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
+      <jump line="24" column="50" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
+      <jump line="63" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="22" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="52" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="62" column="78" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="76" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="2" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>System.out.println</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMYXlvdXRcPg==</text>
+        <text encoding="base64">XDxSZWdpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxBcHBlbmRlciB0eXBlPSJGaWxlIiBuYW1lPSJGaWxlQWxsTG9ncyIgZmlsZU5hbWU9ImxvZ3MvRXF1aXBJdF9hbGwudHh0IiBpbW1lZGlhdGVGbHVzaD0idHJ1ZSIgYXBwZW5kPSJ0cnVlIj4KICAgICAgPExheW91dCB0eXBlPSJQYXR0ZXJuTGF5b3V0IiBwYXR0ZXJuPSIlZHt5eXktTU0tZGQgSEg6bW06c3MuU1NTfSBbJXRdICUtNWxldmVsICVsb2dnZXJ7MzZ9IC0gJW1zZyVuIi8+CiAgICA8L0FwcGVuZGVyPgo=</text>
+      <register name="0" type="4">
+        <text>System.out.println</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAiaHR0cDovL2hpYmVybmF0ZS5zb3VyY2Vmb3JnZS5uZXQvaGliZXJuYXRlLWNvbmZpZ3VyYXRpb24tMy4wLmR0ZCI+CiAgaHR0cDovL3d3dy5oaWJlcm5hdGUub3JnL2R0ZC9oaWJlcm5hdGUtY29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxGaWxlIG5hbWU9IkZpbGVBbGxMb2dzIiBmaWxlTmFtZT0ibG9ncy9NeVByb2pfYWxsLnR4dCIKICAgICAgaW1tZWRpYXRlRmx1c2g9InRydWUiIGFwcGVuZD0idHJ1ZSI+CiAgICAgIDxQYXR0ZXJuTGF5b3V0CiAgICAgICAgcGF0dGVybj0iJWR7eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlLTVsZXZlbCAlbG9nZ2VyezM2fSAtICVtc2clbiIvPgogICAgPC9GaWxlPgoKICAgIDxGaWxlIG5hbWU9IkZpbGVBbGxFcnJvcnMiIGZpbGVOYW1lPSJsb2dzL015UHJval9lcnJvcnMudHh0IgogICAgICBpbW1lZGlhdGVGbHVzaD0idHJ1ZSIgYXBwZW5kPSJ0cnVlIj4KICAgICAgPFBhdHRlcm5MYXlvdXQKICAgICAgICBwYXR0ZXJuPSIlZHt5eXktTU0tZGQgSEg6bW06c3MuU1NTfSBbJXRdICUtNWxldmVsICVsb2dnZXJ7MzZ9IC0gJW1zZyVuIi8+CiAgICA8L0ZpbGU+Cg==</text>
+        <text encoding="base64">ICAiaHR0cDovL2hpYmVybmF0ZS5zb3VyY2Vmb3JnZS5uZXQvaGliZXJuYXRlLWNvbmZpZ3VyYXRpb24tMy4wLmR0ZCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwYXR0ZXJuPSIlZHtISDptbTpzcy5TU1N9IFsldF0gJS01bGV2ZWwgJWxvZ2dlcnszNn0gLSAlbXNnJW4iLz4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuc2ltcGxlZW1haWwuQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNlOwppbXBvcnQgY29tLmFtYXpvbmF3cy5zZXJ2aWNlcy5zaW1wbGVlbWFpbC5BbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VDbGllbnQ7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPExheW91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MucmVnaW9ucy5SZWdpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -464,39 +488,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2V0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxMb2dnZXIgbmFtZT0ib3JnLmhpYmVybmF0ZS5TUUwiIGxldmVsPSIiLz4KICAgIDxMb2dnZXIgbmFtZT0ib3JnLmhpYmVybmF0ZS50eXBlIiBsZXZlbD0iIi8+CiAgICA8TG9nZ2VyIG5hbWU9Im9yZy5oaWJlcm5hdGUudHlwZS5kZXNjcmlwdG9yLnNxbCIgbGV2ZWw9InRyYWNlIi8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMYXlvdXRcPg==</last-search>
+      <last-search encoding="base64">XDxSZWdpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMYXlvdXRcPg==</last-pattern>
-      <last-replace>\2\1</last-replace>
-      <last-substitute encoding="base64">XCUoXlxzKisgXClcQDw9XCgiXClcKFxzXCtcKQ==</last-substitute>
+      <last-pattern encoding="base64">XDxSZWdpb25cPg==</last-pattern>
+      <last-replace />
+      <last-substitute>String \%(toStr = \)\@=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Interrupted</entry>
-        <entry encoding="base64">XDx0cnlcPg==</entry>
-        <entry>\clog4j</entry>
-        <entry encoding="base64">PHJlc291cmNlcz4=</entry>
-        <entry>org\.slf4j</entry>
-        <entry encoding="base64">XDxMb2dnZXJGYWN0b3J5XD4=</entry>
-        <entry>asdf</entry>
-        <entry>\ctemplate</entry>
-        <entry>\cloadout</entry>
-        <entry encoding="base64">XDxNYW55VG9NYW55XD4=</entry>
-        <entry encoding="base64">XDxJT1V0aWxzXD4=</entry>
-        <entry>\clog</entry>
-        <entry encoding="base64">ICsk</entry>
         <entry encoding="base64">XCUoXlxzKisgXClcQDw9XCgiXClcKFxzXCtcKQ==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxpbnB1dE9ialw+</entry>
@@ -504,9 +515,21 @@
         <entry encoding="base64">XDxkZXNjcmlwdG9yXD4=</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxMYXlvdXRcPg==</entry>
+        <entry>Success</entry>
+        <entry>suppre</entry>
+        <entry encoding="base64">XDxzdXBwcmVzc2lvbmxpc3RcPg==</entry>
+        <entry>String \%(toStr = \)\@=</entry>
+        <entry>client</entry>
+        <entry>AmazonSimpleEmailService</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxyZWdpb25zXD4=</entry>
+        <entry encoding="base64">XDxJbmplY3RcPg==</entry>
+        <entry>asdf</entry>
+        <entry>\ctrace</entry>
+        <entry encoding="base64">XCUoXC9cLy4qXClcQDwhU3lzdGVtXC5vdXRcLnByaW50bG4=</entry>
+        <entry encoding="base64">XDxSZWdpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NhdGVnb3J5L2l0ZW0vZ2U=</entry>
         <entry encoding="base64">JzwsJz5zL0NBVEVHT1JZL0lURU0vZ2U=</entry>
         <entry encoding="base64">JXMvXCUoXDxRdWVyeVwpXEA8PVwoXHNcK1x3XCtccyo9XHMqc2Vzc2lvblwuY3JlYXRlUXVlcnkoIlteIl0qIjpcKVwlKCk7XClcQD0vPExvYWRvdXQ+XDEsIExvYWRvdXQuY2xhc3MvZ2U=</entry>
         <entry>s/version/aws.java.sdk.\0/ge</entry>
@@ -525,6 +548,7 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zLyArJC8vZ2U=</entry>
         <entry encoding="base64">JzwsJz5zL1wlKF5ccyorIFwpXEA8PVwoIlwpXChcc1wrXCkvXDJcMS9nZQ==</entry>
+        <entry>%s/String \%(toStr = \)\@=//ge</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
