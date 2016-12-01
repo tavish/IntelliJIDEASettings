@@ -22,6 +22,12 @@
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/LambdaLogger.java" timestamp="1480455179759">
         <mark key="'" line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" timestamp="1480120659450">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="28" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/.gitignore" timestamp="1475167824239">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="22" column="0" />
@@ -81,11 +87,8 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480551255906">
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480553296443">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/LoadoutManager.java" timestamp="1479496020867">
         <mark key="'" line="268" column="0" />
@@ -163,11 +166,11 @@
         <mark key="^" line="80" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" timestamp="1480551229390">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" timestamp="1480552896897">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class" timestamp="1480542946970">
         <mark key="'" line="194" column="0" />
@@ -245,6 +248,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1479484976931">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/LoginTrack.java" timestamp="1477598616587">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="14" column="18" />
@@ -310,6 +319,12 @@
         <mark key="]" line="7" column="45" />
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1480289671365">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/BackgroundManager.java" timestamp="1476147759198">
         <mark key="'" line="65" column="3" />
@@ -422,38 +437,38 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>org.hibernate.dialect.MySQLDialect</text>
       </register>
       <register name="-" type="4">
-        <text>format_sql</text>
+        <text>org.hibernate.dialect.MySQLDialect</text>
       </register>
       <register name="/" type="4">
         <text>\clog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuZm9ybWF0X3NxbCI+dHJ1ZTwvcHJvcGVydHk+Cg==</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuZGlhbGVjdCI+b3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk15U1FMRGlhbGVjdDwvcHJvcGVydHk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmJ5dGVjb2RlLnVzZV9yZWZsZWN0aW9uX29wdGltaXplciI+ZmFsc2U8L3Byb3BlcnR5Pi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJsb2c0aiIK</text>
+        <text encoding="base64">ICAgIDxBcHBlbmRlciB0eXBlPSIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgIDxMb2dnZXIgbmFtZT0iUm9vdCIgbGV2ZWw9ImVycm9yIiA+CiAgICAgIDxBcHBlbmRlclJlZiByZWY9IkNvbnNvbGUiLz4KICAgIDwvTG9nZ2VyPgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICA8Um9vdCBsZXZlbD0iZXJyb3IiPgogICAgICA8QXBwZW5kZXJSZWYgcmVmPSJDb25zb2xlIi8+CiAgICA8L1Jvb3Q+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICA8Q29uc29sZSBuYW1lPSJDb25zb2xlIiB0YXJnZXQ9IlNZU1RFTV9PVVQiPgogICAgICA8UGF0dGVybkxheW91dCBwYXR0ZXJuPSIlZHtISDptbTpzcy5TU1N9IFsldF0gJS01bGV2ZWwgJWxvZ2dlcnszNn0gLSAlbXNnJW4iLz4KICAgIDwvQ29uc29sZT4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Lyogc3RhdGljICovIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgdGF2aXNoIG9uIDExLzEyLzE2LgogKi8K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -471,10 +486,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vY2tDb250ZXh0QnVpbGRlciA9IG5ldyBNb2NrQ29udGV4dEJ1aWxkZXIoIkVxdWlwTGFtYmRhIiwgKHN0cmluZyAtPiB7fSkpOwo=</text>
+        <text encoding="base64">ICAgIDxBcHBlbmRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
