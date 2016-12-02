@@ -267,8 +267,8 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480634244473">
-        <mark key="'" line="45" column="2" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480645192538">
+        <mark key="'" line="15" column="10" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="96" />
         <mark key="." line="99" column="8" />
@@ -349,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="20" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="18" column="29" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
       <jump line="3" column="66" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
@@ -449,6 +448,7 @@
       <jump line="58" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="10" column="32" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
+      <jump line="15" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -458,7 +458,7 @@
         <text>RequestRouterTest</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dnZXJcPg==</text>
+        <text encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXI7Cg==</text>
@@ -510,9 +510,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</last-pattern>
       <last-replace>region</last-replace>
       <last-substitute>client</last-substitute>
       <last-dir>1</last-dir>
@@ -525,7 +525,6 @@
         <entry encoding="base64">XDxzZW5kRW1haWxcPg==</entry>
         <entry encoding="base64">XDxzZW5kRW1haWxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxSZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxcPg==</entry>
         <entry>\cconnection</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxSZXN1bHRcPg==</entry>
@@ -540,6 +539,7 @@
         <entry encoding="base64">XDxSZWdpb25zXD4=</entry>
         <entry encoding="base64">XDxyZWdpb25cPg==</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">ZWNobyAmc2hpZnR3aWR0aA==</entry>
