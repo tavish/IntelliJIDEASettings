@@ -81,7 +81,7 @@
         <mark key="^" line="112" column="27" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" timestamp="1480654992329">
+      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" timestamp="1480658438771">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="17" column="36" />
         <mark key="]" line="17" column="84" />
@@ -204,12 +204,12 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItInjector.java" timestamp="1480655059386">
-        <mark key="'" line="13" column="25" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItInjector.java" timestamp="1480658451967">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/Entry.java" timestamp="1478568393162">
         <mark key="'" line="34" column="0" />
@@ -280,12 +280,12 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="55" column="21" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1480634227194">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="50" column="58" />
-        <mark key="]" line="50" column="4" />
-        <mark key="^" line="50" column="4" />
-        <mark key="." line="50" column="4" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1480658475905">
+        <mark key="'" line="33" column="24" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="49" column="4" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="64" column="54" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/Viewer.hbm.xml" timestamp="1476147250803">
         <mark key="'" line="6" column="20" />
@@ -325,7 +325,14 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1480627248152">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" timestamp="1480658409822">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1480657767919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -343,22 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1106" column="13" filename="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-ses/1.11.60/aws-java-sdk-ses-1.11.60-sources.jar!/com/amazonaws/services/simpleemail/AmazonSimpleEmailService.java" />
-      <jump line="107" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="47" column="4" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
-      <jump line="2" column="48" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
-      <jump line="4" column="48" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
-      <jump line="49" column="23" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
-      <jump line="32" column="2" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
-      <jump line="21" column="26" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="23" column="24" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="38" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="43" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="48" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="60" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="94" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
-      <jump line="114" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="119" column="17" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="9" column="4" filename="$USER_HOME$/code/backend-api/pom.xml" />
       <jump line="29" column="15" filename="$USER_HOME$/code/backend-api/pom.xml" />
@@ -443,40 +434,56 @@
       <jump line="54" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="10" column="42" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="28" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="31" column="37" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="46" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="50" column="57" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="53" column="46" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="51" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="2" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="44" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
+      <jump line="17" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItInjector.java" />
+      <jump line="20" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItInjector.java" />
+      <jump line="2" column="18" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItInjector.java" />
+      <jump line="64" column="87" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="17" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="33" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cre</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VDbGllbnRcPg==</text>
+        <text>\cinject</text>
       </register>
-      <register name="0" type="4">
-        <text>awsCredentialsProvider</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBAU2luZ2xldG9uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmQoQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNlLmNsYXNzKQogICAgICAudG8oQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNlQ2xpZW50LmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgdm9pZCBiaW5kQXdzUHJvcGVydGllcygpIHsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgIGJpbmRBd3NQcm9wZXJ0aWVzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICApIHsK</text>
+        <text encoding="base64">ICAgIGJpbmQoUmVnaW9ucy5jbGFzcykudG9JbnN0YW5jZShSZWdpb25zLlVTX1dFU1RfMik7CgogICAgYmluZChTdHJpbmcuY2xhc3MpCiAgICAgIC5hbm5vdGF0ZWRXaXRoKE5hbWVzLm5hbWVkKCJBd3NBY2Nlc3NLZXlJZCIpKQogICAgICAudG9JbnN0YW5jZSgiQVdTX0FDQ0VTU19LRVlfSUQiKTsKCiAgICBiaW5kKFN0cmluZy5jbGFzcykKICAgICAgLmFubm90YXRlZFdpdGgoTmFtZXMubmFtZWQoIkF3c1NlY3JlZEtleSIpKQogICAgICAudG9JbnN0YW5jZSgiQVdTX1NFQ1JFVF9LRVkiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIGJpbmQoUmVnaW9ucy5jbGFzcykudG9JbnN0YW5jZShSZWdpb25zLlVTX1dFU1RfMik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRvKERlZmF1bHRBV1NDcmVkZW50aWFsc1Byb3ZpZGVyQ2hhaW4uY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -494,19 +501,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgIGJpbmQoQVdTQ3JlZGVudGlhbHNQcm92aWRlci5jbGFzcykKICAgICAgLnRvKERlZmF1bHRBV1NDcmVkZW50aWFsc1Byb3ZpZGVyQ2hhaW4uY2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3MuYXV0aC5BV1NDcmVkZW50aWFsc1Byb3ZpZGVyOwo=</text>
+        <text encoding="base64">ICAgIC8vIGJpbmQoUmVxdWVzdFJvdXRlci5jbGFzcyk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VDbGllbnRcPg==</last-search>
+      <last-search>\cinject</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VDbGllbnRcPg==</last-pattern>
+      <last-pattern>\cinject</last-pattern>
       <last-replace>region</last-replace>
       <last-substitute>client</last-substitute>
       <last-dir>1</last-dir>
@@ -514,8 +521,6 @@
     </search>
     <history>
       <history-search>
-        <entry>version\.guice</entry>
-        <entry encoding="base64">XCUoXCUoPFwvXD9cL1xAIVx8XCR7XCl2ZXJzaW9uXC5cKVxAPD1ndWljZVs+fV1cQD0=</entry>
         <entry encoding="base64">XCUoXCUoPFwvXD9cL1xAIVx8XCR7XCl2ZXJzaW9uXC5cKVxAPD1sb2c0als+fV1cQD0=</entry>
         <entry>client</entry>
         <entry encoding="base64">XDxSZWdpb25zXD4=</entry>
@@ -531,9 +536,11 @@
         <entry>AWSCredentialsProvider</entry>
         <entry>adf</entry>
         <entry encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</entry>
-        <entry>\cinject</entry>
         <entry>\cmodule</entry>
         <entry encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxhd3NDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
+        <entry encoding="base64">XDxBV1NDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
+        <entry>\cinject</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">ZWNobyAmc2hpZnR3aWR0aA==</entry>
