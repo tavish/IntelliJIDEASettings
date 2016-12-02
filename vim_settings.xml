@@ -267,8 +267,8 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480645246169">
-        <mark key="'" line="89" column="53" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480646875321">
+        <mark key="'" line="89" column="9" />
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="50" />
         <mark key="." line="99" column="8" />
@@ -448,7 +448,7 @@
       <jump line="20" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="26" column="50" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="89" column="53" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="89" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -458,7 +458,7 @@
         <text>RequestRouterTest</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</text>
+        <text>AmazonSimpleEmailServiceClient</text>
       </register>
       <register name="0" type="4">
         <text>AmazonSimpleEmailService</text>
@@ -510,9 +510,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</last-search>
+      <last-search>AmazonSimpleEmailServiceClient</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</last-pattern>
+      <last-pattern>AmazonSimpleEmailServiceClient</last-pattern>
       <last-replace>region</last-replace>
       <last-substitute>client</last-substitute>
       <last-dir>1</last-dir>
@@ -520,8 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kRW1haWxcPg==</entry>
-        <entry encoding="base64">XDxzZW5kRW1haWxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxcPg==</entry>
         <entry>\cconnection</entry>
@@ -540,6 +538,8 @@
         <entry encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</entry>
         <entry>AmazonSimpleEmailService</entry>
         <entry encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</entry>
+        <entry encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VDbGllbnRcPg==</entry>
+        <entry>AmazonSimpleEmailServiceClient</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">ZWNobyAmc2hpZnR3aWR0aA==</entry>
