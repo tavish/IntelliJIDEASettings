@@ -267,10 +267,10 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480645192538">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="96" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480645246169">
+        <mark key="'" line="89" column="53" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="50" />
         <mark key="." line="99" column="8" />
         <mark key="^" line="99" column="8" />
       </file>
@@ -349,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
-      <jump line="18" column="29" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
       <jump line="3" column="66" filename="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" />
       <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate.jar!/resources/schemas/hibernate-configuration-3.0.dtd" />
       <jump line="28" column="60" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
@@ -426,10 +424,8 @@
       <jump line="99" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="33" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="3" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="17" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="22" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="20" column="64" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="111" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="100" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
       <jump line="45" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
@@ -449,19 +445,23 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="10" column="32" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
       <jump line="15" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="20" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="26" column="50" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="89" column="53" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RequestRouterTest</text>
+        <text>AmazonSimpleEmailService</text>
       </register>
       <register name="-" type="4">
         <text>RequestRouterTest</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</text>
+        <text encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXI7Cg==</text>
+      <register name="0" type="4">
+        <text>AmazonSimpleEmailService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXI7Cg==</text>
@@ -510,9 +510,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</last-search>
+      <last-search encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</last-pattern>
       <last-replace>region</last-replace>
       <last-substitute>client</last-substitute>
       <last-dir>1</last-dir>
@@ -520,8 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWdpb25cPg==</entry>
-        <entry>sendEmail</entry>
         <entry encoding="base64">XDxzZW5kRW1haWxcPg==</entry>
         <entry encoding="base64">XDxzZW5kRW1haWxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxSZXF1ZXN0XD4=</entry>
@@ -540,6 +538,8 @@
         <entry encoding="base64">XDxyZWdpb25cPg==</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPg==</entry>
+        <entry>AmazonSimpleEmailService</entry>
+        <entry encoding="base64">XCUoXDxBbWF6b25TaW1wbGVFbWFpbFNlcnZpY2VcPlwpXEAhQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">ZWNobyAmc2hpZnR3aWR0aA==</entry>
