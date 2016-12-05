@@ -262,12 +262,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480662633225">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1480906059283">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="27" column="5" />
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="79" />
+        <mark key="." line="15" column="79" />
+        <mark key="^" line="15" column="79" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-ses/1.11.60/aws-java-sdk-ses-1.11.60-sources.jar!/com/amazonaws/services/simpleemail/AmazonSimpleEmailService.java" timestamp="1480661427460">
         <mark key="'" line="1049" column="0" />
@@ -351,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="7" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="6" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="26" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
@@ -451,13 +450,14 @@
       <jump line="2" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
       <jump line="13" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" />
       <jump line="18" column="43" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
+      <jump line="50" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, toStr</text>
+        <text>::</text>
       </register>
       <register name="-" type="4">
-        <text>, toStr</text>
+        <text>::</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBd3NTZXNFbWFpbGVyXD4=</text>
@@ -466,25 +466,25 @@
         <text encoding="base64">ICAvKioKICAgKiBXcmFwcGVyIGFyb3VuZCB7QGxpbmsgQW1hem9uU2ltcGxlRW1haWxTZXJ2aWNlI3NlbmRFbWFpbChTZW5kRW1haWxSZXF1ZXN0KX0KICAgKiBAcGFyYW0gaXNIdG1sICAgICBJcyB0aGlzIGVtYWlsIGZvcm1hdHRlZCBpbiBIVE1MIChvciBwbGFpbiB0ZXh0KT8KICAgKiBAcGFyYW0gZnJvbUVtYWlsICBUaGUgc3RyaW5nIGZvciB0aGUgImZyb20iIGVtYWlsIGFkZHJlc3MKICAgKiBAcGFyYW0gc3ViamVjdFN0ciBUaGUgc3RyaW5nIGZvciB0aGUgZW1haWwgInN1YmplY3QiCiAgICogQHBhcmFtIGJvZHlTdHIgICAgVGhlIHN0cmluZyBmb3IgdGhlIGVtYWlsICJib2R5IgogICAqIEBwYXJhbSB0b0VtYWlscyAgIFRoZSBzdHJpbmcgZm9yIHRoZSAidG8iIGVtYWlsIGFkZHJlc3MKICAgKgogICAqIEByZXR1cm4gUmVzdWx0IG9mIHRoZSBTZW5kRW1haWwgb3BlcmF0aW9uIHJldHVybmVkIGJ5IHRoZSBzZXJ2aWNlLgogICAqIEB0aHJvd3MgTWVzc2FnZVJlamVjdGVkRXhjZXB0aW9uCiAgICogICAgICAgICBJbmRpY2F0ZXMgdGhhdCB0aGUgYWN0aW9uIGZhaWxlZCwgYW5kIHRoZSBtZXNzYWdlIGNvdWxkIG5vdCBiZSBzZW50LiBDaGVjayB0aGUgZXJyb3Igc3RhY2sgZm9yIG1vcmUKICAgKiAgICAgICAgIGluZm9ybWF0aW9uIGFib3V0IHdoYXQgY2F1c2VkIHRoZSBlcnJvci4KICAgKiBAdGhyb3dzIE1haWxGcm9tRG9tYWluTm90VmVyaWZpZWRFeGNlcHRpb24KICAgKiAgICAgICAgIEluZGljYXRlcyB0aGF0IHRoZSBtZXNzYWdlIGNvdWxkIG5vdCBiZSBzZW50IGJlY2F1c2UgQW1hem9uIFNFUyBjb3VsZCBub3QgcmVhZCB0aGUgTVggcmVjb3JkIHJlcXVpcmVkIHRvCiAgICogICAgICAgICB1c2UgdGhlIHNwZWNpZmllZCBNQUlMIEZST00gZG9tYWluLiBGb3IgaW5mb3JtYXRpb24gYWJvdXQgZWRpdGluZyB0aGUgY3VzdG9tIE1BSUwgRlJPTSBkb21haW4gc2V0dGluZ3MKICAgKiAgICAgICAgIGZvciBhbiBpZGVudGl0eSwgc2VlIHRoZSA8YQogICAqICAgICAgICAgaHJlZj0iaHR0cDovL2RvY3MuYXdzLmFtYXpvbi5jb20vc2VzL2xhdGVzdC9EZXZlbG9wZXJHdWlkZS9tYWlsLWZyb20tZWRpdC5odG1sIj5BbWF6b24gU0VTIERldmVsb3BlcgogICAqICAgICAgICAgR3VpZGU8L2E+LgogICAqIEB0aHJvd3MgQ29uZmlndXJhdGlvblNldERvZXNOb3RFeGlzdEV4Y2VwdGlvbgogICAqICAgICAgICAgSW5kaWNhdGVzIHRoYXQgdGhlIGNvbmZpZ3VyYXRpb24gc2V0IGRvZXMgbm90IGV4aXN0LgogICAqLwogIHB1YmxpYyBTZW5kRW1haWxSZXN1bHQgc2VuZChCb29sZWFuIGlzSHRtbCwgU3RyaW5nIGZyb21FbWFpbCwgU3RyaW5nIHN1YmplY3RTdHIsIFN0cmluZyBib2R5U3RyLCBTdHJpbmcuLi4gdG9FbWFpbHMpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5zZXRSZWdpb24ocmVnaW9uKTsKCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xpZW50ID0gY2xpZW50Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFJlZ2lvbiByZWdpb247Cgo=</text>
+        <text encoding="base64">ICAgIGNsaWVudC5zZXRSZWdpb24ocmVnaW9uKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gaXNIdG1sICAgICBJcyB0aGlzIGVtYWlsIGZvcm1hdHRlZCBpbiBIVE1MIChvciBwbGFpbiB0ZXh0KT8K</text>
+        <text encoding="base64">ICBwcml2YXRlIFJlZ2lvbiByZWdpb247Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gaXNIdG1sICAgICBJcyB0aGlzIGVtYWlsIGZvcm1hdHRlZCBpbiBIVE1MIChvciBwbGFpbiB0ZXh0KT8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVnaW9uID0gUmVnaW9uLmdldFJlZ2lvbihyZWdpb24pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHRoaXMucmVnaW9uID0gUmVnaW9uLmdldFJlZ2lvbihyZWdpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMucmVnaW9uID0gUmVnaW9uLmdldFJlZ2lvbihyZWdpb24pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -502,10 +502,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gdG9FbWFpbHMgICBUaGUgc3RyaW5nIGZvciB0aGUgInRvIiBlbWFpbCBhZGRyZXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gU3lzdGVtLm91dC5wcmludGxuKCJFbWFpbCBzZW50ISIpOwogICAgLy8gICBTeXN0ZW0ub3V0LnByaW50bG4oIlRoZSBlbWFpbCB3YXMgbm90IHNlbnQuIik7CiAgICAvLyAgIFN5c3RlbS5vdXQucHJpbnRsbigiRXJyb3IgbWVzc2FnZTogIiArIGV4LmdldE1lc3NhZ2UoKSk7CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gdG9FbWFpbHMgICBUaGUgc3RyaW5nIGZvciB0aGUgInRvIiBlbWFpbCBhZGRyZXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
