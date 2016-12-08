@@ -88,7 +88,7 @@
         <mark key="." line="34" column="5" />
         <mark key="^" line="34" column="5" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1480906736062">
+      <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1481220244435">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -262,7 +262,7 @@
       <file name="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" timestamp="1481049561389">
         <mark key="'" line="71" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481075000889">
+      <file name="/Dummy.txt" timestamp="1481219985619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
@@ -537,7 +537,7 @@
       <last-replace>region</last-replace>
       <last-substitute>client</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
