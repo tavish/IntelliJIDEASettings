@@ -50,12 +50,12 @@
         <mark key="^" line="108" column="6" />
         <mark key="." line="108" column="25" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1480549621913">
-        <mark key="'" line="46" column="34" />
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="34" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1481233912847">
+        <mark key="'" line="46" column="6" />
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+        <mark key="^" line="46" column="6" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" timestamp="1480550448043">
         <mark key="'" line="29" column="4" />
@@ -335,12 +335,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" timestamp="1481049968455">
         <mark key="'" line="308" column="16" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481228987331">
-        <mark key="'" line="102" column="4" />
-        <mark key="[" line="46" column="22" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="7" column="45" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481233800395">
+        <mark key="'" line="189" column="18" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="^" line="231" column="61" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" timestamp="1480907105328">
         <mark key="'" line="2" column="47" />
@@ -370,25 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="56" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="42" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="53" column="31" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/Emailer.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/Emailer.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/Emailer.java" />
-      <jump line="31" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="62" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
-      <jump line="56" column="29" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
-      <jump line="118" column="17" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
-      <jump line="76" column="19" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
-      <jump line="121" column="4" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
-      <jump line="57" column="4" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
-      <jump line="39" column="23" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/base/Preconditions.class" />
-      <jump line="129" column="0" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/base/Preconditions.class" />
-      <jump line="18" column="0" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
-      <jump line="19" column="51" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/base/Preconditions.class" />
       <jump line="33" column="23" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/base/Preconditions.class" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="171" column="21" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Preconditions.java" />
@@ -470,37 +451,56 @@
       <jump line="108" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="45" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="100" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="54" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="15" column="33" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="52" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="186" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="191" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="5" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="60" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="70" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="74" column="19" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="189" column="18" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="27" column="1" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
+      <jump line="83" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
+      <jump line="46" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ManyT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ManyT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kXD4=</text>
+        <text>getTemplate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dE9iai5nZXQoImFjdGlvbiIpLmdldEFzU3RyaW5nKCkudHJpbSgpLmVxdWFscygiIikK</text>
+        <text encoding="base64">CiAgQENyZWF0aW9uVGltZXN0YW1wCiAgcHJpdmF0ZSBEYXRlIGRhdGVDcmVhdGVkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNvbGxlY3QoSnNvbkFycmF5OjpuZXcsIEpzb25BcnJheTo6YWRkLCBKc29uQXJyYXk6OmFkZEFsbCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKgogIHByaXZhdGUgaW50IHVzZXJTa2lsTGV2ZWw7CiAgcHJpdmF0ZSBpbnQgdXNlcktub3dsZWRnZTsKICBwcml2YXRlIGludCB1c2VyRXhwZXJpZW5jZTsKICBwcml2YXRlIGludCB2b3RlVXA7CiAgcHJpdmF0ZSBpbnQgdm90ZURvd247CiAgcHJpdmF0ZSBpbnQgdmlld3NUb3RhbDsKICBwcml2YXRlIGludCByYW5rOwogICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIi5lcXVhbHMoaW5wdXRPYmouZ2V0KCJhY3Rpb24iKS5nZXRBc1N0cmluZygpLnRyaW0oKSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlICAgICAgIFN0cmluZyB0b1N0cjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgTGlzdDxUZW1wbGF0ZT4gZ2V0VGVtcGxhdGVzKCkgewogICAgcmV0dXJuIHRlbXBsYXRlczsKICB9CgogIHB1YmxpYyB2b2lkIHNldFRlbXBsYXRlcyhMaXN0PFRlbXBsYXRlPiB0ZW1wbGF0ZXMpIHsKICAgIHRoaXMudGVtcGxhdGVzID0gdGVtcGxhdGVzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">QEpvaW5UYWJsZSgKICAgIG5hbWUgPSAiTG9hZG91dF9UZW1wbGF0ZSIsCiAgICBqb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAibG9hZG91dF9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIiwKICAgICAgZm9yZWlnbktleSA9IEBGb3JlaWduS2V5KG5hbWUgPSAiRktfTE9BRE9VVFRFTVBMQVRFX0xPQURPVVRJRCIpKSwKICAgIGludmVyc2VKb2luQ29sdW1ucyA9IA==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -524,27 +524,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgianNvbiIsIHRoaXMuZ2V0SnNvbigpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kXD4=</last-search>
+      <last-search>getTemplate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kXD4=</last-pattern>
+      <last-pattern>getTemplate</last-pattern>
       <last-replace>region</last-replace>
       <last-substitute>client</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>^\(   \*\) Ensures the truth of an expression involving the state of the calling instance, but not\n\1 involving any parameters to the calling method\.\n\1\n\1 @param expression a boolean expression$</entry>
-        <entry>asdfasd</entry>
-        <entry encoding="base64">XDxjb25maWd1cmVcPg==</entry>
-        <entry encoding="base64">XCUoXlxzKlwvXD9cKlwlKC4qXCpcL1wpXEAhXClcQDwhXDxjb25maWd1cmVcPg==</entry>
         <entry encoding="base64">XCUoXlxzKlwvXD9cKlwlKC4qXCpcL1wpXEAhLipcKVxAPCFcPGNvbmZpZ3VyZVw+</entry>
         <entry encoding="base64">XCUoXlxzKlwvXD9cKlwlKC4qXCpcL1wpXEAhLipcKVxAPCFcJSheXCUoXCUoW14iXSoiXClce25maWd1cmVcPg==</entry>
         <entry encoding="base64">XCUoXlxzKlwvXD9cKlwlKC4qXCpcL1wpXEAhLipcKVxAPCFcJSheXCUoXCUoW14iXSoiXClce31cMm5maWd1cmVcPg==</entry>
@@ -561,6 +557,10 @@
         <entry encoding="base64">XCUoXlxzKlwlKFwvXD9cKlwlKC4qXCpcL1wpXEAhXHxcL1wvXCkuKlwpXEA8IVwlKF5cJShcJShbXiJdKiJcKXsyfVwpKlteIl0qIlteIl0qXClcQDwhXDxpbnN0YWxsXD4=</entry>
         <entry encoding="base64">XCUoXlxzKlwlKFwvXD9cKlwlKC4qXCpcL1wpXEAhXHxcL1wvXCkuKlwpXEA8IVwlKF5cJShcJShbXiJdKiJcKXsyfVwpKlteIl0qIlteIl0qXClcQDwhXC5cQDwhXDxpbnN0YWxsXD4=</entry>
         <entry encoding="base64">XDxzZW5kXD4=</entry>
+        <entry encoding="base64">XDxDcmVhdGlvblRpbWVzdGFtcFw+</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry encoding="base64">XDxnZXRUZW1wbGF0ZVw+</entry>
+        <entry>getTemplate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">ZWNobyAmc2hpZnR3aWR0aA==</entry>
@@ -573,7 +573,6 @@
         <entry>vsV</entry>
         <entry encoding="base64">JzwsJz5zL3BhY2thZ2VzL3BlcnNpc3RlbmNlWG1sL2dl</entry>
         <entry>pwd</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zLyArJC8vZ2U=</entry>
         <entry encoding="base64">JzwsJz5zL1wlKF5ccyorIFwpXEA8PVwoIlwpXChcc1wrXCkvXDJcMS9nZQ==</entry>
         <entry>%s/String \%(toStr = \)\@=//ge</entry>
@@ -582,6 +581,7 @@
         <entry encoding="base64">JXMvXCUoXCUoPFwvXD9cL1xAIVx8XCR7XCl2ZXJzaW9uXC5cKVxAPD1ndWljZVs+fV1cQD0vY29tLmdvb2dsZS5pbmplY3QvZ2U=</entry>
         <entry encoding="base64">JXMvXCUoXCUoPFwvXD9cL1xAIVx8XCR7XCl2ZXJzaW9uXC5cKVxAPD1sb2c0als+fV1cQD0vb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqL2dl</entry>
         <entry>s/client/region/ge</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
