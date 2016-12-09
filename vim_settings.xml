@@ -368,11 +368,11 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/base/Preconditions.class" timestamp="1481048219741">
         <mark key="'" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" timestamp="1481241214140">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" timestamp="1481241354266">
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="31" column="59" />
+        <mark key="^" line="31" column="59" />
+        <mark key="." line="31" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -478,11 +478,11 @@
       <jump line="11" column="41" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmxvYWRvdXQuTG9hZG91dE1hbmFnZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(request, LoadoutManager.Format, false);</text>
       </register>
       <register name="-" type="4">
-        <text>ManyT</text>
+        <text>(request, LoadoutManager.Format, false);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCYWRSZXF1ZXN0RXhjZXB0aW9uXD4=</text>
