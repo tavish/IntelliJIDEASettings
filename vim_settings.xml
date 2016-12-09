@@ -50,13 +50,6 @@
         <mark key="^" line="108" column="6" />
         <mark key="." line="108" column="25" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1481233912847">
-        <mark key="'" line="46" column="6" />
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="6" />
-        <mark key="^" line="46" column="6" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" timestamp="1480550448043">
         <mark key="'" line="29" column="4" />
         <mark key="[" line="37" column="18" />
@@ -74,6 +67,7 @@
       <file name="$USER_HOME$/tmp/git/tavish__hibernate5-ddl-maven-plugin/src/main/java/de/jpdigital/maven/plugins/hibernate5ddl/GenerateDdlMojo.java" timestamp="1480544678152">
         <mark key="'" line="515" column="0" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/beta/requests/BetaRequestsPost.java" timestamp="1481318195059" />
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" timestamp="1480290043044">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="5" column="0" />
@@ -261,7 +255,7 @@
       <file name="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/AbstractModule.java" timestamp="1481049561389">
         <mark key="'" line="71" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481315862259">
+      <file name="/Dummy.txt" timestamp="1481317812266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
@@ -333,9 +327,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" timestamp="1481049968455">
         <mark key="'" line="308" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481315521958">
-        <mark key="'" line="58" column="17" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" timestamp="1480907105328">
         <mark key="'" line="2" column="47" />
