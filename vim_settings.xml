@@ -120,9 +120,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="36" column="5" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1481315427942">
-        <mark key="'" line="54" column="27" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/Viewer.java" timestamp="1479165442457">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="0" />
@@ -353,12 +350,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/base/Preconditions.class" timestamp="1481048219741">
         <mark key="'" line="33" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" timestamp="1481241354266">
-        <mark key="[" line="31" column="59" />
-        <mark key="]" line="31" column="59" />
-        <mark key="^" line="31" column="59" />
-        <mark key="." line="31" column="59" />
       </file>
     </filemarks>
     <jumps>
