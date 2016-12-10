@@ -229,7 +229,13 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481409758604" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481410301269">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/AwsModule.java" timestamp="1480907105328">
         <mark key="'" line="2" column="47" />
         <mark key="[" line="29" column="23" />
@@ -259,17 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="26" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="191" column="12" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="192" column="8" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="208" column="12" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="564" column="0" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="159" column="72" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="106" column="30" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="86" column="11" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="99" column="11" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="93" column="11" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
-      <jump line="92" column="30" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
       <jump line="107" column="0" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
       <jump line="85" column="30" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
       <jump line="112" column="4" filename="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar!/com/google/inject/spi/Elements.java" />
@@ -306,7 +301,6 @@
       <jump line="108" column="20" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="45" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="100" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="54" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="15" column="33" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="201" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="52" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
@@ -332,10 +326,8 @@
       <jump line="11" column="41" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" />
       <jump line="51" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="231" column="58" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="213" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="156" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="92" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="43" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="64" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="14" column="0" filename="$USER_HOME$/code/backend-api/backend-api.iml" />
@@ -359,40 +351,54 @@
       <jump line="38" column="58" filename="/LoadoutsGet.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
       <jump line="8" column="58" filename="$USER_HOME$/code/backend-api/src/main/resources/log4j2.xml" />
+      <jump line="184" column="77" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="47" column="19" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="136" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="214" column="44" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="132" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="75" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="78" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="50" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="54" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="46" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9iamVjdC5hZGQoImRldGFpbHMiLCBwYXJzZXIucGFyc2UodGhpcy5nZXRKc29uKCkpLmdldEFzSnNvbk9iamVjdCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>logs</text>
+        <text encoding="base64">XDxNYW55VG9PbmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIG1hcHBpbmcgY2xhc3M9ImNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmVudHJ5LkVudHJ5IiAvLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmhibTJkZGwuYXV0byI+dmFsaWRhdGU8L3Byb3BlcnR5Pi0tPgo=</text>
+        <text encoding="base64">ICAgIG9iamVjdC5hZGQoImRldGFpbHMiLCBwYXJzZXIucGFyc2UodGhpcy5nZXRKc29uKCkpLmdldEFzSnNvbk9iamVjdCgpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgcHVibGljIExpc3Q8QmFja2dyb3VuZD4gZ2V0QmFja2dyb3VuZHMoKSB7CiAgICByZXR1cm4gYmFja2dyb3VuZHM7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRCYWNrZ3JvdW5kcyhMaXN0PEJhY2tncm91bmQ+IGJhY2tncm91bmRzKSB7CiAgICB0aGlzLmJhY2tncm91bmRzID0gYmFja2dyb3VuZHM7CiAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgianNvbiIsIHRoaXMuZ2V0SnNvbigpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgianNvbiIsIHRoaXMuZ2V0SnNvbigpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiLAogICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgia2V5X3dvcmRzIiwgdGhpcy5nZXRLZXlXb3JkcygpKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">QEpvaW5UYWJsZSgKICAgIG5hbWUgPSAiTG9hZG91dF9CYWNrZ3JvdW5kIiwKICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJsb2Fkb3V0X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiLAogICAgICBmb3JlaWduS2V5ID0gQEZvcmVpZ25LZXkobmFtZSA9ICJGS19MT0FET1VUQkFDS0dST1VORF9MT0FET1VUSUQiKSksCiAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmhibTJkZGwuYXV0byI+dmFsaWRhdGU8L3Byb3BlcnR5Pi0tPgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgcHVibGljIERhdGUgZ2V0RGF0ZUNyZWF0ZWQoKSB7CiAgICByZXR1cm4gZGF0ZUNyZWF0ZWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXREYXRlQ3JlYXRlZChEYXRlIGRhdGVDcmVhdGVkKSB7CiAgICB0aGlzLmRhdGVDcmVhdGVkID0gZGF0ZUNyZWF0ZWQ7CiAgfQoKICBwdWJsaWMgRGF0ZSBnZXREYXRlTW9kaWZpZWQoKSB7CiAgICByZXR1cm4gZGF0ZU1vZGlmaWVkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0RGF0ZU1vZGlmaWVkKERhdGUgZGF0ZU1vZGlmaWVkKSB7CiAgICB0aGlzLmRhdGVNb2RpZmllZCA9IGRhdGVNb2RpZmllZDsKICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgcHVibGljIExpc3Q8QmFja2dyb3VuZD4gZ2V0QmFja2dyb3VuZHMoKSB7CiAgICByZXR1cm4gYmFja2dyb3VuZHM7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRCYWNrZ3JvdW5kcyhMaXN0PEJhY2tncm91bmQ+IGJhY2tncm91bmRzKSB7CiAgICB0aGlzLmJhY2tncm91bmRzID0gYmFja2dyb3VuZHM7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgQENyZWF0aW9uVGltZXN0YW1wCiAgcHJpdmF0ZSBEYXRlIGRhdGVDcmVhdGVkOwoKICBAVXBkYXRlVGltZXN0YW1wCiAgcHJpdmF0ZSBEYXRlIGRhdGVNb2RpZmllZDsK</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -409,31 +415,27 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmxvYWRvdXQuTG9hZG91dE1hbmFnZXI7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiLAogICAgICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcXVpcGV3cy5hcGlnYXRld2F5Lm1vZGVsLmxvYWRvdXQuTG9hZG91dE1hbmFnZXI7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">QEpvaW5UYWJsZSgKICAgIG5hbWUgPSAiTG9hZG91dF9CYWNrZ3JvdW5kIiwKICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJsb2Fkb3V0X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiLAogICAgICBmb3JlaWduS2V5ID0gQEZvcmVpZ25LZXkobmFtZSA9ICJGS19MT0FET1VUQkFDS0dST1VORF9MT0FET1VUSUQiKSksCiAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logs</last-search>
+      <last-search encoding="base64">XDxNYW55VG9PbmVcPg==</last-search>
       <last-offset />
-      <last-pattern>logs</last-pattern>
+      <last-pattern encoding="base64">XDxNYW55VG9PbmVcPg==</last-pattern>
       <last-replace>region</last-replace>
       <last-substitute>client</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRFbGVtZW50c1w+</entry>
-        <entry>install</entry>
-        <entry encoding="base64">XDxpbnN0YWxsXD4=</entry>
-        <entry encoding="base64">XCUoXlxzKlwvXD9cKlwlKC4qXCpcL1wpXEAhLipcKVxAPCFcJSheXCUoXCUoW14iXSoiXCl7Mn1cKSpbXiJdKiJbXiJdKlwpXEA8IVw8aW5zdGFsbFw+</entry>
         <entry encoding="base64">XCUoXlxzKlwlKFwvXD9cKlwlKC4qXCpcL1wpXEAhXHxcL1wvXCkuKlwpXEA8IVwlKF5cJShcJShbXiJdKiJcKXsyfVwpKlteIl0qIlteIl0qXClcQDwhXDxpbnN0YWxsXD4=</entry>
         <entry encoding="base64">XCUoXlxzKlwlKFwvXD9cKlwlKC4qXCpcL1wpXEAhXHxcL1wvXCkuKlwpXEA8IVwlKF5cJShcJShbXiJdKiJcKXsyfVwpKlteIl0qIlteIl0qXClcQDwhXC5cQDwhXDxpbnN0YWxsXD4=</entry>
         <entry encoding="base64">XDxzZW5kXD4=</entry>
@@ -450,6 +452,10 @@
         <entry>guice</entry>
         <entry encoding="base64">XDxMb2Fkb3V0TWFuYWdlclw+</entry>
         <entry>logs</entry>
+        <entry>\cjson</entry>
+        <entry>[gs]etJson</entry>
+        <entry>@OneToMany</entry>
+        <entry encoding="base64">XDxNYW55VG9PbmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">ZWNobyAmc2hpZnR3aWR0aA==</entry>
