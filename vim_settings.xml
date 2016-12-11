@@ -125,12 +125,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="75" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1481493215911">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="49" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" timestamp="1481498453857">
+        <mark key="'" line="84" column="23" />
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
       </file>
       <file name="/LoadoutsGet.java" timestamp="1481323476229">
         <mark key="'" line="38" column="58" />
@@ -326,15 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="162" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="27" column="5" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="10" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="108" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
@@ -389,13 +380,11 @@
       <jump line="146" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="140" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="131" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="75" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="71" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="67" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="79" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="60" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="4" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="6" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
       <jump line="8" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
@@ -426,6 +415,17 @@
       <jump line="95" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="91" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="175" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="79" column="33" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="34" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="45" column="10" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="103" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="107" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="144" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="35" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="80" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="83" column="36" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
+      <jump line="84" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Background.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -435,7 +435,7 @@
         <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
-        <text>^  }\n\zs\ze  public</text>
+        <text>imageBase64.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiZGF0ZV9jcmVhdGVkIiwgdGhpcy5nZXREYXRlQ3JlYXRlZCgpLnRvU3RyaW5nKCkpOwogICAgb2JqZWN0LmFkZFByb3BlcnR5KCJkYXRlX21vZGlmaWVkIiwgdGhpcy5nZXREYXRlTW9kaWZpZWQoKS50b1N0cmluZygpKTsK</text>
@@ -487,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search>^  }\n\zs\ze  public</last-search>
+      <last-search>imageBase64.</last-search>
       <last-offset />
-      <last-pattern>^  }\n\zs\ze  public</last-pattern>
+      <last-pattern>imageBase64.</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>^  }\n\zs\ze  public</last-substitute>
       <last-dir>1</last-dir>
@@ -497,9 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com.google.inject:guice:</entry>
-        <entry>guice</entry>
-        <entry encoding="base64">XDxMb2Fkb3V0TWFuYWdlclw+</entry>
         <entry>logs</entry>
         <entry>\cjson</entry>
         <entry>[gs]etJson</entry>
@@ -517,6 +514,9 @@
         <entry encoding="base64">XDxiYXNlNjRkZWNvZGVkQnl0ZXNcPg==</entry>
         <entry encoding="base64">XHNcQDwhXHMqXG5ccyp7XEA9</entry>
         <entry>^  }\n\zs\ze  public</entry>
+        <entry>\cimage</entry>
+        <entry>\cimage\%(_\?base64\)\@!</entry>
+        <entry>imageBase64.</entry>
       </history-search>
       <history-cmd>
         <entry>set</entry>
