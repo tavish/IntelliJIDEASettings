@@ -297,8 +297,8 @@
         <mark key="]" line="225" column="75" />
         <mark key="." line="224" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481414233326">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481486068908">
+        <mark key="'" line="176" column="23" />
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
@@ -326,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
       <jump line="26" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
       <jump line="86" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
       <jump line="285" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/User.java" />
@@ -426,6 +425,7 @@
       <jump line="60" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/request/BetaRequest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="89" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" />
+      <jump line="176" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -435,7 +435,7 @@
         <text>Created</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text>JoinTable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiZGF0ZV9jcmVhdGVkIiwgdGhpcy5nZXREYXRlQ3JlYXRlZCgpLnRvU3RyaW5nKCkpOwogICAgb2JqZWN0LmFkZFByb3BlcnR5KCJkYXRlX21vZGlmaWVkIiwgdGhpcy5nZXREYXRlTW9kaWZpZWQoKS50b1N0cmluZygpKTsK</text>
@@ -487,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search>JoinTable</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
+      <last-pattern>JoinTable</last-pattern>
       <last-replace>Template</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYWRSZXF1ZXN0RXhjZXB0aW9uXD4=</entry>
         <entry>javax.inject:javax.inject</entry>
         <entry>com.google.inject:guice:</entry>
         <entry>guice</entry>
@@ -517,6 +516,7 @@
         <entry encoding="base64">XDxKc29uUGFyc2VyXD4=</entry>
         <entry>parser</entry>
         <entry>User</entry>
+        <entry>JoinTable</entry>
       </history-search>
       <history-cmd>
         <entry>set</entry>
