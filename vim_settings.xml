@@ -32,18 +32,18 @@
         <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" timestamp="1481579651401" />
-      <file name="/a.dummy" timestamp="1481577279419">
+      <file name="/a.dummy" timestamp="1481659186562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/backend-api.iml" timestamp="1481320900936">
         <mark key="'" line="68" column="73" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" timestamp="1481657445766">
-        <mark key="'" line="47" column="26" />
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="22" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" timestamp="1481659766630">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+        <mark key="^" line="36" column="1" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/entry/EntryHelper.java" timestamp="1481577139749">
         <mark key="'" line="19" column="17" />
@@ -163,31 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" />
-      <jump line="10" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/SelectionManager.java" />
-      <jump line="12" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/SelectionManager.java" />
-      <jump line="19" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="21" column="42" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="22" column="42" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="23" column="49" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="44" column="85" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="51" column="137" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="58" column="47" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
-      <jump line="38" column="18" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
-      <jump line="29" column="54" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
-      <jump line="33" column="31" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
-      <jump line="34" column="9" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
-      <jump line="35" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
-      <jump line="39" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" />
-      <jump line="100" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" />
-      <jump line="104" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
-      <jump line="61" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
-      <jump line="40" column="29" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsDelete.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsDelete.java" />
       <jump line="35" column="88" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsDelete.java" />
       <jump line="42" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsDelete.java" />
       <jump line="44" column="63" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsDelete.java" />
@@ -258,46 +233,70 @@
       <jump line="37" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" />
       <jump line="5" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" />
       <jump line="30" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
-      <jump line="44" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
-      <jump line="34" column="31" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
       <jump line="37" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
       <jump line="40" column="25" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
       <jump line="47" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="35" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="34" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="83" column="40" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="84" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="44" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="45" column="15" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="107" column="40" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="27" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="145" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="104" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="108" column="31" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="144" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, nullable = true)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgidXJsIiwgKCh0aGlzLmdldFVybCgpICE9IG51bGwpID8gdGhpcy5nZXRVcmwoKS50b1N0cmluZygpIDogbnVsbCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, nullable = true)</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
-        <text>, nullable = true</text>
+        <text encoding="base64">XDxJbWFnZVR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gInNsb3RfaWQiLCBudWxsYWJsZSA9IGZhbHNlLCBmb3JlaWduS2V5ID0gQEZvcmVpZ25LZXkobmFtZSA9ICJGS19TRUxFQ1RJT05fU0xPVElEIikpCg==</text>
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgidXJsIiwgKCh0aGlzLmdldFVybCgpICE9IG51bGwpID8gdGhpcy5nZXRVcmwoKS50b1N0cmluZygpIDogbnVsbCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>uniqueConstraints = {
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLmdldFVybCgpICE9IG51bGwpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVW5pcXVlQ29uc3RyYWludChuYW1lID0gIlVLX1NFTEVDVElPTl9DT0RFIiwgY29sdW1uTmFtZXMgPSAiY29kZSIpCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgTGlzdDxMb2Fkb3V0PiBnZXRMb2Fkb3V0cygpIHsKICAgIHJldHVybiBsb2Fkb3V0czsKICB9CgogIHB1YmxpYyB2b2lkIHNldExvYWRvdXRzKExpc3Q8TG9hZG91dD4gbG9hZG91dHMpIHsKICAgIHRoaXMubG9hZG91dHMgPSBsb2Fkb3V0czsKICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9hZG91dCA9IGxvYWRvdXQ7Cg==</text>
+        <text encoding="base64">ICBATWFueVRvTWFueShtYXBwZWRCeSA9ICJpbWFnZXMiKQogIHByaXZhdGUgTGlzdDxMb2Fkb3V0PiBsb2Fkb3V0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgLSBTbG90Cg==</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGxvb2t1cCBhbmQgYXNzaWduCiAgICAvLyAgIC0gTG9hZG91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uUGFyc2VyOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGVudW0gSW1hZ2VUeXBlIHsKICAgIEpQRUcsCiAgICBQTkcsCiAgICBHSUY7CiAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -315,19 +314,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBARW51bWVyYXRlZAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXREYXRlTW9kaWZpZWQoRGF0ZSBkYXRlTW9kaWZpZWQpIHsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">bWltZVR5cGU7CgogIEBNYW55VG9NYW55KG1hcHBlZEJ5ID0gImltYWdlcyIpCiAgcHJpdmF0ZSBMaXN0PExvYWRvdXQ+IGxvYWRvdXRzID0gbmV3IEFycmF5TGlzdDw+KCk7CgogIEBDcmVhdGlvblRpbWVzdGFtcAogIHByaXZhdGUgRGF0ZSBkYXRlQ3JlYXRlZDsKCiAgQFVwZGF0ZVRpbWVzdGFtcAogIHByaXZhdGUgRGF0ZSBkYXRlTW9kaWZpZWQ7CgogIHB1YmxpYyBJbWFnZSgpIHsKICB9CgogIHB1YmxpYyBJbWFnZShVUkwgdXJsKSB7CiAgICB0aGlzLnVybCA9IHVybDsKICB9CgogIHB1YmxpYyBpbnQgZ2V0SWQoKSB7CiAgICByZXR1cm4gaWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJZChpbnQgaWQpIHsKICAgIHRoaXMuaWQgPSBpZDsKICB9CgogIHB1YmxpYyBVUkwgZ2V0VXJsKCkgewogICAgcmV0dXJuIHVybDsKICB9CgogIHB1YmxpYyB2b2lkIHNldFVybChVUkwgdXJsKSB7CiAgICB0aGlzLnVybCA9IHVybDsKICB9CgogIHB1YmxpYyBCeXRlW10gZ2V0Qnl0ZXNCYXNlNjQoKSB7CiAgICByZXR1cm4gYnl0ZXNCYXNlNjQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRCeXRlc0Jhc2U2NChCeXRlW10gYnl0ZXNCYXNlNjQpIHsKICAgIHRoaXMuYnl0ZXNCYXNlNjQgPSBieXRlc0Jhc2U2NDsKICB9CgogIHB1YmxpYyBJbnRlZ2VyIGdldFdpZHRoKCkgewogICAgcmV0dXJuIHdpZHRoOwogIH0KCiAgcHVibGljIHZvaWQgc2V0V2lkdGgoSW50ZWdlciB3aWR0aCkgewogICAgdGhpcy53aWR0aCA9IHdpZHRoOwogIH0KCiAgcHVibGljIEludGVnZXIgZ2V0SGVpZ2h0KCkgewogICAgcmV0dXJuIGhlaWdodDsKICB9CgogIHB1YmxpYyB2b2lkIHNldEhlaWdodChJbnRlZ2VyIGhlaWdodCkgewogICAgdGhpcy5oZWlnaHQgPSBoZWlnaHQ7CiAgfQoKICBwdWJsaWMgSW1hZ2U=</text>
       </register>
       <register name=":" type="4">
         <text>%s/, nullable = true//ge</text>
       </register>
     </registers>
     <search>
-      <last-search>, nullable = true</last-search>
+      <last-search encoding="base64">XDxJbWFnZVR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern>, nullable = true</last-pattern>
+      <last-pattern encoding="base64">XDxJbWFnZVR5cGVcPg==</last-pattern>
       <last-replace />
       <last-substitute>, nullable = true</last-substitute>
       <last-dir>1</last-dir>
@@ -335,10 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XHNcQDwhXHMqXG5ccyp7XEA9</entry>
-        <entry>^  }\n\zs\ze  public</entry>
-        <entry>\cimage</entry>
-        <entry>\cimage\%(_\?base64\)\@!</entry>
         <entry>imageBase64.</entry>
         <entry>\centry</entry>
         <entry>Entry</entry>
@@ -355,6 +350,10 @@
         <entry>slot</entry>
         <entry>\cslot</entry>
         <entry>, nullable = true</entry>
+        <entry>\cimage\%(_\?base64\)\@=</entry>
+        <entry encoding="base64">XGNcJShtaW1lX1w/XClcQDwhdHlwZQ==</entry>
+        <entry encoding="base64">XGNcJShcJShJbWFnZVx8bWltZVwpX1w/XClcQDwhdHlwZQ==</entry>
+        <entry encoding="base64">XDxJbWFnZVR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXCUoXCUoPFwvXD9cL1xAIVx8XCR7XCl2ZXJzaW9uXC5cKVxAPD1ndWljZVs+fV1cQD0vY29tLmdvb2dsZS5pbmplY3QvZ2U=</entry>
