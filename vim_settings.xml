@@ -160,12 +160,11 @@
         <mark key="." line="67" column="20" />
         <mark key="^" line="67" column="20" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481661350018">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="206" column="2" />
-        <mark key="." line="50" column="81" />
-        <mark key="^" line="50" column="81" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481676131436">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" timestamp="1481577559607">
         <mark key="'" line="35" column="7" />
@@ -184,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadoutType.java" />
-      <jump line="55" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadoutType.java" />
       <jump line="63" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadoutType.java" />
       <jump line="110" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadoutType.java" />
       <jump line="143" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadoutType.java" />
@@ -284,10 +281,12 @@
       <jump line="65" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="57" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="61" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="75" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Slot_Item</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="-" type="4">
         <text>Slot_Item</text>
@@ -299,25 +298,25 @@
         <text encoding="base64">CiAgcHVibGljIFB1Ymxpc2hlZExvYWRvdXQoU3RyaW5nIGNvZGUsIExvYWRvdXQgbG9hZG91dCwgUHVibGlzaGVkTG9hZG91dFR5cGUgcHVibGlzaGVkTG9hZG91dFR5cGUsIFN0cmluZyBqc29uKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHVibGljIFN0cmluZyBnZXRKc29uKCkgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIG5ldyBTdHJpbmcoQmFzZTY0LmdldERlY29kZXIoKS5kZWNvZGUoCiAgICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICAgICksIENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7CiAgICB9CiAgICBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIGUuZ2V0TWVzc2FnZSgpOwogICAgfQogIH0KCiAgcHVibGljIHZvaWQgc2V0SnNvbihTdHJpbmcganNvbikgewogICAgdGhpcy5qc29uID0gbmV3IFN0cmluZyhCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZSgKICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICApLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpOwogIH0K</text>
+        <text encoding="base64">ICAvKioKICAgKiBJdGVtcyBpbiB0aGlzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcHVibGljIFN0cmluZyBnZXRKc29uKCkgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIG5ldyBTdHJpbmcoQmFzZTY0LmdldERlY29kZXIoKS5kZWNvZGUoCiAgICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICAgICksIENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7CiAgICB9CiAgICBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIGUuZ2V0TWVzc2FnZSgpOwogICAgfQogIH0KCiAgcHVibGljIHZvaWQgc2V0SnNvbihTdHJpbmcganNvbikgewogICAgdGhpcy5qc29uID0gbmV3IFN0cmluZyhCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZSgKICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICApLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpOwogIH0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQENvbHVtbihuYW1lID0gImpzb24iLCBsZW5ndGggPSA1MDAwKQogIHByaXZhdGUgU3RyaW5nIGpzb247Cg==</text>
+        <text encoding="base64">CiAgcHVibGljIFN0cmluZyBnZXRKc29uKCkgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIG5ldyBTdHJpbmcoQmFzZTY0LmdldERlY29kZXIoKS5kZWNvZGUoCiAgICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICAgICksIENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7CiAgICB9CiAgICBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIGUuZ2V0TWVzc2FnZSgpOwogICAgfQogIH0KCiAgcHVibGljIHZvaWQgc2V0SnNvbihTdHJpbmcganNvbikgewogICAgdGhpcy5qc29uID0gbmV3IFN0cmluZyhCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZSgKICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICApLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJbWFnZSAK</text>
+        <text encoding="base64">CiAgcHVibGljIFN0cmluZyBnZXRKc29uKCkgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIG5ldyBTdHJpbmcoQmFzZTY0LmdldERlY29kZXIoKS5kZWNvZGUoCiAgICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICAgICksIENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7CiAgICB9CiAgICBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIGUuZ2V0TWVzc2FnZSgpOwogICAgfQogIH0KCiAgcHVibGljIHZvaWQgc2V0SnNvbihTdHJpbmcganNvbikgewogICAgdGhpcy5qc29uID0gbmV3IFN0cmluZyhCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZSgKICAgICAganNvbi5nZXRCeXRlcyhDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCiAgICApLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpOwogIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiaWQiLCB0aGlzLmdldElkKCkpOwo=</text>
+        <text encoding="base64">CiAgQENvbHVtbihuYW1lID0gImpzb24iLCBsZW5ndGggPSA1MDAwKQogIHByaXZhdGUgU3RyaW5nIGpzb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgSnNvbk9iamVjdCB0b0pzb25PYmplY3RDb2RlT25seSgpIHsKICAgIEpzb25PYmplY3Qgb2JqZWN0ID0gbmV3IEpzb25PYmplY3QoKTsKICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiaWQiLCB0aGlzLmdldElkKCkpOwogICAgb2JqZWN0LmFkZFByb3BlcnR5KCJsb2Fkb3V0X2NvZGUiLCB0aGlzLmdldExvYWRvdXQoKS5nZXRDb2RlKCkpOwogICAgcmV0dXJuIG9iamVjdDsKICB9Cgo=</text>
+        <text encoding="base64">ICBJbWFnZSAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -335,10 +334,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiaWQiLCB0aGlzLmdldElkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAicHVibGlzaGVkX3R5cGVfaWQiLCBsZW5ndGggPSAyNTYpCiAgcHJpdmF0ZSBJbnRlZ2VyIHB1Ymxpc2hlZF90eXBlX2lkOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgSnNvbk9iamVjdCB0b0pzb25PYmplY3RDb2RlT25seSgpIHsKICAgIEpzb25PYmplY3Qgb2JqZWN0ID0gbmV3IEpzb25PYmplY3QoKTsKICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiaWQiLCB0aGlzLmdldElkKCkpOwogICAgb2JqZWN0LmFkZFByb3BlcnR5KCJsb2Fkb3V0X2NvZGUiLCB0aGlzLmdldExvYWRvdXQoKS5nZXRDb2RlKCkpOwogICAgcmV0dXJuIG9iamVjdDsKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -351,7 +350,7 @@
       <last-replace>PUBLISHEDLOADOUT</last-replace>
       <last-substitute>SLOT</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
