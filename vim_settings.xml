@@ -18,11 +18,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/contacts/requests/ContactsRequestsGet.java" timestamp="1481677587978">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" timestamp="1481750935765">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="36" column="0" />
@@ -117,12 +112,12 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1481661475650">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="44" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" timestamp="1481752037401">
+        <mark key="'" line="179" column="4" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="44" />
         <mark key="^" line="10" column="0" />
-        <mark key="." line="181" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1481678343254">
         <mark key="[" line="28" column="0" />
@@ -163,7 +158,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1481677458960">
+      <file name="/a.regexp" timestamp="1481752600616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" timestamp="1481751939463">
@@ -207,11 +202,11 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481752015108">
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" timestamp="1481752032141">
         <mark key="'" line="90" column="19" />
         <mark key="[" line="90" column="20" />
         <mark key="]" line="90" column="20" />
-        <mark key="^" line="197" column="11" />
+        <mark key="^" line="196" column="11" />
         <mark key="." line="90" column="20" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/background/Image.java" timestamp="1481569417996">
@@ -228,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/Slot.java" />
       <jump line="32" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="230" column="7" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="138" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/Item.java" />
@@ -328,6 +322,7 @@
       <jump line="96" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
       <jump line="90" column="19" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/Loadout.java" />
+      <jump line="180" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -385,15 +380,15 @@
         <text encoding="base64">ICAgIFNlbGVjdGlvbiBzZWxlY3Rpb24gPQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvXDxiXCUob29sZWFuXD5cKVxAPS9CL2dl</text>
+        <text encoding="base64">JXMve1xAPD1ccypcblxzKn1cQD0vL2dl</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">e1xAPD1ccypcblxzKn1cQD0=</last-search>
       <last-offset />
       <last-pattern encoding="base64">e1xAPD1ccypcblxzKn1cQD0=</last-pattern>
-      <last-replace>B</last-replace>
-      <last-substitute encoding="base64">XDxiXCUob29sZWFuXD5cKVxAPQ==</last-substitute>
+      <last-replace />
+      <last-substitute encoding="base64">e1xAPD1ccypcblxzKn1cQD0=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -421,7 +416,6 @@
         <entry encoding="base64">e1xAPD1ccypcblxzKn1cQD0=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/outline/background/ge</entry>
         <entry>s/Outline/Background/ge</entry>
         <entry>%s/SLOT/PUBLISHEDLOADOUT/ge</entry>
         <entry>s/Id//ge</entry>
@@ -441,6 +435,7 @@
         <entry encoding="base64">JzwsJz5zL1Nsb3QvSXRlbS9nZQ==</entry>
         <entry>w</entry>
         <entry encoding="base64">JXMvXDxiXCUob29sZWFuXD5cKVxAPS9CL2dl</entry>
+        <entry encoding="base64">JXMve1xAPD1ccypcblxzKn1cQD0vL2dl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
