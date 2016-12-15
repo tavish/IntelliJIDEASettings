@@ -24,6 +24,13 @@
         <mark key="]" line="45" column="54" />
         <mark key="." line="45" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" timestamp="1481764948249">
+        <mark key="'" line="1" column="92" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/UserItem.java" timestamp="1481679615949">
         <mark key="'" line="19" column="47" />
         <mark key="[" line="20" column="15" />
@@ -43,6 +50,9 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1481659186562">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" timestamp="1481763544189">
         <mark key="'" line="29" column="32" />
@@ -71,12 +81,12 @@
         <mark key="]" line="12" column="48" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1481761246455">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="32" />
-        <mark key="^" line="41" column="1" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" timestamp="1481765014358">
+        <mark key="'" line="48" column="28" />
+        <mark key="[" line="44" column="80" />
+        <mark key="]" line="44" column="87" />
+        <mark key="^" line="44" column="87" />
+        <mark key="." line="44" column="87" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadoutType.java" timestamp="1481760493745">
         <mark key="'" line="42" column="2" />
@@ -123,6 +133,9 @@
         <mark key="[" line="28" column="43" />
         <mark key="]" line="28" column="43" />
         <mark key="." line="28" column="43" />
+      </file>
+      <file name="/dummy.sql" timestamp="1481764828505">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/resources/hibernate.cfg.xml" timestamp="1481678343254">
         <mark key="[" line="28" column="0" />
@@ -235,10 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/SlotType.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
-      <jump line="58" column="32" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
       <jump line="61" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
       <jump line="27" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
       <jump line="188" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" />
@@ -335,40 +344,78 @@
       <jump line="68" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="180" column="44" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
       <jump line="160" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/Category.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" />
+      <jump line="24" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" />
+      <jump line="1" column="92" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" />
+      <jump line="48" column="28" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/Template.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiZGF0ZV9jcmVhdGVkIiwgdGhpcy5nZXREYXRlQ3JlYXRlZCgpLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>SLOTTYPE</text>
       </register>
       <register name="-" type="4">
-        <text>.toString());</text>
+        <text>SLOTTYPE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXREYXRlQ3JlYXRlZFw+</text>
+        <text>SLOTTYPE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgiZGF0ZV9jcmVhdGVkIiwgdGhpcy5nZXREYXRlQ3JlYXRlZCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>select
+  category0_.id as id1_2_,
+  category0_.child_count as child_co2_2_,
+  category0_.code as code3_2_,
+  category0_.loadout_count as loadout_4_2_,
+  category0_.name as name5_2_,
+  category0_.parent_id as parent_i7_2_,
+  category0_.path as path6_2_
+from Category category0_
+where parent_id is null;
+
+select
+  children0_.parent_id as parent_i7_2_0_,
+  children0_.id as id1_2_0_,
+  children0_.id as id1_2_1_,
+  children0_.child_count as child_co2_2_1_,
+  children0_.code as code3_2_1_,
+  children0_.loadout_count as loadout_4_2_1_,
+  children0_.name as name5_2_1_,
+  children0_.parent_id as parent_i7_2_1_,
+  children0_.path as path6_2_1_
+from Category children0_
+left outer join Category c on children0_.parent_id = c.id
+where c.parent_id is null
+order by parent_i7_2_0_;
+# where children0_.parent_id=?;
+
+SELECT
+  p.*,
+  '',
+  c.*
+FROM Category p
+LEFT OUTER JOIN Category c ON p.id = c.parent_id
+WHERE (p.parent_id IS NULL)
+;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVtYWluaW5nVGltZURvZXNDb3VudGRvd24gPSByZW1haW5pbmdUaW1lRG9lc0NvdW50ZG93bjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVtYWluaW5nVGltZURvZXNDb3VudGRvd24gPSAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMucmVtYWluaW5nVGltZURvZXNDb3VudGRvd24gPSByZW1haW5pbmdUaW1lRG9lc0NvdW50ZG93bjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmVtYWluaW5nVGltZURvZXNDb3VudGRvd24gPSAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW1haWwgPSBlbWFpbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgicHJpdl9iZXRhIiwgdGhpcy5nZXRQcml2QmV0YSgpKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZW1haWwgPSBlbWFpbDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -386,19 +433,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHVibGljIENoYXJhY3RlciBnZXRQcml2QmV0YSgpIHsKICAgIHJldHVybiBwcml2QmV0YTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFByaXZCZXRhKENoYXJhY3RlciBwcml2QmV0YSkgewogICAgdGhpcy5wcml2QmV0YSA9IHByaXZCZXRhOwogIH0K</text>
+        <text encoding="base64">ICAgIG9iamVjdC5hZGRQcm9wZXJ0eSgicHJpdl9iZXRhIiwgdGhpcy5nZXRQcml2QmV0YSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHVibGljIENoYXJhY3RlciBnZXRQcml2QmV0YSgpIHsKICAgIHJldHVybiBwcml2QmV0YTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFByaXZCZXRhKENoYXJhY3RlciBwcml2QmV0YSkgewogICAgdGhpcy5wcml2QmV0YSA9IHByaXZCZXRhOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXREYXRlQ3JlYXRlZFw+</last-search>
+      <last-search>SLOTTYPE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXREYXRlQ3JlYXRlZFw+</last-pattern>
+      <last-pattern>SLOTTYPE</last-pattern>
       <last-replace>object.addProperty(&quot;\1&quot;, this.get\u\1());</last-replace>
       <last-substitute>this\.\(\w\+\) = \1;</last-substitute>
       <last-dir>1</last-dir>
@@ -406,8 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Beta</entry>
-        <entry>Beta\%(.\?[Rr]equest\)\@=</entry>
         <entry encoding="base64">XDxwcml2U2lnbnVwXD4=</entry>
         <entry>\cbeta</entry>
         <entry>hash</entry>
@@ -426,6 +471,8 @@
         <entry>loadouts</entry>
         <entry encoding="base64">XDxTZXJpYWxpemFibGVcPg==</entry>
         <entry encoding="base64">XDxnZXREYXRlQ3JlYXRlZFw+</entry>
+        <entry>Image</entry>
+        <entry>SLOTTYPE</entry>
       </history-search>
       <history-cmd>
         <entry>s/searchQuery/code/ge</entry>
