@@ -148,8 +148,8 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="104" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" timestamp="1482270332671">
-        <mark key="'" line="39" column="19" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" timestamp="1482354422575">
+        <mark key="'" line="13" column="22" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="44" column="61" />
@@ -439,8 +439,8 @@
         <mark key="]" line="2" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" timestamp="1482268721791">
-        <mark key="'" line="18" column="17" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" timestamp="1482354394404">
+        <mark key="'" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selectable.java" timestamp="1481685162043">
         <mark key="'" line="0" column="0" />
@@ -503,12 +503,12 @@
         <mark key="^" line="14" column="88" />
         <mark key="." line="14" column="88" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1482272940406">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="30" column="4" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1482354390556">
+        <mark key="'" line="18" column="51" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/selections/SelectionsPatch.java" timestamp="1482183146042">
         <mark key="'" line="14" column="8" />
@@ -543,10 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/request/ContactRequestHelper.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/ItemHelper.java" />
-      <jump line="12" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/SelectionHelper.java" />
       <jump line="31" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/slot/SlotHelper.java" />
       <jump line="33" column="44" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateHelper.java" />
       <jump line="19" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/viewer/ViewerHelper.java" />
@@ -643,6 +639,10 @@
       <jump line="52" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="40" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="11" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageHelper.java" />
+      <jump line="18" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" />
+      <jump line="18" column="51" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesGet.java" />
+      <jump line="13" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
