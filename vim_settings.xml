@@ -5,6 +5,9 @@
       <mark key="M" line="9" column="22" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" />
     </globalmarks>
     <filemarks>
+      <file name="/JSON Fragment (exportReesSwagger.yaml:6212).json" timestamp="1482363376874">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/TrackedLogin.java" timestamp="1481759446841">
         <mark key="'" line="91" column="4" />
         <mark key="[" line="28" column="30" />
@@ -39,6 +42,9 @@
         <mark key="]" line="51" column="3" />
         <mark key="." line="51" column="3" />
         <mark key="^" line="51" column="3" />
+      </file>
+      <file name="/a.dummy" timestamp="1482531999331">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/users/UsersPost.java" timestamp="1482185359861">
         <mark key="'" line="29" column="4" />
@@ -192,6 +198,9 @@
         <mark key="]" line="3" column="46" />
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="46" />
+      </file>
+      <file name="/a.sql" timestamp="1481921227883">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/users/friends/FriendsGet.java" timestamp="1482185461303">
         <mark key="'" line="18" column="0" />
@@ -504,6 +513,12 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="20" column="13" />
       </file>
+      <file name="/dummy.sql" timestamp="1481858637177">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1482533241640">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/NonsenseGenerator.java" timestamp="1482179690264">
         <mark key="'" line="123" column="4" />
         <mark key="[" line="171" column="43" />
@@ -530,6 +545,9 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="50" column="52" />
         <mark key="^" line="18" column="3" />
+      </file>
+      <file name="/a.regexp" timestamp="1482531326503">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/InventoryItem.java" timestamp="1481919634696">
         <mark key="'" line="0" column="0" />
@@ -572,6 +590,9 @@
         <mark key="]" line="20" column="3" />
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1482531947838">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" timestamp="1482533143233">
         <mark key="'" line="18" column="4" />
