@@ -70,18 +70,11 @@
         <mark key="^" line="46" column="56" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsPost.java" timestamp="1482533069621">
-        <mark key="'" line="30" column="11" />
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsPost.java" timestamp="1482784119569">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryHelper.java" timestamp="1482603979109">
-        <mark key="'" line="21" column="27" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="3" />
-        <mark key="^" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/loadout/PublishedLoadout.java" timestamp="1481758229561">
         <mark key="'" line="158" column="13" />
@@ -515,10 +508,13 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="20" column="13" />
       </file>
+      <file name="/ModelBase.java" timestamp="1482784427091">
+        <mark key="'" line="19" column="25" />
+      </file>
       <file name="/dummy.sql" timestamp="1481858637177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482533241640">
+      <file name="/Dummy.txt" timestamp="1482784284955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/NonsenseGenerator.java" timestamp="1482179690264">
@@ -602,12 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
-      <jump line="87" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserHelper.java" />
-      <jump line="79" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="73" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="69" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/category/CategoryManager.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="24" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="64" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="56" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
@@ -702,43 +692,49 @@
       <jump line="49" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
       <jump line="53" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
       <jump line="73" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
+      <jump line="120" column="24" filename="/ModelBase.java" />
+      <jump line="22" column="12" filename="/ModelBase.java" />
+      <jump line="12" column="21" filename="/ModelBase.java" />
+      <jump line="11" column="21" filename="/ModelBase.java" />
+      <jump line="5" column="42" filename="/ModelBase.java" />
+      <jump line="19" column="25" filename="/ModelBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgfQogICAgLy8gfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
-        <text>loadout</text>
+        <text encoding="base64">XDxUeXBlZFF1ZXJ5XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ID0gZ2V0VGVtcGxhdGVCeUNvZGUoc2Vzc2lvbiwgdGVtcGxhdGVDb2RlKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgfQogICAgLy8gfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHguY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFN0cmluZyAgICBsb2Fkb3V0Q29kZSA9IG1hbmFnZXIuZ2V0UGFyYW1ldGVyQXNTdHJpbmcoTG9hZG91dE1hbmFnZXIuTG9hZG91dENvZGUsIGZhbHNlKTsKICAgIC8vIFN0cmluZyAgIGNhdGVnb3J5Q29kZSA9IG1hbmFnZXIuZ2V0UGFyYW1ldGVyQXNTdHJpbmcoQ2F0ZWdvcnlNYW5hZ2VyLkNhdGVnb3J5Q29kZSwgZmFsc2UpOwogICAgLy8gU3RyaW5nIGJhY2tncm91bmRDb2RlID0gbWFuYWdlci5nZXRQYXJhbWV0ZXJBc1N0cmluZyhJbWFnZU1hbmFnZXIuQmFja2dyb3VuZENvZGUsIGZhbHNlKTsKCiAgICAvLyBpZiAoY2F0ZWdvcnlDb2RlICE9IG51bGwpIHsKICAgIC8vICAgbWFuYWdlci5wb3N0Q2F0ZWdvcnkocmVzcG9uc2UsIGxvYWRvdXRDb2RlLCBjYXRlZ29yeUNvZGUpOwogICAgLy8gfQogICAgLy8gZWxzZSB7CiAgICAvLyAgIGlmIChiYWNrZ3JvdW5kQ29kZSAhPSBudWxsKSB7CiAgICAvLyAgICAgbWFuYWdlci5wb3N0QmFja2dyb3VuZChyZXNwb25zZSwgbG9hZG91dENvZGUsIGJhY2tncm91bmRDb2RlKTsKICAgIC8vICAgfQogICAgLy8gICBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCh0ZW1wbGF0ZSA9IGdldFRlbXBsYXRlQnlDb2RlKHNlc3Npb24sIHRlbXBsYXRlQ29kZSkpICE9IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdHguY29tbWl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRlbXBsYXRlICAgIHRlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCh0ZW1wbGF0ZSA9IGdldFRlbXBsYXRlQnlDb2RlKHNlc3Npb24sIHRlbXBsYXRlQ29kZSkpICE9IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3JCYXNlLm1lc3NhZ2Uob2JqZWN0LCBlLCBFcXVpcEVycm9yLkVSUk9SX0dlbmVyYWxFeGNlcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hZGRUb0Jhc2VBcnJheSh0ZW1wbGF0ZS50b0pzb25PYmplY3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIFRlbXBsYXRlICAgIHRlbXBsYXRlOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -756,19 +752,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hZGRUb09iamVjdChyZXNwb25zZSwgInRlbXBsYXRlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgRXJyb3JCYXNlLm1lc3NhZ2Uob2JqZWN0LCBlLCBFcXVpcEVycm9yLkVSUk9SX0dlbmVyYWxFeGNlcHRpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hZGRUb0Jhc2VBcnJheSh0ZW1wbGF0ZS50b0pzb25PYmplY3QoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xvYWRvdXQvdGVtcGxhdGUvZ2U=</text>
       </register>
     </registers>
     <search>
-      <last-search>loadout</last-search>
+      <last-search encoding="base64">XDxUeXBlZFF1ZXJ5XD4=</last-search>
       <last-offset />
-      <last-pattern>loadout</last-pattern>
+      <last-pattern encoding="base64">XDxUeXBlZFF1ZXJ5XD4=</last-pattern>
       <last-replace>template</last-replace>
       <last-substitute>loadout</last-substitute>
       <last-dir>1</last-dir>
@@ -776,10 +772,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUeXBlZFF1ZXJ5XD4=</entry>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
-        <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XCUoXDx1c2VyXClcQDw9TWFuYWdlclw+</entry>
         <entry encoding="base64">XGNcJShcPHVzZXJcKVxAPD1NYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDx1c2VySGVscGVyXD4=</entry>
@@ -796,6 +788,10 @@
         <entry>Name</entry>
         <entry>Loadout</entry>
         <entry>loadout</entry>
+        <entry>Session</entry>
+        <entry encoding="base64">XDxTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxVc2VyXD4=</entry>
+        <entry encoding="base64">XDxUeXBlZFF1ZXJ5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1B1Ymxpc2hlZExvYWRvdXQvVGVtcGxhdGUvZ2U=</entry>
