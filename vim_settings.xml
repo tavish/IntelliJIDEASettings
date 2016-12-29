@@ -15,13 +15,6 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" timestamp="1481920974221">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="26" column="1" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/request/BetaRequestManager.java" timestamp="1482956225398">
         <mark key="'" line="26" column="36" />
         <mark key="[" line="26" column="36" />
@@ -166,6 +159,7 @@
         <mark key="^" line="16" column="79" />
         <mark key="." line="16" column="79" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContext.java" timestamp="1483047185020" />
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/test/TestCategoriesPost.java" timestamp="1482431383772">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="20" column="3" />
@@ -524,6 +518,13 @@
       <file name="/ModelBase.java" timestamp="1482784427091">
         <mark key="'" line="19" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" timestamp="1481920974221">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="26" column="1" />
+      </file>
       <file name="/dummy.sql" timestamp="1481858637177">
         <mark key="[" line="0" column="0" />
       </file>
@@ -618,7 +619,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1482783349923">
+      <file name="/fragment.java" timestamp="1483047583804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/EquipError.java" timestamp="1482181296193">
@@ -803,7 +804,7 @@
       <last-replace>\l\1</last-replace>
       <last-substitute encoding="base64">W0EtWmEtei5dXEA8IXVzZXJcKFx1XCk=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
