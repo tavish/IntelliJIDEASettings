@@ -551,7 +551,7 @@
       <file name="/dummy.sql" timestamp="1481858637177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483909227322">
+      <file name="/Dummy.txt" timestamp="1483909249334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/NonsenseGenerator.java" timestamp="1482179690264">
@@ -603,11 +603,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1483909241663">
-        <mark key="'" line="37" column="26" />
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="36" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1483909973373">
+        <mark key="'" line="60" column="17" />
+        <mark key="[" line="73" column="9" />
+        <mark key="]" line="73" column="9" />
+        <mark key="." line="73" column="9" />
+        <mark key="^" line="73" column="17" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/selections/SelectionsPatch.java" timestamp="1482533160851">
         <mark key="'" line="13" column="13" />
@@ -657,9 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="14" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
-      <jump line="364" column="4" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
-      <jump line="344" column="14" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
       <jump line="404" column="13" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
       <jump line="422" column="4" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
       <jump line="410" column="13" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
@@ -673,7 +671,6 @@
       <jump line="5" column="7" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/action/AbstractActionTest.java" />
       <jump line="37" column="2" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/action/AbstractActionTest.java" />
       <jump line="41" column="27" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/action/templates/TemplatesGetTest.java" />
-      <jump line="53" column="35" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="69" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="7" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="42" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
@@ -756,17 +753,21 @@
       <jump line="15" column="3" filename="$USER_HOME$/code/backend-api/backend-api.iml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="61" column="34" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
-      <jump line="37" column="26" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="37" column="36" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="53" column="36" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="50" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="60" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getClass()</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="-" type="4">
-        <text>getClass()</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRMb2dnZXJcPg==</text>
+        <text encoding="base64">XDxnZXRHc29uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcm90ZWN0ZWQgTW9ja0NvbnRleHRCdWlsZGVyIG1vY2tDb250ZXh0QnVpbGRlciA9IG5ldyBNb2NrQ29udGV4dEJ1aWxkZXIoIkVxdWlwTGFtYmRhIiwgbG9nZ2VyOjppbmZvKTsKICBwcm90ZWN0ZWQgTW9ja0NvbnRleHQgICAgICAgIG1vY2tDb250ZXh0ICAgICAgICA9IG1vY2tDb250ZXh0QnVpbGRlci5jcmVhdGVNb2NrQ29udGV4dCgpOwo=</text>
@@ -821,9 +822,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRMb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRHc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRMb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRHc29uXD4=</last-pattern>
       <last-replace>TearDown</last-replace>
       <last-substitute encoding="base64">XCUoOjpwcmVcKVxAPD1TZXRVcA==</last-substitute>
       <last-dir>1</last-dir>
@@ -831,8 +832,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFjZUV4aXRcPg==</entry>
-        <entry>%s</entry>
         <entry encoding="base64">XCUoXC9cLy4qXClcQDwhXCUoXDxsb2dnZXJcLmRlYnVnKFwpXEA9</entry>
         <entry encoding="base64">XCUoXC9cLy4qXClcQDw9XCUoXDxsb2dnZXJcLmRlYnVnKCJ7fTo6e30oKVwpXEA9</entry>
         <entry encoding="base64">XCUoXC9cLy4qXClcQDw9XCUoXDxsb2dnZXJcLmRlYnVnKFwlKCJ7fTo6e30oKSBcJShlbnRlclx8ZXhpdFwpIixcKVxAIVwpXEA9</entry>
@@ -851,6 +850,8 @@
         <entry encoding="base64">XCUoOjpcKVxAPD1wcmU=</entry>
         <entry encoding="base64">XDxtb2NrQ29udGV4dEJ1aWxkZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRMb2dnZXJcPg==</entry>
+        <entry>\cthrow</entry>
+        <entry encoding="base64">XDxnZXRHc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyBcQDw9dXNlclwoXHVcKS9cbFwxL2dl</entry>
