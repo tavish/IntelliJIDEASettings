@@ -183,6 +183,9 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/backend-api.iml" timestamp="1483907192720">
+        <mark key="'" line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/Image.java" timestamp="1481916792832">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="9" column="0" />
@@ -548,7 +551,7 @@
       <file name="/dummy.sql" timestamp="1481858637177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483904909729">
+      <file name="/Dummy.txt" timestamp="1483907819589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/NonsenseGenerator.java" timestamp="1482179690264">
@@ -654,7 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="14" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
       <jump line="294" column="14" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
       <jump line="312" column="4" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
       <jump line="300" column="14" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" />
@@ -754,6 +756,7 @@
       <jump line="46" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/RequestRouterTest.java" />
       <jump line="29" column="14" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
       <jump line="31" column="0" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/action/AbstractActionTest.java" />
+      <jump line="15" column="3" filename="$USER_HOME$/code/backend-api/backend-api.iml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
