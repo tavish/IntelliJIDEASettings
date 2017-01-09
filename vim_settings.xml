@@ -551,7 +551,7 @@
       <file name="/dummy.sql" timestamp="1481858637177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483915707330">
+      <file name="/Dummy.txt" timestamp="1483922305478">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/NonsenseGenerator.java" timestamp="1482179690264">
@@ -603,12 +603,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1483915669473">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="90" column="44" />
-        <mark key="]" line="90" column="61" />
-        <mark key="." line="90" column="44" />
-        <mark key="^" line="109" column="54" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1483922248945">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="36" />
+        <mark key="." line="47" column="36" />
+        <mark key="^" line="47" column="45" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/selections/SelectionsPatch.java" timestamp="1482533160851">
         <mark key="'" line="13" column="13" />
@@ -657,7 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="45" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="13" column="42" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="52" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="85" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
@@ -754,16 +753,17 @@
       <jump line="111" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="77" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="7" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" />
-      <jump line="5" column="3" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="70" column="36" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgcmV0dXJuIExvYWRvdXRIZWxwZXIuZ2V0TG9hZG91dEJ5Q29kZSgKICAgICAgbmV3IENvbmZpZ3VyYXRpb24oKS5jb25maWd1cmUoKS5idWlsZFNlc3Npb25GYWN0b3J5KCkub3BlblNlc3Npb24oKSwKICAgICAgbmV3IExvYWRvdXRNYW5hZ2VyKHJlcXVlc3QpLmdldFBhcmFtZXRlckFzU3RyaW5nKExvYWRvdXRNYW5hZ2VyLkxvYWRvdXRDb2RlLCBmYWxzZSkKICAgICkuc3RyZWFtKCkuYWxsTWF0Y2goTG9hZG91dDo6aXNQcml2YXRlKTsKICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>getClass()</text>
       </register>
       <register name="-" type="4">
-        <text>manager</text>
+        <text>getClass()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYW5hZ2VyXD4=</text>
