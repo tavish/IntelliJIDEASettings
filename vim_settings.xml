@@ -566,8 +566,8 @@
         <mark key="^" line="171" column="25" />
         <mark key="." line="171" column="25" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1484014855830">
-        <mark key="'" line="20" column="38" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1484016790611">
+        <mark key="'" line="39" column="53" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -661,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="79" column="30" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="88" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="89" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
@@ -761,6 +760,7 @@
       <jump line="16" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/guice/EquipItModule.java" />
       <jump line="39" column="4" filename="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" />
       <jump line="20" column="38" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
+      <jump line="39" column="53" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -770,7 +770,7 @@
         <text>AwsSesEmailer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbmplY3Rvclw+</text>
+        <text encoding="base64">XDxmcm9tRW1haWxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>AwsSes</text>
@@ -825,9 +825,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbmplY3Rvclw+</last-search>
+      <last-search encoding="base64">XDxmcm9tRW1haWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbmplY3Rvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tRW1haWxcPg==</last-pattern>
       <last-replace>code</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -835,7 +835,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">VHlwZWRRdWVyeTxcJShVc2VyPlwpXEAhW14+XSo+</entry>
         <entry encoding="base64">VHlwZVF1ZXJ5PFVzZXI+</entry>
         <entry encoding="base64">VHlwZWRRdWVyeTxVc2VyPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVRdWVyeVw+</entry>
@@ -855,6 +854,7 @@
         <entry encoding="base64">XDxoYXNoXD4=</entry>
         <entry encoding="base64">XDxcJShjb2RlXHxoYXNoXClcPg==</entry>
         <entry encoding="base64">XDxJbmplY3Rvclw+</entry>
+        <entry encoding="base64">XDxmcm9tRW1haWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xhXEA8IXVzZXJcKFx1XCkvXGxcMS9nZQ==</entry>
