@@ -29,9 +29,6 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesPatch.java" timestamp="1482515454366">
-        <mark key="'" line="14" column="13" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/request/BetaRequest.java" timestamp="1481850653670">
         <mark key="'" line="18" column="15" />
         <mark key="[" line="51" column="0" />
@@ -75,12 +72,6 @@
         <mark key="]" line="57" column="29" />
         <mark key="." line="57" column="29" />
         <mark key="^" line="69" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesPost.java" timestamp="1482603989437">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Constants.java" timestamp="1482179713904">
-        <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/image/ImageManager.java" timestamp="1482956211800">
         <mark key="'" line="5" column="0" />
@@ -150,9 +141,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="^" line="31" column="27" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar!/org/apache/logging/log4j/Logger.class" timestamp="1483049397750">
-        <mark key="'" line="684" column="14" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/item/UserItem.java" timestamp="1482001477822">
         <mark key="'" line="0" column="0" />
@@ -227,9 +215,6 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ErrorBase.java" timestamp="1482606989177">
-        <mark key="'" line="20" column="14" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/test/mock/MockContextBuilder.java" timestamp="1482000095167">
         <mark key="'" line="62" column="56" />
         <mark key="[" line="62" column="55" />
@@ -271,18 +256,12 @@
         <mark key="^" line="27" column="9" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesDelete.java" timestamp="1482962306553">
-        <mark key="'" line="22" column="15" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/users/UsersLogoutDelete.java" timestamp="1483914237489">
         <mark key="'" line="20" column="14" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="40" column="11" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1483909201680">
-        <mark key="'" line="61" column="34" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selection.java" timestamp="1481835646800">
         <mark key="'" line="14" column="27" />
@@ -346,9 +325,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="44" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/exception/AuthorizationException.java" timestamp="1483910781496">
-        <mark key="'" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" timestamp="1483926227532">
         <mark key="'" line="111" column="22" />
@@ -439,9 +415,6 @@
         <mark key="'" line="106" column="16" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/test/java/com/equipews/apigateway/service/emailer/AwsSesEmailerTest.java" timestamp="1483055951735">
-        <mark key="'" line="47" column="24" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/requests/BetaRequestsPost.java" timestamp="1482182856821">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="5" column="53" />
@@ -503,9 +476,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/exception/InternalErrorException.java" timestamp="1483910785140">
-        <mark key="'" line="11" column="13" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/selection/Selectable.java" timestamp="1481685162043">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="23" />
@@ -541,9 +511,6 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="20" column="13" />
       </file>
-      <file name="/ModelBase.java" timestamp="1482784427091">
-        <mark key="'" line="19" column="25" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb00b22e-425a-4bdc-ba2c-359a8cf93ef4/console.sql" timestamp="1481920974221">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="0" column="0" />
@@ -564,8 +531,8 @@
         <mark key="^" line="171" column="25" />
         <mark key="." line="171" column="25" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1482180561334">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" timestamp="1484010987013">
+        <mark key="'" line="21" column="38" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="." line="0" column="0" />
@@ -642,9 +609,6 @@
       <file name="/fragment.java" timestamp="1483047583804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/EquipError.java" timestamp="1482181296193">
-        <mark key="'" line="5" column="12" />
-      </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/loadouts/LoadoutsGet.java" timestamp="1483915270505">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="50" column="0" />
@@ -653,7 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="282" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="255" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="149" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
@@ -753,6 +716,7 @@
       <jump line="73" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="127" column="16" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="111" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
+      <jump line="21" column="38" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/service/emailer/AwsSesEmailer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
