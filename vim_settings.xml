@@ -566,8 +566,8 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1483922248945">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1484269971722">
+        <mark key="'" line="21" column="22" />
         <mark key="[" line="47" column="36" />
         <mark key="]" line="47" column="36" />
         <mark key="." line="47" column="36" />
@@ -608,9 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="34" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
-      <jump line="153" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
-      <jump line="162" column="24" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="166" column="37" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="174" column="8" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
       <jump line="184" column="23" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/user/UserManager.java" />
@@ -708,6 +705,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
       <jump line="86" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateManager.java" />
       <jump line="27" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateHelper.java" />
+      <jump line="46" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="21" column="22" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
