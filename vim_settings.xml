@@ -8,8 +8,8 @@
       <file name="/JSON Fragment (exportReesSwagger.yaml:6212).json" timestamp="1482363376874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" timestamp="1484276979005">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" timestamp="1484542618673">
+        <mark key="'" line="6" column="13" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -422,8 +422,8 @@
         <mark key="." line="41" column="8" />
         <mark key="^" line="41" column="8" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1484539940320">
-        <mark key="'" line="52" column="2" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1484542723566">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
@@ -439,6 +439,7 @@
         <mark key="." line="26" column="58" />
         <mark key="^" line="26" column="3" />
       </file>
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1484542652134" />
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateHelper.java" timestamp="1484019448573">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="5" column="0" />
@@ -570,8 +571,8 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1484440309699">
-        <mark key="'" line="108" column="31" />
+      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" timestamp="1484542424798">
+        <mark key="'" line="112" column="4" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="34" />
         <mark key="^" line="101" column="3" />
@@ -619,12 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
-      <jump line="34" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
-      <jump line="3" column="32" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
-      <jump line="121" column="39" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
-      <jump line="118" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
-      <jump line="109" column="17" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="13" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/slots/SlotsPost.java" />
       <jump line="48" column="11" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
       <jump line="43" column="91" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
@@ -638,7 +633,6 @@
       <jump line="25" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
       <jump line="18" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
       <jump line="17" column="60" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
-      <jump line="6" column="28" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
       <jump line="29" column="27" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="31" column="19" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="51" column="6" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
@@ -718,6 +712,13 @@
       <jump line="23" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="110" column="21" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" />
       <jump line="51" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="112" column="4" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/RequestRouter.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/Request.java" />
+      <jump line="21" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="56" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
+      <jump line="28" column="2" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" />
     </jumps>
     <registers>
@@ -864,7 +865,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -893,6 +894,24 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
