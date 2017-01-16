@@ -423,11 +423,11 @@
         <mark key="^" line="41" column="8" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/AbstractAction.java" timestamp="1484539940320">
-        <mark key="'" line="51" column="2" />
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
-        <mark key="^" line="34" column="8" />
+        <mark key="'" line="52" column="2" />
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/categories/CategoriesDelete.java" timestamp="1484277311073">
         <mark key="'" line="18" column="47" />
@@ -438,13 +438,6 @@
         <mark key="]" line="26" column="36" />
         <mark key="." line="26" column="58" />
         <mark key="^" line="26" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/ModelBase.java" timestamp="1484538648627">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="34" column="30" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/model/template/TemplateHelper.java" timestamp="1484019448573">
         <mark key="'" line="25" column="0" />
@@ -539,7 +532,7 @@
         <mark key="^" line="45" column="28" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484537714897">
+      <file name="/Dummy.txt" timestamp="1484540711117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/backend-api/src/main/java/com/equipews/apigateway/action/slots/SlotsDelete.java" timestamp="1482533193431">
