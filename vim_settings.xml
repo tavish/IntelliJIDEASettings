@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.scss" timestamp="1501692681645">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/main.js" timestamp="1501959359697">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="9" />
-      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-redux/es/connect/connect.js" timestamp="1501861173752">
         <mark key="'" line="4" column="43" />
         <mark key="[" line="0" column="16" />
@@ -32,8 +26,18 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/dependencies/SystemPlugin.js" timestamp="1502058549758">
+        <mark key="'" line="26" column="37" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" timestamp="1501784885370">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="webpack:///webpack/bootstrap 5626964a60bcaa77da39" timestamp="1502058999134">
+        <mark key="'" line="15" column="50" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="15" column="50" />
       </file>
       <file name="data:text/html,chromewebdata" timestamp="1501873086607">
         <mark key="[" line="0" column="0" />
@@ -46,14 +50,14 @@
       <file name="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc" timestamp="1501715443611">
         <mark key="'" line="237" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1502054578843">
+      <file name="/JavaScript Console" timestamp="1502059486448">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack:///./~/react-dom/lib/ReactCompositeComponent.js" timestamp="1502053584580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" timestamp="1502055362689">
-        <mark key="'" line="22" column="56" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" timestamp="1502058419041">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" timestamp="1501877853407">
         <mark key="'" line="70" column="27" />
@@ -64,30 +68,22 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/object-assign/index.js" timestamp="1501689106643">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/modules/session.js" timestamp="1501863865683">
-        <mark key="[" line="108" column="5" />
-        <mark key="]" line="108" column="5" />
-        <mark key="^" line="108" column="5" />
-        <mark key="." line="108" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" timestamp="1502054267317">
-        <mark key="'" line="107" column="10" />
-        <mark key="[" line="122" column="15" />
-        <mark key="]" line="122" column="15" />
-        <mark key="^" line="103" column="8" />
-        <mark key="." line="122" column="15" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" timestamp="1502059582576">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="82" column="35" />
+        <mark key="]" line="82" column="35" />
+        <mark key="^" line="100" column="8" />
+        <mark key="." line="82" column="35" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" timestamp="1501965617213">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" timestamp="1502059390131">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="7" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502055985444">
+      <file name="/Dummy.txt" timestamp="1502058608786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1501961415435">
@@ -117,7 +113,13 @@
         <mark key="." line="180" column="5" />
         <mark key="^" line="180" column="5" />
       </file>
-      <file name="webpack:///(webpack)-hot-middleware/client.js" timestamp="1502053689714">
+      <file name="webpack:///(webpack)-hot-middleware/client.js" timestamp="1502059124191">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/buildin/system.js" timestamp="1502058543666">
+        <mark key="'" line="3" column="4" />
+      </file>
+      <file name="https://localhost:3000/main.js" timestamp="1502059399984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/https.js" timestamp="1501696845691">
@@ -132,7 +134,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/build/webpack.config.js" timestamp="1502055866140">
         <mark key="'" line="239" column="0" />
       </file>
-      <file name="/" timestamp="1502053739991">
+      <file name="/" timestamp="1502059369064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/path.js" timestamp="1501795192519">
@@ -156,14 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="90" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="91" column="17" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="82" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="92" column="17" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="115" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="96" column="20" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
       <jump line="106" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
       <jump line="67" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
@@ -189,7 +183,6 @@
       <jump line="106" column="20" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
       <jump line="178" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
       <jump line="125" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
-      <jump line="161" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
       <jump line="154" column="12" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
       <jump line="112" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
       <jump line="223" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
@@ -212,7 +205,6 @@
       <jump line="57" column="21" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
       <jump line="183" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
       <jump line="203" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="8" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
       <jump line="52" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/build/scripts/compile.js" />
@@ -241,9 +233,7 @@
       <jump line="3" column="48" filename="$USER_HOME$/code/github.com--equipn--frontend-react/build/webpack.config.js" />
       <jump line="2" column="40" filename="$USER_HOME$/code/github.com--equipn--frontend-react/build/webpack.config.js" />
       <jump line="13" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
-      <jump line="119" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
       <jump line="58" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
-      <jump line="15" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
       <jump line="49" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
       <jump line="22" column="56" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
       <jump line="183" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/build/webpack.config.js" />
@@ -256,25 +246,37 @@
       <jump line="7" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/index.js" />
       <jump line="5" column="47" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/index.js" />
       <jump line="224" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
+      <jump line="15" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
+      <jump line="92" column="19" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" />
+      <jump line="0" column="45" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
+      <jump line="3" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/buildin/system.js" />
+      <jump line="26" column="37" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/dependencies/SystemPlugin.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
+      <jump line="15" column="50" filename="webpack:///webpack/bootstrap 5626964a60bcaa77da39" />
+      <jump line="161" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWJwYWNrXD4=</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IC8vICdzZXJ2ZXIva2V5LnBlbScs</text>
+        <text>/* webpackChunkName: &quot;resetpassword&quot; */ './components/ResetPassword'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlOiBmb3JtRGF0YS5tZXNzYWdlLnZhbHVlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -282,37 +284,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc3NsID0gewp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBmb3JtRGF0YS5uYW1lLnZhbHVlLAogICAgICAgIHN1YmplY3Q6IGZvcm1EYXRhLnN1YmplY3QudmFsdWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBrZXk6ICdzZXJ2ZXIvbG9jYWxob3N0X3NzbC5rZXknLCAvLyAnc2VydmVyL2tleS5wZW0nLAogIGNlcnQ6ICdzZXJ2ZXIvbG9jYWxob3N0X3NzbC5jZXJ0JyAvLyAnc2VydmVyL2NlcnQucGVtJwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5pbXBvcnQoLyogd2VicGFja0NodW5rTmFtZTogInJlc2V0cGFzc3dvcmQiICovICcuL2NvbXBvbmVudHMvUmVzZXRQYXNzd29yZCcpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgU3lzdGVtIGZyb20gJ3dlYnBhY2svYnVpbGRpbi9zeXN0ZW0nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Y29uc3Qgc3NsID0gewp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjZXJ0OiBmcy5yZWFkRmlsZVN5bmMoJ3NlcnZlci9sb2NhbGhvc3Rfc3NsLmNlcnQnKSwKICBrZXk6IGZzLnJlYWRGaWxlU3luYygnc2VydmVyL2xvY2FsaG9zdF9zc2wua2V5JykK</text>
+        <text encoding="base64">ICBrZXk6ICdzZXJ2ZXIvbG9jYWxob3N0X3NzbC5rZXknLCAvLyAnc2VydmVyL2tleS5wZW0nLAogIGNlcnQ6ICdzZXJ2ZXIvbG9jYWxob3N0X3NzbC5jZXJ0JyAvLyAnc2VydmVyL2NlcnQucGVtJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBQbGVhc2UgPGEgaHJlZj0icmVzZXRwYXNzLmh0bWwiPnRyeSBhZ2Fpbi48L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWJwYWNrXD4=</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWJwYWNrXD4=</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace>cert</last-replace>
       <last-substitute>key</last-substitute>
       <last-dir>1</last-dir>
@@ -320,8 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Zvcm1WYWxpZFw+</entry>
-        <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry>formData</entry>
         <entry>loading</entry>
@@ -333,13 +333,15 @@
         <entry encoding="base64">PFw8Zm9ybVw+</entry>
         <entry encoding="base64">XDxfRVFcPg==</entry>
         <entry>\s\+$</entry>
-        <entry>asdf</entry>
         <entry>key</entry>
         <entry>devtool</entry>
         <entry>devtool:</entry>
         <entry encoding="base64">XDxIdG1sV2VicGFja1BsdWdpblw+</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDx3ZWJwYWNrXD4=</entry>
+        <entry>System</entry>
+        <entry>import</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/ge</entry>
