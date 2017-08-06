@@ -137,6 +137,9 @@
       <file name="/" timestamp="1502059369064">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" timestamp="1502061002805">
+        <mark key="'" line="10" column="6" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/path.js" timestamp="1501795192519">
         <mark key="'" line="186" column="15" />
       </file>
@@ -158,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
       <jump line="67" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
       <jump line="107" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.js" />
@@ -258,6 +260,7 @@
       <jump line="7" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="15" column="50" filename="webpack:///webpack/bootstrap 5626964a60bcaa77da39" />
       <jump line="161" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/components/ResetPassword.js" />
+      <jump line="10" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
