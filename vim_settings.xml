@@ -36,8 +36,8 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" timestamp="1501784885370">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" timestamp="1502089824646">
-        <mark key="'" line="177" column="0" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" timestamp="1502214981218">
+        <mark key="'" line="48" column="59" />
         <mark key="[" line="92" column="82" />
         <mark key="]" line="92" column="9" />
         <mark key="." line="92" column="9" />
@@ -59,12 +59,12 @@
         <mark key="^" line="100" column="8" />
         <mark key="." line="82" column="35" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" timestamp="1502081812032">
-        <mark key="'" line="5" column="51" />
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" timestamp="1502215042943">
+        <mark key="'" line="7" column="41" />
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/build/scripts/compile.js" timestamp="1502041354758">
         <mark key="'" line="3" column="25" />
@@ -217,10 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="11" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="24" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="71" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="50" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="62" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="61" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
@@ -317,6 +313,10 @@
       <jump line="11" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="20" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="142" column="40" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
+      <jump line="48" column="59" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
+      <jump line="5" column="3" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
+      <jump line="7" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
