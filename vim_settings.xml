@@ -104,12 +104,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/path.js" timestamp="1501795192519">
         <mark key="'" line="186" column="15" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" timestamp="1502089927852">
-        <mark key="'" line="26" column="5" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="26" column="16" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" timestamp="1502216200185">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" timestamp="1501712183947">
         <mark key="'" line="43" column="4" />
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="62" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="61" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="108" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
@@ -317,6 +316,7 @@
       <jump line="5" column="3" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="7" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
+      <jump line="17" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -329,7 +329,7 @@
         <text>latest</text>
       </register>
       <register name="/" type="4">
-        <text>ignoreQueryPrefix</text>
+        <text>fsevents</text>
       </register>
       <register name="0" type="4">
         <text>form.</text>
@@ -371,17 +371,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ignoreQueryPrefix</last-search>
+      <last-search>fsevents</last-search>
       <last-offset />
-      <last-pattern>ignoreQueryPrefix</last-pattern>
+      <last-pattern>fsevents</last-pattern>
       <last-replace>Update</last-replace>
       <last-substitute>Reset</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Zvcm1WYWxpZFw+</entry>
         <entry>\ctip</entry>
         <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
         <entry>\cpassword</entry>
@@ -401,6 +400,7 @@
         <entry>qs</entry>
         <entry>ignoreQueryrefix</entry>
         <entry>ignoreQueryPrefix</entry>
+        <entry>fsevents</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/ge</entry>
