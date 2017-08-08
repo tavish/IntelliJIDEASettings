@@ -166,7 +166,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502090004441">
+      <file name="/Dummy.txt" timestamp="1502209880529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
@@ -377,7 +377,7 @@
       <last-replace>Update</last-replace>
       <last-substitute>Reset</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
