@@ -36,8 +36,8 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" timestamp="1501784885370">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" timestamp="1502214981218">
-        <mark key="'" line="48" column="59" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" timestamp="1502394642258">
+        <mark key="'" line="175" column="22" />
         <mark key="[" line="92" column="82" />
         <mark key="]" line="92" column="9" />
         <mark key="." line="92" column="9" />
@@ -85,6 +85,13 @@
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/buildin/system.js" timestamp="1502058543666">
         <mark key="'" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/containers/UpdatePasswordContainer.js" timestamp="1502394804835">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/index.js" timestamp="1502088608445">
         <mark key="'" line="8" column="11" />
@@ -217,17 +224,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="61" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="108" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
-      <jump line="18" column="37" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
-      <jump line="24" column="93" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
-      <jump line="134" column="67" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="39" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="83" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="9" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="85" column="11" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="26" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
       <jump line="47" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
@@ -238,7 +235,6 @@
       <jump line="42" column="72" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
       <jump line="10" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
       <jump line="11" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
-      <jump line="8" column="22" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="19" column="29" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="33" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="46" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
@@ -249,7 +245,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
       <jump line="99" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="164" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/query-string/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/query-string/index.js" />
       <jump line="118" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/query-string/index.js" />
@@ -317,63 +312,75 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="7" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="17" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
+      <jump line="171" column="1" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
+      <jump line="23" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/containers/UpdatePasswordContainer.js" />
+      <jump line="21" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/containers/UpdatePasswordContainer.js" />
+      <jump line="2" column="55" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/containers/UpdatePasswordContainer.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/containers/UpdatePasswordContainer.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/containers/UpdatePasswordContainer.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/containers/UpdatePasswordContainer.js" />
+      <jump line="100" column="62" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
+      <jump line="8" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
+      <jump line="9" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
+      <jump line="175" column="22" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJidW5kbGUtbG9hZGVyIjogIl4wLjUuNSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>fsevents</text>
+        <text>\cprops</text>
       </register>
       <register name="0" type="4">
-        <text>form.</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJidW5kbGUtbG9hZGVyIjogIl4wLjUuNSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>{ parse }</text>
+      <register name="2" type="2">
+        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IFVwZGF0ZVBhc3N3b3JkQ29udGFpbmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGFyc2UgYXMgcGFyc2UgfSBmcm9tICdxdWVyeS1zdHJpbmcnCg==</text>
+        <text encoding="base64">ICAgICJidW5kbGUtbG9hZGVyIjogIl4wLjUuNSIsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pLmJpbmQodGhpcyksCg==</text>
+      <register name="4" type="4">
+        <text>{ parse }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">aW1wb3J0IHsgcGFyc2UgYXMgcGFyc2UgfSBmcm9tICdxdWVyeS1zdHJpbmcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFsaWQgPSAKICAgICAgICAgICAgY29uc3QgcGFzc3dvcmRzTWF0Y2ggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgIH0pLmJpbmQodGhpcyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAodGhpcy5zdGF0ZS5mb3JtLnBhc3N3b3JkICE9PSB0aGlzLnN0YXRlLmZvcm0ucGFzc3dvcmRfY29uZmlybSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFzc3dvcmRzTWF0Y2ggPSAodGhpcy5zdGF0ZS5mb3JtLnBhc3N3b3JkICE9PSB0aGlzLnN0YXRlLmZvcm0ucGFzc3dvcmRfY29uZmlybSkKICAgICAgICAgICAgcmV0dXJuIHZhbGlkICYmIHBhc3N3b3Jkc01hdGNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFsaWQgPSAKICAgICAgICAgICAgY29uc3QgcGFzc3dvcmRzTWF0Y2ggPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoZWNrVmFsaWRpdHk6IGV2ZW50ID0+IHRoaXMuY2hlY2tJbnB1dFZhbGlkaXR5KGV2ZW50KSAmJgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAodGhpcy5zdGF0ZS5mb3JtLnBhc3N3b3JkICE9PSB0aGlzLnN0YXRlLmZvcm0ucGFzc3dvcmRfY29uZmlybSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fsevents</last-search>
+      <last-search>\cprops</last-search>
       <last-offset />
-      <last-pattern>fsevents</last-pattern>
+      <last-pattern>\cprops</last-pattern>
       <last-replace>Update</last-replace>
       <last-substitute>Reset</last-substitute>
       <last-dir>1</last-dir>
@@ -381,12 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\ctip</entry>
-        <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
-        <entry>\cpassword</entry>
-        <entry>\$(&quot;#password&quot;)</entry>
-        <entry>props</entry>
-        <entry encoding="base64">XDxzZXRTdGF0ZVw+</entry>
         <entry>checkValidity</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxwYXNzd29yZHNNYXRjaFw+</entry>
@@ -401,6 +402,12 @@
         <entry>ignoreQueryrefix</entry>
         <entry>ignoreQueryPrefix</entry>
         <entry>fsevents</entry>
+        <entry>\ctoken</entry>
+        <entry encoding="base64">XDxGaWx0ZXJMaW5rXD4=</entry>
+        <entry encoding="base64">XDxVcGRhdGVQYXNzd29yZENvbnRhaW5lclw+</entry>
+        <entry encoding="base64">XDxMaW5rXD4=</entry>
+        <entry encoding="base64">XDxzZXRWaXNpYmlsaXR5RmlsdGVyXD4=</entry>
+        <entry>\cprops</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/ge</entry>
