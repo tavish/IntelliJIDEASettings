@@ -183,19 +183,14 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="59" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/index.js" timestamp="1502395470581">
+        <mark key="'" line="9" column="11" />
+      </file>
       <file name="webpack:///./~/react-dom/lib/LinkedValueUtils.js" timestamp="1502087270812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/query-string/index.js" timestamp="1502089145414">
         <mark key="'" line="153" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" timestamp="1502078358073">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="31" />
-        <mark key="m" line="12" column="0" />
-        <mark key="." line="47" column="31" />
-        <mark key="^" line="47" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/querystring.js" timestamp="1502089409487">
         <mark key="'" line="211" column="17" />
@@ -219,13 +214,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="67" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" timestamp="1501689749349">
-        <mark key="'" line="3" column="9" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" timestamp="1502395488188">
+        <mark key="'" line="13" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="85" column="11" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="26" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
       <jump line="47" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" />
       <jump line="122" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
@@ -324,6 +317,8 @@
       <jump line="8" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="9" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="175" column="22" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
+      <jump line="9" column="11" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/index.js" />
+      <jump line="13" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
