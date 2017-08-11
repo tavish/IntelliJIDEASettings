@@ -145,6 +145,9 @@
       <file name="webpack:///./~/react-dom/lib/ReactDOMInput.js" timestamp="1502087272485">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/package.json" timestamp="1502476190243">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="/index.js" timestamp="1502401590996">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="44" column="0" />
@@ -179,7 +182,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502474222725">
+      <file name="/Dummy.txt" timestamp="1502475885732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
@@ -232,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="32" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="44" column="60" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="54" column="49" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
@@ -332,6 +334,7 @@
       <jump line="0" column="0" filename="/index.js" />
       <jump line="70" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
       <jump line="70" column="0" filename="/index.js" />
+      <jump line="4" column="0" filename="/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
