@@ -148,6 +148,9 @@
       <file name="/package.json" timestamp="1502476190243">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="/CoreLayout.scss" timestamp="1502480215607">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/index.js" timestamp="1502401590996">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="44" column="0" />
@@ -182,7 +185,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502475885732">
+      <file name="/Dummy.txt" timestamp="1502480471131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
@@ -235,8 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="44" column="60" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="54" column="49" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="64" column="45" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
       <jump line="67" column="49" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
@@ -335,10 +336,12 @@
       <jump line="70" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
       <jump line="70" column="0" filename="/index.js" />
       <jump line="4" column="0" filename="/package.json" />
+      <jump line="54" column="0" filename="/CoreLayout.scss" />
+      <jump line="0" column="0" filename="/CoreLayout.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJ1aWxkZXJSb3V0ZShzdG9yZSksCg==</text>
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAzMHB4Owo=</text>
       </register>
       <register name="l" type="4">
         <text />
@@ -353,7 +356,7 @@
         <text encoding="base64">ICAgIEJ1aWxkZXJSb3V0ZShzdG9yZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJwo=</text>
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAzMHB4Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -361,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcnNlZFF1ZXJ5U3RyaW5nID0gcXMucGFyc2UobG9jYXRpb24uc2VhcmNoLCB7aWdub3JlUXVlcnlQcmVmaXg6IHRydWV9KQo=</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW46IHR5cGVvZiB0aGlzLnByb3BzLnRva2VuICE9PSAndW5kZWZpbmVkJyA/IHRoaXMucHJvcHMudG9rZW4gOiBudWxsLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbjogcGFyc2VkUXVlcnlTdHJpbmcgJiYgKHR5cGVvZiBwYXJzZWRRdWVyeVN0cmluZy50b2tlbiAhPT0gInVuZGVmaW5lZCIpID8gcGFyc2VkUXVlcnlTdHJpbmcudG9rZW4gOiBudWxsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHBhcnNlZFF1ZXJ5U3RyaW5nID0gcXMucGFyc2UobG9jYXRpb24uc2VhcmNoLCB7aWdub3JlUXVlcnlQcmVmaXg6IHRydWV9KQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdG9rZW46IHR5cGVvZiB0aGlzLnByb3BzLnRva2VuICE9PSAndW5kZWZpbmVkJyA/IHRoaXMucHJvcHMudG9rZW4gOiBudWxsLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0b2tlbjogcGFyc2VkUXVlcnlTdHJpbmcgJiYgKHR5cGVvZiBwYXJzZWRRdWVyeVN0cmluZy50b2tlbiAhPT0gInVuZGVmaW5lZCIpID8gcGFyc2VkUXVlcnlTdHJpbmcudG9rZW4gOiBudWxsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZWRRdWVyeVN0cmluZyAmJiAodHlwZW9mIHBhcnNlZFF1ZXJ5U3RyaW5nLnRva2VuICE9PSAidW5kZWZpbmVkIikgPyBwYXJzZWRRdWVyeVN0cmluZy50b2tlbiA6IG51bGwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcnNlZFF1ZXJ5U3RyaW5nID0gcXMucGFyc2UobG9jYXRpb24uc2VhcmNoLCB7aWdub3JlUXVlcnlQcmVmaXg6IHRydWV9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtuZXh0U3RhdGUsIGNifSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWRRdWVyeVN0cmluZyAmJiAodHlwZW9mIHBhcnNlZFF1ZXJ5U3RyaW5nLnRva2VuICE9PSAidW5kZWZpbmVkIikgPyBwYXJzZWRRdWVyeVN0cmluZy50b2tlbiA6IG51bGwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtuZXh0U3RhdGUsIGNifSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhSZXNldFBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtuZXh0U3RhdGUsIGNifSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
