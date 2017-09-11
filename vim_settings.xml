@@ -13,6 +13,12 @@
       <file name="/fragment.js" timestamp="1502063348983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Home/components/HomeView.js" timestamp="1505153471386">
+        <mark key="'" line="35" column="39" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedPasswordInput/index.js" timestamp="1502084632368">
         <mark key="'" line="26" column="46" />
         <mark key="[" line="21" column="70" />
@@ -64,6 +70,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" timestamp="1505153575781">
+        <mark key="'" line="143" column="13" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/build/scripts/compile.js" timestamp="1502041354758">
         <mark key="'" line="3" column="25" />
       </file>
@@ -94,8 +103,8 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/index.js" timestamp="1502088608445">
         <mark key="'" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/server/main.js" timestamp="1502901072534">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/server/main.js" timestamp="1505153017724">
+        <mark key="'" line="42" column="15" />
         <mark key="[" line="35" column="13" />
         <mark key="]" line="35" column="13" />
         <mark key="." line="35" column="15" />
@@ -113,12 +122,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/path.js" timestamp="1501795192519">
         <mark key="'" line="186" column="15" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/LeftNav/index.js" timestamp="1502901503623">
-        <mark key="'" line="38" column="45" />
-        <mark key="[" line="38" column="36" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="35" />
-        <mark key="^" line="38" column="35" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/LeftNav/index.js" timestamp="1505153014798">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+        <mark key="^" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" timestamp="1502400342952">
         <mark key="'" line="99" column="0" />
@@ -187,14 +196,15 @@
       <file name="webpack:///./~/react-dom/lib/ReactCompositeComponent.js" timestamp="1502053584580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" timestamp="1502743991939">
-        <mark key="'" line="257" column="32" />
-        <mark key="[" line="230" column="22" />
-        <mark key="]" line="230" column="22" />
-        <mark key="." line="230" column="22" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" timestamp="1505153560781">
+        <mark key="'" line="306" column="5" />
+        <mark key="[" line="361" column="154" />
+        <mark key="]" line="362" column="15" />
+        <mark key="." line="362" column="15" />
+        <mark key="^" line="362" column="15" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" timestamp="1501877853407">
-        <mark key="'" line="70" column="27" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" timestamp="1505153564924">
+        <mark key="'" line="70" column="30" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ScrollToTop/index.js" timestamp="1501641649311">
         <mark key="'" line="42" column="12" />
@@ -202,7 +212,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502480471131">
+      <file name="/Dummy.txt" timestamp="1505153473610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
@@ -252,22 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="64" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="143" column="63" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="144" column="69" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="145" column="75" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="146" column="72" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="147" column="81" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="150" column="36" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="153" column="42" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="154" column="35" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="8" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
-      <jump line="37" column="5" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
-      <jump line="11" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="20" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="142" column="40" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" />
-      <jump line="48" column="59" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
-      <jump line="5" column="3" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="7" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" />
       <jump line="17" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
@@ -352,19 +346,35 @@
       <jump line="96" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/server/main.js" />
       <jump line="41" column="45" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/LeftNav/index.js" />
+      <jump line="23" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/LeftNav/index.js" />
+      <jump line="42" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/server/main.js" />
+      <jump line="10" column="28" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="360" column="19" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="359" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="363" column="153" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="362" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="365" column="153" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="366" column="46" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="361" column="153" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="35" column="39" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Home/components/HomeView.js" />
+      <jump line="364" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="306" column="5" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
+      <jump line="70" column="30" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" />
+      <jump line="143" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>beta</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>beta</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>loadout_desc_container</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJ1aWxkZXJSb3V0ZShzdG9yZSksCg==</text>
@@ -402,23 +412,20 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHtuZXh0U3RhdGUsIGNifSkK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text encoding="base64">JXMvXCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0vXC8vZ2U=</text>
       </register>
     </registers>
     <search>
-      <last-search>loadout_desc_container</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern>loadout_desc_container</last-pattern>
-      <last-replace>Update</last-replace>
-      <last-substitute>Reset</last-substitute>
+      <last-pattern>asdf</last-pattern>
+      <last-replace>\/</last-replace>
+      <last-substitute encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ignoreQueryPrefix</entry>
-        <entry>fsevents</entry>
-        <entry encoding="base64">XDxGaWx0ZXJMaW5rXD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVQYXNzd29yZENvbnRhaW5lclw+</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry encoding="base64">XDxzZXRWaXNpYmlsaXR5RmlsdGVyXD4=</entry>
@@ -436,6 +443,9 @@
         <entry>fetch</entry>
         <entry encoding="base64">XDxnZXRcJShMb2Fkb3V0SW5mb1x8U2VhcmNoUmVzdWx0UGFnZVwpXD4=</entry>
         <entry>loadout_desc_container</entry>
+        <entry encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XCk=</entry>
+        <entry encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0=</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/ge</entry>
@@ -453,6 +463,7 @@
         <entry>%s/Reset/Update/ge</entry>
         <entry>w</entry>
         <entry>vs</entry>
+        <entry encoding="base64">JXMvXCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0vXC8vZ2U=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
