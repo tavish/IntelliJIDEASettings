@@ -169,6 +169,9 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" timestamp="1502089729104">
         <mark key="'" line="142" column="40" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/FooterNav/index.js" timestamp="1505331910780">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="webpack:///./~/react-dom/lib/ReactDOMInput.js" timestamp="1502087272485">
         <mark key="[" line="0" column="0" />
       </file>
@@ -219,7 +222,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505321801788">
+      <file name="/Dummy.txt" timestamp="1505332188935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
@@ -269,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="102" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="93" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
       <jump line="101" column="68" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/UpdatePassword/components/UpdatePassword.js" />
@@ -369,6 +371,7 @@
       <jump line="8" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" />
       <jump line="2" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" />
       <jump line="139" column="24" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/modules/session.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/FooterNav/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -429,7 +432,7 @@
       <last-replace>\/</last-replace>
       <last-substitute encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
