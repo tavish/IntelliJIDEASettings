@@ -72,11 +72,6 @@
         <mark key="^" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/ResetPassword/index.js" timestamp="1502400425022">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" timestamp="1505153657080">
         <mark key="'" line="0" column="0" />
       </file>
@@ -185,6 +180,12 @@
         <mark key="'" line="70" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/containers/ViewerContainer.js" timestamp="1505334473034">
+        <mark key="[" line="38" column="58" />
+        <mark key="]" line="38" column="58" />
+        <mark key="^" line="38" column="5" />
+        <mark key="." line="38" column="58" />
       </file>
       <file name="webpack:///webpack/bootstrap 5626964a60bcaa77da39" timestamp="1502058999134">
         <mark key="'" line="15" column="50" />
@@ -374,23 +375,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/FooterNav/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwZXJzaXN0ZWRTdGF0ZSA9IHVuZGVmaW5lZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXNzaW9uUmVkdWNlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ACTION_HANDLERS[action.type] ? ACTION_HANDLERS[action.type](state, action) : state</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNob3dQcmV2QnRuOiBjdXJyZW50TG9hZG91dE5vID09PSAwID8gZmFsc2UgOiB0cnVlLCAvL1ByaW1pdGl2ZQogICAgc2hvd05leHRCdG46IHNlYXJjaFJlc3VsdFNpemUgLSAxID09PSBjdXJyZW50TG9hZG91dE5vID8gZmFsc2UgOiB0cnVlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwZXJzaXN0ZWRTdGF0ZSA9IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgICE9PSBzZWFyY2hSZXN1bHRTaXplIC0gMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -398,28 +399,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwZXJzaXN0ZWRTdGF0ZSA9IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgIHNlYXJjaFJlc3VsdFNpemUgLSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaFJlc3VsdFNpemUgPCBjdXJyZW50TG9hZG91dE5vLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc2Vzc2lvblJlZHVjZXIgPSAoc3RhdGUgPSBpbml0aWFsU3RhdGUsIGFjdGlvbikgPT4KICBBQ1RJT05fSEFORExFUlNbYWN0aW9uLnR5cGVdID8gQUNUSU9OX0hBTkRMRVJTW2FjdGlvbi50eXBlXShzdGF0ZSwgYWN0aW9uKSA6IHN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgc2VhcmNoUmVzdWx0U2l6ZSAtIDEgPT09IGN1cnJlbnRMb2Fkb3V0Tm8gPyBmYWxzZSA6IHRydWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtaW4taGVpZ2h0OiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudExvYWRvdXRObyA9PT0gMCA/IGZhbHNlIDogdHJ1ZSwgLy9QcmltaXRpdmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJwo=</text>
+        <text encoding="base64">ICBwZXJzaXN0ZWRTdGF0ZSA9IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcnNlZFF1ZXJ5U3RyaW5nID0gcXMucGFyc2UobG9jYXRpb24uc2VhcmNoLCB7aWdub3JlUXVlcnlQcmVmaXg6IHRydWV9KQo=</text>
+        <text encoding="base64">ICBwZXJzaXN0ZWRTdGF0ZSA9IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW46IHR5cGVvZiB0aGlzLnByb3BzLnRva2VuICE9PSAndW5kZWZpbmVkJyA/IHRoaXMucHJvcHMudG9rZW4gOiBudWxsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbjogcGFyc2VkUXVlcnlTdHJpbmcgJiYgKHR5cGVvZiBwYXJzZWRRdWVyeVN0cmluZy50b2tlbiAhPT0gInVuZGVmaW5lZCIpID8gcGFyc2VkUXVlcnlTdHJpbmcudG9rZW4gOiBudWxsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc2Vzc2lvblJlZHVjZXIgPSAoc3RhdGUgPSBpbml0aWFsU3RhdGUsIGFjdGlvbikgPT4KICBBQ1RJT05fSEFORExFUlNbYWN0aW9uLnR5cGVdID8gQUNUSU9OX0hBTkRMRVJTW2FjdGlvbi50eXBlXShzdGF0ZSwgYWN0aW9uKSA6IHN0YXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
