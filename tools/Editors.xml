@@ -1,0 +1,9 @@
+<toolSet name="Editors">
+  <tool name="gvim" description="Open current file in gvim" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Vim\vim80\gvim.exe" />
+      <option name="PARAMETERS" value="+$LineNumber$ &quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

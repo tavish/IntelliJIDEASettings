@@ -58,6 +58,9 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/webpack/lib/webpack.js" timestamp="1502058419041">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/index.js" timestamp="1506714407596">
+        <mark key="'" line="94" column="60" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/object-assign/index.js" timestamp="1501689106643">
         <mark key="'" line="10" column="0" />
       </file>
@@ -179,11 +182,6 @@
       <file name="/CoreLayout.scss" timestamp="1502480215607">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/index.js" timestamp="1502401590996">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="24" />
-      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/containers/ViewerContainer.js" timestamp="1505334473034">
         <mark key="[" line="38" column="58" />
         <mark key="]" line="38" column="58" />
@@ -213,6 +211,9 @@
       <file name="webpack:///./~/react-dom/lib/ReactCompositeComponent.js" timestamp="1502053584580">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/api.js" timestamp="1506713527087">
+        <mark key="'" line="18" column="13" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" timestamp="1505320665319">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="361" column="154" />
@@ -229,7 +230,14 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506639264065">
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" timestamp="1506714647362">
+        <mark key="'" line="229" column="4" />
+        <mark key="[" line="229" column="59" />
+        <mark key="]" line="229" column="58" />
+        <mark key="^" line="229" column="58" />
+        <mark key="." line="229" column="58" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506713733863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -242,8 +250,14 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="25" column="59" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/containers/BuilderContainer.js" timestamp="1506713155089">
+        <mark key="'" line="34" column="36" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/index.js" timestamp="1502395470581">
         <mark key="'" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" timestamp="1506713390223">
+        <mark key="'" line="1" column="24" />
       </file>
       <file name="webpack:///./~/react-dom/lib/LinkedValueUtils.js" timestamp="1502087270812">
         <mark key="[" line="0" column="0" />
@@ -282,35 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="2" filename="/index.js" />
-      <jump line="11" column="36" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
-      <jump line="11" column="0" filename="/index.js" />
-      <jump line="0" column="0" filename="/index.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
-      <jump line="70" column="0" filename="/index.js" />
-      <jump line="4" column="0" filename="/package.json" />
-      <jump line="54" column="0" filename="/CoreLayout.scss" />
-      <jump line="0" column="0" filename="/CoreLayout.scss" />
-      <jump line="212" column="12" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
-      <jump line="239" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
-      <jump line="257" column="32" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" />
-      <jump line="14" column="45" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="139" column="52" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="169" column="52" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="25" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
-      <jump line="12" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
-      <jump line="27" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
-      <jump line="1" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
-      <jump line="16" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/api.js" />
-      <jump line="1" column="24" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="149" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="179" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="191" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="195" column="17" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="211" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
       <jump line="213" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
       <jump line="224" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
       <jump line="226" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
@@ -382,19 +367,48 @@
       <jump line="134" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/AddItem/index.js" />
       <jump line="42" column="19" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderTabSystem/components/SelectedDisplay/index.js" />
       <jump line="5" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/AddItem/index.js" />
+      <jump line="704" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
+      <jump line="35" column="36" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/containers/BuilderContainer.js" />
+      <jump line="34" column="36" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/containers/BuilderContainer.js" />
+      <jump line="723" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
+      <jump line="741" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
+      <jump line="625" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
+      <jump line="636" column="29" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
+      <jump line="646" column="33" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
+      <jump line="1" column="24" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
+      <jump line="18" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/api.js" />
+      <jump line="223" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="230" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="233" column="32" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="207" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="83" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/index.js" />
+      <jump line="84" column="19" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/index.js" />
+      <jump line="279" column="22" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="222" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="94" column="60" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/index.js" />
+      <jump line="225" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="224" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="231" column="59" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="268" column="38" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="271" column="34" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="277" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="288" column="57" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="291" column="53" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
+      <jump line="229" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZXRjaEl0ZW1cPg==</text>
+        <text encoding="base64">XDx0b29sdHlwZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNob3dQcmV2QnRuOiBjdXJyZW50TG9hZG91dE5vID09PSAwID8gZmFsc2UgOiB0cnVlLCAvL1ByaW1pdGl2ZQogICAgc2hvd05leHRCdG46IHNlYXJjaFJlc3VsdFNpemUgLSAxID09PSBjdXJyZW50TG9hZG91dE5vID8gZmFsc2UgOiB0cnVlLAo=</text>
@@ -436,9 +450,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZXRjaEl0ZW1cPg==</last-search>
+      <last-search encoding="base64">XDx0b29sdHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZXRjaEl0ZW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b29sdHlwZVw+</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0=</last-substitute>
       <last-dir>1</last-dir>
@@ -446,18 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cprops</entry>
-        <entry>\ctoken</entry>
-        <entry>this.props</entry>
-        <entry encoding="base64">XDxwYXJzZWRRdWVyeVN0cmluZ1w+</entry>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
-        <entry>fetch</entry>
-        <entry encoding="base64">XDxnZXRcJShMb2Fkb3V0SW5mb1x8U2VhcmNoUmVzdWx0UGFnZVwpXD4=</entry>
-        <entry>loadout_desc_container</entry>
-        <entry encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XCk=</entry>
-        <entry encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0=</entry>
-        <entry>asdf</entry>
         <entry>render</entry>
         <entry>persistedState</entry>
         <entry encoding="base64">XDxBQ1RJT05fSEFORExFUlNcPg==</entry>
@@ -466,6 +468,18 @@
         <entry encoding="base64">XDxcJShmaXJzdFx8bGFzdFx8c2NyZWVuXClOYW1lXD4=</entry>
         <entry encoding="base64">XDxzZXNzaW9uUmVkdWNlclw+</entry>
         <entry encoding="base64">XDxmZXRjaEl0ZW1cPg==</entry>
+        <entry>\cupload</entry>
+        <entry>upload</entry>
+        <entry>\ccropped</entry>
+        <entry>selectionFunctions</entry>
+        <entry>getIndex</entry>
+        <entry encoding="base64">XDxnZXRJbmRleElmU2VsZWN0ZWRcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3Rpb25GdW5jdGlvbnNcPg==</entry>
+        <entry>tool</entry>
+        <entry encoding="base64">XDx0b29sXD4=</entry>
+        <entry encoding="base64">XDxsb0xpbmVzXD4=</entry>
+        <entry encoding="base64">XDxjaGVja0FuZEdldFNlbGVjdEJveFw+</entry>
+        <entry encoding="base64">XDx0b29sdHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/ge</entry>
