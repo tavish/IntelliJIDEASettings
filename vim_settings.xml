@@ -52,10 +52,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" timestamp="1506959590907">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/ValidatedBirthdayInput/index.js" timestamp="1506962422993">
-        <mark key="'" line="66" column="95" />
-        <mark key="[" line="67" column="67" />
-        <mark key="]" line="67" column="84" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/ValidatedBirthdayInput/index.js" timestamp="1506966459421">
+        <mark key="'" line="59" column="76" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
         <mark key="." line="66" column="95" />
         <mark key="^" line="67" column="11" />
       </file>
@@ -244,12 +244,12 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/containers/BuilderContainer.js" timestamp="1506713155089">
         <mark key="'" line="34" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" timestamp="1506965429018">
-        <mark key="'" line="27" column="1" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="17" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" timestamp="1506966702580">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="38" column="59" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/index.js" timestamp="1502395470581">
         <mark key="'" line="9" column="11" />
@@ -285,47 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/AddItem/index.js" />
-      <jump line="704" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
-      <jump line="35" column="36" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/containers/BuilderContainer.js" />
-      <jump line="34" column="36" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/containers/BuilderContainer.js" />
-      <jump line="723" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
-      <jump line="741" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
-      <jump line="625" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
-      <jump line="636" column="29" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
-      <jump line="646" column="33" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
-      <jump line="1" column="24" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/builder.js" />
-      <jump line="18" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/api.js" />
-      <jump line="223" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="230" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="233" column="32" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="207" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="83" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/index.js" />
-      <jump line="84" column="19" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/index.js" />
-      <jump line="279" column="22" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="222" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="94" column="60" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/index.js" />
-      <jump line="225" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="224" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="231" column="59" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="268" column="38" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="271" column="34" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="277" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="288" column="57" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="291" column="53" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="229" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderCanvases/utils.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
-      <jump line="7" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginBar/index.js" />
-      <jump line="5" column="30" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginBar/index.js" />
-      <jump line="43" column="43" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" />
-      <jump line="70" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" />
-      <jump line="71" column="17" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" />
-      <jump line="14" column="35" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" />
-      <jump line="142" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="120" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="125" column="21" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
       <jump line="106" column="28" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
       <jump line="99" column="43" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
       <jump line="34" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
@@ -351,7 +310,6 @@
       <jump line="37" column="11" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
       <jump line="42" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
       <jump line="4" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/ValidatedBirthdayInput/index.js" />
-      <jump line="59" column="109" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/ValidatedBirthdayInput/index.js" />
       <jump line="214" column="94" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
       <jump line="121" column="10" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
       <jump line="94" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
@@ -379,31 +337,73 @@
       <jump line="128" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
       <jump line="67" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
       <jump line="86" column="28" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
-      <jump line="80" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="45" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="58" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="48" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="88" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="60" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="21" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="81" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="87" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="59" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="25" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="3" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="98" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="52" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="66" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="89" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="79" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="84" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="92" column="114" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="96" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="59" column="76" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/ValidatedBirthdayInput/index.js" />
+      <jump line="15" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="82" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="44" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="99" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="83" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="85" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="41" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="86" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>attempt</text>
+        <text>\*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIEJhZEV4cHJlc3Npb25TdGF0ZW1lbnRKUwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,51 +411,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICE9PSBzZWFyY2hSZXN1bHRTaXplIC0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaFJlc3VsdFNpemUgLSAxCg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaFJlc3VsdFNpemUgPCBjdXJyZW50TG9hZG91dE5vLAo=</text>
+        <text encoding="base64">KAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VhcmNoUmVzdWx0U2l6ZSAtIDEgPT09IGN1cnJlbnRMb2Fkb3V0Tm8gPyBmYWxzZSA6IHRydWUsCg==</text>
+        <text encoding="base64">KAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudExvYWRvdXRObyA9PT0gMCA/IGZhbHNlIDogdHJ1ZSwgLy9QcmltaXRpdmUK</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwZXJzaXN0ZWRTdGF0ZSA9IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwZXJzaXN0ZWRTdGF0ZSA9IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>%s/^\/\*\n\|^ \*\/\n//ge</text>
       </register>
     </registers>
     <search>
-      <last-search>attempt</last-search>
+      <last-search>\*</last-search>
       <last-offset />
-      <last-pattern>attempt</last-pattern>
-      <last-replace>\/</last-replace>
-      <last-substitute encoding="base64">XCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0=</last-substitute>
+      <last-pattern>\*</last-pattern>
+      <last-replace />
+      <last-substitute>^\/\*\n\|^ \*\/\n</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
-        <entry>\ccropped</entry>
-        <entry>selectionFunctions</entry>
-        <entry>getIndex</entry>
-        <entry encoding="base64">XDxnZXRJbmRleElmU2VsZWN0ZWRcPg==</entry>
-        <entry encoding="base64">XDxzZWxlY3Rpb25GdW5jdGlvbnNcPg==</entry>
-        <entry>tool</entry>
         <entry encoding="base64">XDx0b29sXD4=</entry>
         <entry encoding="base64">XDxsb0xpbmVzXD4=</entry>
         <entry encoding="base64">XDxjaGVja0FuZEdldFNlbGVjdEJveFw+</entry>
@@ -469,9 +462,15 @@
         <entry encoding="base64">XDxhdHRlbXB0ZWRTdWJtaXRcPg==</entry>
         <entry encoding="base64">XCUoYXR0XCUoZW1wdGVkU3VibWl0XClcQD1cfHBcQDw9YXR0XCUoZXJuXClcQD1cKVxAIWF0dA==</entry>
         <entry>attempt</entry>
+        <entry encoding="base64">XDxCYWRFeHByZXNzaW9uU3RhdGVtZW50SlNcPg==</entry>
+        <entry encoding="base64">XCUoXC9cKlwpXEA8PVwqXCs=</entry>
+        <entry>);</entry>
+        <entry encoding="base64">Wz8hLl1cQDw9XHNcKw==</entry>
+        <entry encoding="base64">XiBcKiA=</entry>
+        <entry>^\/\*\n\|^ \*\/\n</entry>
+        <entry>\*</entry>
       </history-search>
       <history-cmd>
-        <entry>s/&quot;/'/ge</entry>
         <entry encoding="base64">JXMvXCUoXDxcJShpZlx8Zm9yXClcKVxAPD0oXEA9LyAvZ2U=</entry>
         <entry encoding="base64">JXMvIFxAPD1jbGFzcz0iXChbXiJdKlwpIi9jbGFzc05hbWU9J1wxJy9nZQ==</entry>
         <entry encoding="base64">JXMvXiAgXC9cKlwqIFwoLipcKSBcKlwvXG5cKCAgXHdcKzogLipcKVxzXEA8IVxzKiQvXDIgICAgICAgICAgICAgIFwvXC8gXDEvZ2U=</entry>
@@ -487,6 +486,11 @@
         <entry>w</entry>
         <entry encoding="base64">JXMvXCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0vXC8vZ2U=</entry>
         <entry>vs</entry>
+        <entry encoding="base64">JXMvXCUoXC9cKlwpXEA8PVwqXCsvL2dl</entry>
+        <entry>,$g/^($/;/^);$/s/^/    /ge</entry>
+        <entry>%s/^ \* /\/\/ /ge</entry>
+        <entry>g/^\/\*$\|^ \*\/$/d</entry>
+        <entry>%s/^\/\*\n\|^ \*\/\n//ge</entry>
       </history-cmd>
       <history-expr />
       <history-input />
