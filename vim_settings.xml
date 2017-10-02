@@ -132,6 +132,9 @@
         <mark key="." line="37" column="35" />
         <mark key="^" line="37" column="35" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/index.js" timestamp="1506967841957">
+        <mark key="'" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" timestamp="1502400342952">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="4" column="0" />
@@ -168,8 +171,8 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/FooterNav/index.js" timestamp="1505331910780">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" timestamp="1506961668591">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" timestamp="1506967701778">
+        <mark key="'" line="193" column="78" />
         <mark key="[" line="129" column="20" />
         <mark key="]" line="129" column="21" />
         <mark key="^" line="214" column="76" />
@@ -212,12 +215,12 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/api.js" timestamp="1506713527087">
         <mark key="'" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" timestamp="1505320665319">
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Support/components/Support.js" timestamp="1506967749076">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="361" column="154" />
-        <mark key="]" line="362" column="15" />
-        <mark key="." line="362" column="15" />
-        <mark key="^" line="362" column="15" />
+        <mark key="[" line="360" column="48" />
+        <mark key="]" line="360" column="48" />
+        <mark key="." line="360" column="48" />
+        <mark key="^" line="360" column="48" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/React.js" timestamp="1506958895497">
         <mark key="'" line="14" column="35" />
@@ -260,8 +263,8 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/query-string/index.js" timestamp="1502089145414">
         <mark key="'" line="153" column="24" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" timestamp="1502401605870">
-        <mark key="'" line="73" column="0" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" timestamp="1506967859820">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="6" />
         <mark key="." line="50" column="6" />
@@ -285,12 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="28" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="99" column="43" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="135" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
       <jump line="139" column="38" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
       <jump line="143" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
       <jump line="25" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
@@ -385,19 +382,25 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="41" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="86" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
+      <jump line="193" column="78" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
+      <jump line="3" column="16" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/index.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/index.js" />
+      <jump line="49" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
+      <jump line="9" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>' className='</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>' className='</text>
       </register>
       <register name="/" type="4">
-        <text>\*</text>
+        <text encoding="base64">XDxTaWdudXBSb3V0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
@@ -439,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\*</last-search>
+      <last-search encoding="base64">XDxTaWdudXBSb3V0ZVw+</last-search>
       <last-offset />
-      <last-pattern>\*</last-pattern>
+      <last-pattern encoding="base64">XDxTaWdudXBSb3V0ZVw+</last-pattern>
       <last-replace />
       <last-substitute>^\/\*\n\|^ \*\/\n</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b29sXD4=</entry>
         <entry encoding="base64">XDxsb0xpbmVzXD4=</entry>
         <entry encoding="base64">XDxjaGVja0FuZEdldFNlbGVjdEJveFw+</entry>
         <entry encoding="base64">XDx0b29sdHlwZVw+</entry>
@@ -469,6 +471,7 @@
         <entry encoding="base64">XiBcKiA=</entry>
         <entry>^\/\*\n\|^ \*\/\n</entry>
         <entry>\*</entry>
+        <entry encoding="base64">XDxTaWdudXBSb3V0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXCUoXDxcJShpZlx8Zm9yXClcKVxAPD0oXEA9LyAvZ2U=</entry>
