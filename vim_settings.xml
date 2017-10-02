@@ -10,12 +10,6 @@
         <mark key="." line="4" column="64" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Home/components/HomeView.js" timestamp="1505153471386">
-        <mark key="'" line="35" column="39" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedPasswordInput/index.js" timestamp="1502084632368">
         <mark key="'" line="26" column="46" />
         <mark key="[" line="21" column="70" />
@@ -181,17 +175,22 @@
       <file name="/package.json" timestamp="1502476190243">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" timestamp="1506963042741">
-        <mark key="'" line="102" column="12" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" timestamp="1506969280274">
+        <mark key="'" line="83" column="15" />
+        <mark key="[" line="83" column="116" />
+        <mark key="]" line="83" column="116" />
+        <mark key="^" line="83" column="115" />
+        <mark key="." line="83" column="116" />
       </file>
       <file name="/CoreLayout.scss" timestamp="1502480215607">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginBar/index.js" timestamp="1506963530735">
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginBar/index.js" timestamp="1506969035892">
         <mark key="'" line="5" column="30" />
-        <mark key="[" line="27" column="89" />
-        <mark key="]" line="27" column="89" />
-        <mark key="." line="27" column="89" />
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/containers/ViewerContainer.js" timestamp="1505334473034">
         <mark key="[" line="38" column="58" />
@@ -231,7 +230,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506962971217">
+      <file name="/Dummy.txt" timestamp="1506969301807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -288,14 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="38" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="143" column="13" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="25" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/lib/ReactBaseClasses.js" />
-      <jump line="268" column="14" filename="$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
-      <jump line="141" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="42" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="67" column="19" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="102" column="25" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
@@ -328,7 +319,6 @@
       <jump line="44" column="8" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/ValidatedBirthdayInput/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
       <jump line="66" column="95" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/ValidatedBirthdayInput/index.js" />
-      <jump line="102" column="12" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="31" column="1" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
       <jump line="128" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
@@ -388,25 +378,34 @@
       <jump line="49" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
       <jump line="9" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
+      <jump line="102" column="12" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="75" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="134" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="138" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
+      <jump line="83" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>' className='</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>' className='</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaWdudXBSb3V0ZVw+</text>
+        <text encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+      <register name="0" type="4">
+        <text>Sign Up</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSdoZHJfYnV0dG9uIGlucHV0Y29sb3JfQicgaHJlZj0naHR0cHM6Ly93d3cuZXF1aXBpdC5jb20nPlNpZ24gVXA8L2E+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,22 +413,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">KAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">KAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">KTsK</text>
@@ -442,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaWdudXBSb3V0ZVw+</last-search>
+      <last-search encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaWdudXBSb3V0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</last-pattern>
       <last-replace />
       <last-substitute>^\/\*\n\|^ \*\/\n</last-substitute>
       <last-dir>1</last-dir>
@@ -452,8 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb0xpbmVzXD4=</entry>
-        <entry encoding="base64">XDxjaGVja0FuZEdldFNlbGVjdEJveFw+</entry>
         <entry encoding="base64">XDx0b29sdHlwZVw+</entry>
         <entry encoding="base64">XDxSZWFjdEJhc2VDbGFzc2VzXD4=</entry>
         <entry encoding="base64">XDxSZWFjdENvbXBvbmVudFw+</entry>
@@ -472,6 +469,8 @@
         <entry>^\/\*\n\|^ \*\/\n</entry>
         <entry>\*</entry>
         <entry encoding="base64">XDxTaWdudXBSb3V0ZVw+</entry>
+        <entry>redirec</entry>
+        <entry encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXCUoXDxcJShpZlx8Zm9yXClcKVxAPD0oXEA9LyAvZ2U=</entry>
