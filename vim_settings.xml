@@ -143,6 +143,14 @@
         <mark key="." line="37" column="35" />
         <mark key="^" line="37" column="35" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" timestamp="1521061841557">
+        <mark key="'" line="222" column="25" />
+        <mark key="[" line="236" column="12" />
+        <mark key="]" line="236" column="7" />
+        <mark key="m" line="247" column="31" />
+        <mark key="^" line="236" column="7" />
+        <mark key="." line="236" column="7" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/index.js" timestamp="1521058495059">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="7" column="20" />
@@ -234,6 +242,9 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/BuilderTabSystem/components/SelectedDisplay/index.js" timestamp="1506636110815">
         <mark key="'" line="42" column="19" />
       </file>
+      <file name="/JavaScript Console" timestamp="1521060674082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/Modules/api.js" timestamp="1506713527087">
         <mark key="'" line="18" column="13" />
       </file>
@@ -253,11 +264,8 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521059117126">
+      <file name="/Dummy.txt" timestamp="1521062424330">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
         <mark key="'" line="0" column="0" />
@@ -278,12 +286,22 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/query-string/index.js" timestamp="1502089145414">
         <mark key="'" line="153" column="24" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" timestamp="1521060316925">
+        <mark key="'" line="15" column="1" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" timestamp="1506967859820">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="6" />
         <mark key="." line="50" column="6" />
         <mark key="^" line="47" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" timestamp="1521062222759">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="77" column="85" />
+        <mark key="]" line="77" column="85" />
+        <mark key="." line="77" column="85" />
+        <mark key="^" line="77" column="85" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/SignUp.js" timestamp="1521059290458">
         <mark key="'" line="232" column="39" />
@@ -321,34 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
-      <jump line="128" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
-      <jump line="86" column="28" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" />
-      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="45" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="58" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="48" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="88" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="60" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="21" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="87" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="59" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="25" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="3" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="98" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="52" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
       <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
@@ -421,25 +411,53 @@
       <jump line="3" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
       <jump line="14" column="39" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
       <jump line="20" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
+      <jump line="7" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
+      <jump line="81" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
+      <jump line="1" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
+      <jump line="15" column="1" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
+      <jump line="230" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="234" column="50" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="272" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="238" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="247" column="31" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="252" column="29" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="253" column="31" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="245" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="246" column="31" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="287" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="242" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="243" column="25" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="244" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="222" column="25" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
+      <jump line="2" column="51" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
+      <jump line="66" column="11" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PjwvaW5wdXQ=</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PjwvaW5wdXQ=</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</text>
       </register>
       <register name="0" type="4">
-        <text>Sign Up</text>
+        <text encoding="base64">IGVzbGludC1kaXNhYmxlLWxpbmUgbm8tdW51c2VkLXZhcnM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSdoZHJfYnV0dG9uIGlucHV0Y29sb3JfQicgaHJlZj0naHR0cHM6Ly93d3cuZXF1aXBpdC5jb20nPlNpZ24gVXA8L2E+Cg==</text>
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXVudXNlZC12YXJzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -447,50 +465,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSdoZHJfYnV0dG9uIGlucHV0Y29sb3JfQicgaHJlZj0naHR0cHM6Ly93d3cuZXF1aXBpdC5jb20nPlNpZ24gVXA8L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">KAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/^\/\*\n\|^ \*\/\n//ge</text>
+        <text encoding="base64">JXMvPVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAhL3tcMH0vZ2U=</text>
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
-      <last-replace />
-      <last-substitute>^\/\*\n\|^ \*\/\n</last-substitute>
+      <last-pattern encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</last-pattern>
+      <last-replace>{\0}</last-replace>
+      <last-substitute encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWFjdENvbXBvbmVudFw+</entry>
-        <entry encoding="base64">XCUoXCUoXC9cL1x8XC9cP1wqXCkuKlwpXEA8IVw8UmVhY3RDb21wb25lbnRcPg==</entry>
-        <entry encoding="base64">XCUoXCUoXC9cL1x8XC9cP1wqXCkuKlx8XDxPYmplY3RcLmRlZmluZVByb3BlcnR5KFwpXEA8IVw8UmVhY3RDb21wb25lbnRcPg==</entry>
-        <entry>att\%(emptedSubmit\)\@!</entry>
-        <entry>atte\%(mptedSubmit\)\@!</entry>
-        <entry encoding="base64">XDxhdHRlbXB0ZWRTdWJtaXRcPg==</entry>
         <entry encoding="base64">XCUoYXR0XCUoZW1wdGVkU3VibWl0XClcQD1cfHBcQDw9YXR0XCUoZXJuXClcQD1cKVxAIWF0dA==</entry>
         <entry>attempt</entry>
         <entry encoding="base64">XDxCYWRFeHByZXNzaW9uU3RhdGVtZW50SlNcPg==</entry>
@@ -505,9 +517,14 @@
         <entry encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</entry>
         <entry>\clint</entry>
         <entry>:</entry>
+        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
+        <entry>agreement</entry>
+        <entry>\cproptypes</entry>
+        <entry encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrJ31cQCE=</entry>
+        <entry>\/\/ eslint-disable-line no-unused-vars</entry>
+        <entry encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXCUoXDxcJShpZlx8Zm9yXClcKVxAPD0oXEA9LyAvZ2U=</entry>
         <entry encoding="base64">JXMvIFxAPD1jbGFzcz0iXChbXiJdKlwpIi9jbGFzc05hbWU9J1wxJy9nZQ==</entry>
         <entry encoding="base64">JXMvXiAgXC9cKlwqIFwoLipcKSBcKlwvXG5cKCAgXHdcKzogLipcKVxzXEA8IVxzKiQvXDIgICAgICAgICAgICAgIFwvXC8gXDEvZ2U=</entry>
         <entry>%s/\%10c\s\+//ge</entry>
@@ -521,12 +538,13 @@
         <entry>%s/Reset/Update/ge</entry>
         <entry>w</entry>
         <entry encoding="base64">JXMvXCUoPFwoXHdcK1wpXD5bXj5dKlwlKFxzXEA8IVwvXEA8IVxzKj5cX1xzKjxcL1wxPlwpXEA9XClcQDw9PlxfXHMqPFwvXHdcKz5cQD0vXC8vZ2U=</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JXMvXCUoXC9cKlwpXEA8PVwqXCsvL2dl</entry>
         <entry>,$g/^($/;/^);$/s/^/    /ge</entry>
         <entry>%s/^ \* /\/\/ /ge</entry>
         <entry>g/^\/\*$\|^ \*\/$/d</entry>
         <entry>%s/^\/\*\n\|^ \*\/\n//ge</entry>
+        <entry>vs</entry>
+        <entry encoding="base64">JXMvPVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAhL3tcMH0vZ2U=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
