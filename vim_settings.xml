@@ -131,9 +131,6 @@
         <mark key="." line="35" column="15" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" timestamp="1528227219780">
-        <mark key="'" line="342" column="21" />
-      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/build/webpack.config.js" timestamp="1502081472693">
         <mark key="'" line="25" column="47" />
       </file>
@@ -323,25 +320,20 @@
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/path.js" timestamp="1501795192519">
         <mark key="'" line="186" column="15" />
       </file>
+      <file name="/index.html" timestamp="1543352024926">
+        <mark key="'" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/modules/utils.js" timestamp="1521058423768">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/index.html" timestamp="1527895725964">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/index.html" timestamp="1543351986093">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" timestamp="1505321741503">
         <mark key="'" line="2" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" />
-      <jump line="193" column="78" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/Signup.js" />
-      <jump line="3" column="16" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/index.js" />
-      <jump line="49" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
-      <jump line="9" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
       <jump line="102" column="12" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
@@ -437,6 +429,11 @@
       <jump line="340" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" />
       <jump line="341" column="24" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" />
       <jump line="342" column="21" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/index.html" />
+      <jump line="3" column="0" filename="/index.html" />
+      <jump line="0" column="0" filename="/index.html" />
+      <jump line="31" column="0" filename="/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -497,7 +494,7 @@
       <last-replace>{\0}</last-replace>
       <last-substitute encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
