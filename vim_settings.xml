@@ -30,6 +30,7 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Guide/components/Guide.jsx" timestamp="1544540707121" />
       <file name="/Search.js" timestamp="1521068365322">
         <mark key="'" line="35" column="28" />
       </file>
@@ -56,6 +57,13 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="66" column="95" />
         <mark key="^" line="67" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/.gitignore" timestamp="1544541347021">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="6" />
+        <mark key="^" line="49" column="6" />
+        <mark key="." line="49" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" timestamp="1506959590907">
         <mark key="'" line="0" column="0" />
@@ -206,6 +214,13 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/FooterNav/index.js" timestamp="1505331910780">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/Card/index.jsx" timestamp="1544541239794">
+        <mark key="'" line="20" column="43" />
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="21" column="59" />
+        <mark key="." line="21" column="59" />
+        <mark key="^" line="21" column="59" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc" timestamp="1501715443611">
         <mark key="'" line="237" column="12" />
       </file>
@@ -271,7 +286,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544538818804">
+      <file name="/Dummy.txt" timestamp="1544541255117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
@@ -344,10 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
-      <jump line="75" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
-      <jump line="133" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="134" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="138" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="83" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
@@ -444,23 +455,26 @@
       <jump line="47" column="3" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
       <jump line="53" column="33" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
       <jump line="108" column="33" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
+      <jump line="2" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/Card/index.jsx" />
+      <jump line="20" column="43" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/Card/index.jsx" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,
-    &quot;@babel/preset-flow&quot;: &quot;^7.0.0&quot;</text>
+        <text>'styles.card_title'</text>
       </register>
       <register name="l" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'styles.card_title'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZFNsb3RJbWFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Lm1haW5fbGF5b3V0IHsKICBjb21wb3NlczogYmtnX2NvbG9yX3ByaW1hcnlfbGlnaHQgZnJvbSAnLi4vLi4vLi4vc3R5bGVzL1N0eWxlTGlicmFyeS5zY3NzJzsKICBAaW5jbHVkZSBmbGV4LWJveCgkZGlyZWN0aW9uOiBjb2x1bW4sICRhbGlnbjogY2VudGVyKTsKICBmbGV4OiAxIGF1dG87Cn0KCi5jb250ZW50X2NvbnRhaW5lciB7CiAgY29tcG9zZXM6IGJrZ19jb2xvcl9vZmZ3aGl0ZSBmcm9tICcuLi8uLi8uLi9zdHlsZXMvU3R5bGVMaWJyYXJ5LnNjc3MnOwogIEBpbmNsdWRlIGZsZXgtYm94KCRkaXJlY3Rpb246IGNvbHVtbik7CiAgbWF4LXdpZHRoOiAxMzQwcHg7CiAgbWluLXdpZHRoOiA5ODBweDsKICBmbGV4OiAxIGF1dG87Cn0KCi5yZXN1bHRzX2NvbnRhaW5lciB7CiAgQGluY2x1ZGUgZmxleC1ib3goJHdyYXA6IHdyYXAsICRjb250ZW50OiBjZW50ZXIsICRhbGlnbjogZmxleC1zdGFydCk7CiAgYWxpZ24tY29udGVudDogZmxleC1zdGFydDsKICBvdmVyZmxvdy15OiBhdXRvOwogIHBhZGRpbmc6IDE1cHggMzBweDsKfQo=</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy50aXRsZSA/IDxoMyBzdHlsZU5hbWU9J3N0eWxlcy5jYXJkX3RpdGxlJz57dGhpcy5wcm9wcy50aXRsZX08L2gzPiA6IG51bGx9Cg==</text>
       </register>
       <register name="1" type="4">
         <text>,
