@@ -171,6 +171,12 @@
         <mark key="]" line="22" column="1" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" timestamp="1544537709249">
+        <mark key="'" line="108" column="33" />
+        <mark key="[" line="107" column="21" />
+        <mark key="]" line="108" column="34" />
+        <mark key="." line="107" column="21" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" timestamp="1506963366821">
         <mark key="'" line="86" column="28" />
       </file>
@@ -210,7 +216,7 @@
         <mark key="^" line="214" column="76" />
         <mark key="." line="129" column="20" />
       </file>
-      <file name="/package.json" timestamp="1502476190243">
+      <file name="/package.json" timestamp="1544536806979">
         <mark key="'" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" timestamp="1506969280274">
@@ -265,7 +271,7 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/package.json" timestamp="1501877951925">
         <mark key="'" line="52" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544534724252">
+      <file name="/Dummy.txt" timestamp="1544537559425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedTextInput/index.js" timestamp="1502086984421">
@@ -326,17 +332,18 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/modules/utils.js" timestamp="1521058423768">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/index.html" timestamp="1543351986093">
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/index.html" timestamp="1544536781881">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="74" />
+        <mark key="]" line="14" column="74" />
+        <mark key="^" line="14" column="74" />
+        <mark key="." line="14" column="74" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" timestamp="1505321741503">
         <mark key="'" line="2" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/index.js" />
-      <jump line="102" column="12" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="141" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="75" column="2" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
       <jump line="139" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" />
@@ -434,10 +441,14 @@
       <jump line="3" column="0" filename="/index.html" />
       <jump line="0" column="0" filename="/index.html" />
       <jump line="31" column="0" filename="/index.html" />
+      <jump line="47" column="3" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
+      <jump line="53" column="33" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
+      <jump line="108" column="33" filename="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uID0gJ2h0dHBzOi8vbS5lcXVpcGl0LmNvbScK</text>
+      <register name="&quot;" type="4">
+        <text>,
+    &quot;@babel/preset-flow&quot;: &quot;^7.0.0&quot;</text>
       </register>
       <register name="l" type="4">
         <text />
@@ -451,8 +462,9 @@
       <register name="0" type="2">
         <text encoding="base64">Lm1haW5fbGF5b3V0IHsKICBjb21wb3NlczogYmtnX2NvbG9yX3ByaW1hcnlfbGlnaHQgZnJvbSAnLi4vLi4vLi4vc3R5bGVzL1N0eWxlTGlicmFyeS5zY3NzJzsKICBAaW5jbHVkZSBmbGV4LWJveCgkZGlyZWN0aW9uOiBjb2x1bW4sICRhbGlnbjogY2VudGVyKTsKICBmbGV4OiAxIGF1dG87Cn0KCi5jb250ZW50X2NvbnRhaW5lciB7CiAgY29tcG9zZXM6IGJrZ19jb2xvcl9vZmZ3aGl0ZSBmcm9tICcuLi8uLi8uLi9zdHlsZXMvU3R5bGVMaWJyYXJ5LnNjc3MnOwogIEBpbmNsdWRlIGZsZXgtYm94KCRkaXJlY3Rpb246IGNvbHVtbik7CiAgbWF4LXdpZHRoOiAxMzQwcHg7CiAgbWluLXdpZHRoOiA5ODBweDsKICBmbGV4OiAxIGF1dG87Cn0KCi5yZXN1bHRzX2NvbnRhaW5lciB7CiAgQGluY2x1ZGUgZmxleC1ib3goJHdyYXA6IHdyYXAsICRjb250ZW50OiBjZW50ZXIsICRhbGlnbjogZmxleC1zdGFydCk7CiAgYWxpZ24tY29udGVudDogZmxleC1zdGFydDsKICBvdmVyZmxvdy15OiBhdXRvOwogIHBhZGRpbmc6IDE1cHggMzBweDsKfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uID0gJ2h0dHBzOi8vbS5lcXVpcGl0LmNvbScK</text>
+      <register name="1" type="4">
+        <text>,
+    &quot;@babel/preset-flow&quot;: &quot;^7.0.0&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -460,28 +472,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lm1haW5fbGF5b3V0IHsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgbWluLWhlaWdodDogMTAwdmg7Cn0KCi5zZWFyY2hfY29udGVudF9jb250YWluZXIgewogIEBpbmNsdWRlIGZsZXgtYm94OwogIGZsZXg6IDEgYXV0bzsKfQoKLmNhdGVnb3J5X3RpdGxlIHsKICBtYXJnaW46IDIwcHggMzBweDsKICBtYXJnaW4tYm90dG9tOiAxMHB4OwogIGZvbnQtc2l6ZTogMThweDsKICBmb250LXdlaWdodDogNTAwOwogIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Cn0K</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uID0gJ2h0dHBzOi8vbS5lcXVpcGl0LmNvbScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lm1haW5fbGF5b3V0IHsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgbWluLWhlaWdodDogMTAwdmg7Cn0KCi5zZWFyY2hfY29udGVudF9jb250YWluZXIgewogIEBpbmNsdWRlIGZsZXgtYm94OwogIGZsZXg6IDEgYXV0bzsKfQoKLmNhdGVnb3J5X3RpdGxlIHsKICBtYXJnaW46IDIwcHggMzBweDsKICBtYXJnaW4tYm90dG9tOiAxMHB4OwogIGZvbnQtc2l6ZTogMThweDsKICBmb250LXdlaWdodDogNTAwOwogIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci5tYWluX2xheW91dCB7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIG1pbi1oZWlnaHQ6IDEwMHZoOwp9Cgouc2VhcmNoX2NvbnRlbnRfY29udGFpbmVyIHsKICBAaW5jbHVkZSBmbGV4LWJveDsKICBmbGV4OiAxIGF1dG87Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci5tYWluX2xheW91dCB7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIG1pbi1oZWlnaHQ6IDEwMHZoOwp9Cgouc2VhcmNoX2NvbnRlbnRfY29udGFpbmVyIHsKICBAaW5jbHVkZSBmbGV4LWJveDsKICBmbGV4OiAxIGF1dG87Cn0KCg==</text>
+        <text encoding="base64">Ci5tYWluX2xheW91dCB7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIG1pbi1oZWlnaHQ6IDEwMHZoOwp9Cgouc2VhcmNoX2NvbnRlbnRfY29udGFpbmVyIHsKICBAaW5jbHVkZSBmbGV4LWJveDsKICBmbGV4OiAxIGF1dG87Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXVudXNlZC12YXJzCg==</text>
+        <text encoding="base64">Ci5tYWluX2xheW91dCB7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIG1pbi1oZWlnaHQ6IDEwMHZoOwp9Cgouc2VhcmNoX2NvbnRlbnRfY29udGFpbmVyIHsKICBAaW5jbHVkZSBmbGV4LWJveDsKICBmbGV4OiAxIGF1dG87Cn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXVudXNlZC12YXJzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3NOYW1lPSdoZHJfYnV0dG9uIGlucHV0Y29sb3JfQicgaHJlZj0naHR0cHM6Ly93d3cuZXF1aXBpdC5jb20nPlNpZ24gVXA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvPVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAhL3tcMH0vZ2U=</text>
