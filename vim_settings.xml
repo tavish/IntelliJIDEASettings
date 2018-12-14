@@ -13,12 +13,18 @@
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/querystring.js" timestamp="1502089409487">
         <mark key="'" line="211" column="17" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/Router.js" timestamp="1544821983349">
+        <mark key="'" line="4" column="40" />
+      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/ValidatedPasswordInput/index.js" timestamp="1502084632368">
         <mark key="'" line="26" column="46" />
         <mark key="[" line="21" column="70" />
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" timestamp="1544821891848">
+        <mark key="'" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-redux/es/index.js" timestamp="1501860927757">
         <mark key="'" line="2" column="7" />
@@ -33,8 +39,8 @@
       <file name="/Search.js" timestamp="1521068365322">
         <mark key="'" line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" timestamp="1502395859076">
-        <mark key="'" line="33" column="10" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" timestamp="1544821819753">
+        <mark key="'" line="6" column="9" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="17" />
@@ -86,8 +92,8 @@
         <mark key="^" line="100" column="8" />
         <mark key="." line="82" column="35" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/modules/session.js" timestamp="1505321800837">
-        <mark key="'" line="139" column="24" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/modules/session.js" timestamp="1544821843475">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="157" column="1" />
         <mark key="]" line="158" column="0" />
         <mark key="^" line="158" column="0" />
@@ -126,11 +132,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="57" />
       </file>
-      <file name="/Search.scss" timestamp="1521068528462">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/index.js" timestamp="1502088608445">
         <mark key="'" line="8" column="11" />
       </file>
@@ -164,13 +165,8 @@
         <mark key="." line="37" column="35" />
         <mark key="^" line="37" column="35" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" timestamp="1521061841557">
-        <mark key="'" line="222" column="25" />
-        <mark key="[" line="236" column="12" />
-        <mark key="]" line="236" column="7" />
-        <mark key="m" line="247" column="31" />
-        <mark key="^" line="236" column="7" />
-        <mark key="." line="236" column="7" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/node_modules/react-router/Router.js" timestamp="1544821991667">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/index.js" timestamp="1521058495059">
         <mark key="'" line="1" column="0" />
@@ -179,25 +175,14 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Search/components/Search.scss" timestamp="1521068532154">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/package.json" timestamp="1544537709249">
-        <mark key="'" line="108" column="33" />
-        <mark key="[" line="107" column="21" />
-        <mark key="]" line="108" column="34" />
-        <mark key="." line="107" column="21" />
-      </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router/es/Link.js" timestamp="1506963366821">
         <mark key="'" line="86" column="28" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Contact/components/Contact.scss" timestamp="1501692681645">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/main.js" timestamp="1502395781516">
-        <mark key="'" line="7" column="14" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/main.js" timestamp="1544821852227">
+        <mark key="'" line="0" column="19" />
         <mark key="[" line="17" column="60" />
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
@@ -212,6 +197,9 @@
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/react.js" timestamp="1501877760772">
         <mark key="'" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux/index.d.ts" timestamp="1544821790544">
+        <mark key="'" line="323" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/qs/lib/parse.js" timestamp="1502089729104">
         <mark key="'" line="142" column="40" />
@@ -229,6 +217,9 @@
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/routes.jsx" timestamp="1544819702170">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/history.js" timestamp="1544822020569">
+        <mark key="'" line="0" column="43" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc" timestamp="1501715443611">
         <mark key="'" line="237" column="12" />
       </file>
@@ -241,6 +232,9 @@
       </file>
       <file name="/package.json" timestamp="1544536806979">
         <mark key="'" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-dom/index.js" timestamp="1544821664271">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/LoginButton/index.js" timestamp="1506969280274">
         <mark key="'" line="83" column="15" />
@@ -333,8 +327,14 @@
         <mark key="." line="77" column="85" />
         <mark key="^" line="77" column="85" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/index.js" timestamp="1544818693158">
-        <mark key="'" line="76" column="8" />
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/App.jsx" timestamp="1544822030240">
+        <mark key="'" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/index.js" timestamp="1544821962974">
+        <mark key="'" line="39" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/index.js" timestamp="1544821855809">
+        <mark key="'" line="5" column="53" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/modules/api.js" timestamp="1521058420014">
         <mark key="'" line="0" column="19" />
@@ -346,11 +346,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="67" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" timestamp="1501784885370">
-        <mark key="'" line="0" column="0" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" timestamp="1544821762065">
+        <mark key="'" line="51" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.2.1/core-modules/path.js" timestamp="1501795192519">
         <mark key="'" line="186" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux-thunk/index.d.ts" timestamp="1544821805956">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="/index.html" timestamp="1543352024926">
         <mark key="'" line="31" column="0" />
@@ -365,7 +368,7 @@
         <mark key="^" line="14" column="74" />
         <mark key="." line="14" column="74" />
       </file>
-      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" timestamp="1505321741503">
+      <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" timestamp="1544821839621">
         <mark key="'" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/code/github.com--equipn--frontend-react/src/containers/AppNavBar/index.jsx" timestamp="1544819043454">
@@ -373,64 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/index.js" />
-      <jump line="7" column="26" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/SignUp.js" />
-      <jump line="230" column="22" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/SignUp.js" />
-      <jump line="268" column="44" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/SignUp.js" />
-      <jump line="3" column="5" filename="$USER_HOME$/code/github.com--equipn--frontend-react/.eslintrc" />
-      <jump line="232" column="39" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Signup/components/SignUp.js" />
-      <jump line="6" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/components/Viewer.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="14" column="39" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Viewer/modules/viewer.js" />
-      <jump line="7" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
-      <jump line="94" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="81" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="1" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="15" column="1" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.scss" />
-      <jump line="230" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="234" column="50" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="272" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="238" column="4" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="247" column="31" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="252" column="29" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="253" column="31" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="245" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="246" column="31" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="287" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="242" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="243" column="25" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="244" column="27" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="222" column="25" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/SignUp.js" />
-      <jump line="2" column="51" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="66" column="11" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/SignUp/components/ValidatedBirthdayInput/index.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Home/components/Home.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Home/components/Home.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Home/components/Home.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Home/components/Home.js" />
-      <jump line="42" column="61" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Profile/components/ProfileDisplayLayout/components/ListDisplay/components/ListItem/index.js" />
-      <jump line="10" column="9" filename="/Search.js" />
-      <jump line="35" column="28" filename="/Search.js" />
-      <jump line="17" column="1" filename="/Search.scss" />
-      <jump line="9" column="1" filename="/Search.scss" />
-      <jump line="22" column="0" filename="/Search.scss" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Search/components/Search.scss" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Search/components/Search.scss" />
-      <jump line="3" column="0" filename="/Search.scss" />
-      <jump line="8" column="0" filename="/Search.scss" />
-      <jump line="16" column="0" filename="/Search.scss" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Search/components/Search.scss" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Search/components/Search.scss" />
-      <jump line="13" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Search/components/Search.scss" />
-      <jump line="349" column="6" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" />
       <jump line="334" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" />
       <jump line="340" column="23" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" />
       <jump line="341" column="24" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/Builder/components/Build/components/Tools/utils.jsx" />
@@ -473,6 +418,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/node_modules/react-router/withRouter.js" />
       <jump line="52" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/node_modules/react-router/withRouter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/routes/routes.jsx" />
+      <jump line="13" column="16" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/main.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-dom/index.js" />
+      <jump line="312" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="314" column="18" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="316" column="10" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="322" column="31" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="369" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="46" column="66" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="307" column="33" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="47" column="12" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="51" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" />
+      <jump line="57" column="15" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" />
+      <jump line="8" column="46" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" />
+      <jump line="0" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" />
+      <jump line="301" column="16" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux/index.d.ts" />
+      <jump line="323" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux/index.d.ts" />
+      <jump line="1" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" />
+      <jump line="15" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux-thunk/index.d.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux-thunk/index.d.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux-thunk/index.d.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux-thunk/index.d.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/redux-thunk/index.d.ts" />
+      <jump line="4" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" />
+      <jump line="6" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/createStore.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/reducers.js" />
+      <jump line="203" column="24" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/modules/session.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/modules/session.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/main.js" />
+      <jump line="0" column="19" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="1839" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="20" column="41" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="1707" column="36" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="1833" column="33" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="1837" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="1690" column="37" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/cjs/react.development.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/App.jsx" />
+      <jump line="5" column="53" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react/index.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/App.jsx" />
+      <jump line="71" column="17" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/index.js" />
+      <jump line="39" column="45" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/Router.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/Router.js" />
+      <jump line="10" column="18" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/Router.js" />
+      <jump line="4" column="40" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/Router.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/node_modules/react-router/Router.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/node_modules/react-router/Router.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/github.com--equipn--frontend-react/node_modules/react-router-dom/node_modules/react-router/Router.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/App.jsx" />
+      <jump line="0" column="43" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/store/history.js" />
+      <jump line="3" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/App.jsx" />
+      <jump line="4" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/App.jsx" />
+      <jump line="5" column="9" filename="$USER_HOME$/code/github.com--equipn--frontend-react/src/components/App.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -485,7 +488,7 @@
         <text>'styles.card_title'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PT4=</text>
+        <text>export</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy50aXRsZSA/IDxoMyBzdHlsZU5hbWU9J3N0eWxlcy5jYXJkX3RpdGxlJz57dGhpcy5wcm9wcy50aXRsZX08L2gzPiA6IG51bGx9Cg==</text>
@@ -528,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PT4=</last-search>
+      <last-search>export</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PT4=</last-pattern>
+      <last-pattern>export</last-pattern>
       <last-replace>{\0}</last-replace>
       <last-substitute encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</last-substitute>
       <last-dir>1</last-dir>
@@ -538,8 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cproptypes</entry>
-        <entry encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrJ31cQCE=</entry>
         <entry>\/\/ eslint-disable-line no-unused-vars</entry>
         <entry encoding="base64">PVxAPD0nXCUoc3R5bGVzXHxTdHlsZUxpYlwpXC5cd1wrXCUoXHNcK1wlKHN0eWxlc1x8U3R5bGVMaWJcKVwuXHdcK1wpKid9XEAh</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
@@ -558,6 +559,8 @@
         <entry encoding="base64">XCh3aXRoUm91dGVyXClcJSheXCUoW14iXSoiXCUoW14iXSpcXCJcKSpbXiJdKlxcXEA8ISJcKSpbXiJdKiJcJShbXiJdKlxcIlwpKlteIl0qXDFcfFwxXCUoLiogPSB1bmRlZmluZWQ7XD8kXClcQD1cKVxAPD0=</entry>
         <entry encoding="base64">XCh3aXRoUm91dGVyXClcJSheXCUoW14iXSoiXCUoW14iXSpcXCJcKSpbXiJdKlxcXEA8ISJcKSpbXiJdKiJcJShbXiJdKlxcIlwpKlteIl0qXDFcfFwxXCUoLiogPSB1bmRlZmluZWQ7XD8kXClcQD1cKVxAPCE=</entry>
         <entry encoding="base64">PT4=</entry>
+        <entry>import</entry>
+        <entry>export</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIFxAPD1jbGFzcz0iXChbXiJdKlwpIi9jbGFzc05hbWU9J1wxJy9nZQ==</entry>
